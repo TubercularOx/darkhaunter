@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page_title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #0078D7;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            text-align: left;
+        }
+        footer {
+            background-color: #222;
+            color: #ccc;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #0078D7;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{ header_title }}</h1>
+        <p>{{ header_subtitle }}</p>
+    </header>
+    <main>
+        <h2>{{ main_heading }}</h2>
+        <p>{{ main_content }}</p>
+        <section>
+            <h2>{{ section_heading }}</h2>
+            <ul style="list-style: none; padding: 0; margin: 20px 0;">
+                {% for item in section_items %}
+                <li style="margin-bottom: 10px;">
+                    <a href="{{ item.link }}" target="_blank" style="font-weight: bold; text-decoration: none;">
+                        {{ item.title }}
+                    </a>
+                    <p style="margin: 5px 0;">{{ item.description }}</p>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; {{ year }} {{ footer_text }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>
