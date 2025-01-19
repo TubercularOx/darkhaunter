@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Fine Line: How the Hunting Horror Doesn't Fit</title>
+    <title>My Static Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -18,6 +18,13 @@
             color: white;
             padding: 20px 0;
             text-align: center;
+            position: relative;
+        }
+        .header-link {
+            display: block;
+            color: white;
+            font-size: 14px;
+            margin-top: 5px;
         }
         main {
             max-width: 800px;
@@ -44,74 +51,20 @@
         a:hover {
             text-decoration: underline;
         }
-        blockquote {
-            background: #eee;
-            border-left: 4px solid #0078D7;
-            padding: 10px;
-            margin: 10px 0;
-        }
     </style>
 </head>
 <body>
     <header>
-        <h1>The Fine Line: How the Hunting Horror Doesn't Fit</h1>
+        <h1>My Static Page</h1>
+        <a href="index.html" class="header-link">Back to Home</a>
+        <p>Subtitle goes here</p>
     </header>
     <main>
-<h2>Introduction</h2>
-        <blockquote>
-            <p><strong>Rich Burlew, War and XPs c.368</strong></p>
-            <p>I realize that the line between something I made up and something someone else made up is a pretty fine one, but I trust that someone will figure it out eventually.</p>
-        </blockquote>
-        <p>The Monster in the Dark does not perfectly match the Hunting Horror. Rich made changes to its stats, sometimes to make it fit better, other times because it enabled the story. The fine line he refers to is the one he had to walk—keeping the Monster in the Dark recognizable as a Hunting Horror while ensuring it served the story in ways that sometimes diverged from its original form. This balancing act made it possible to figure out eventually, but only with careful observation.</p>
-
-        <h2>Theme and Appearance</h2>
-        <p>As mentioned on the front page, Rich had to make changes to the Hunting Horror's theme and appearance. He was fortunate to be able to opt for a two-eyed version and demonstrated skill in converting Cosmic Horror into Comical Errors. The transformation of Nyarlathotep into the Snarl was a significant departure, testing the boundaries of adaptation while staying just within the fine line.</p>
-
-        <h2>Size Discrepancy</h2>
-        <p>The Hunting Horror is Huge, while the Monster in the Dark is Large. Rich resolved this by making the Hunting Horror a child, allowing it to fit within the established size constraints. While the Hunting Horror itself lacks age categories, it does have the Dragon type. Rich may have drawn inspiration from dragon progressions while consciously disregarding the lack of explicit age categories in the Hunting Horror’s stat block.</p>
-
-        <h2>Alignment</h2>
-        <p>Call of Cthulhu monsters do not have a printed alignment, which may have given Rich greater flexibility in shaping the Monster in the Dark’s role in the story. Without a predefined moral framework, he could explore a more fluid characterization without contradicting established lore.</p>
-        <p>The Call of Cthulhu rulebook does contain an appendix with alignment conversions, but it is obscure enough that Rich may have already solidified his approach before ever encountering it.</p>
-
-        <h2>The Shock Wave Feat</h2>
-        <p>The Hunting Horror is printed with the <em>Shot on the Run</em> feat, but it doesn’t qualify for it—it lacks the prerequisites. Even if it had those, its only ranged attack is a vomit ability, making the feat an odd choice.</p>
-        <p>However, the Hunting Horror does qualify for <em>Shock Wave</em> (Draconomicon, p. 73). Swapping out <em>Shot on the Run</em> for <em>Shock Wave</em> serves two purposes.</p>
-        <ul>
-            <li>It enables the earthquake scene—the Monster in the Dark strikes the ground so hard with its tail that it knocks other creatures down and damages structures and unattended objects.</li>
-            <li>People who accepted the <em>Shock Wave</em> interpretation would conclude that the Monster in the Dark is a Dragon, as <em>Shock Wave</em> requires the Dragon type. Likewise, those who started from the assumption that the Monster in the Dark was a Dragon would naturally be drawn to the <em>Shock Wave</em> feat as supporting evidence.</li>
-        </ul>
-        <p>The thread identified <em>Shock Wave</em> early on as a strong possibility for the earthquake scene. However, later discussions moved away from this conclusion due to concerns that the way Rich depicted the scene was more exaggerated than the feat’s description implied.</p>
-
-        <h2>The Escape Spell</h2>
-        <p>The Escape Scene is best understood as a <em>Call of Cthulhu</em> spell cast by the Monster in the Dark.</p>
-
-        <h3>How Call of Cthulhu Spells Work</h3>
-        <ul>
-            <li>They cannot share a name with their template spell.</li>
-            <li>They must differ in one or two ways from their template spell.</li>
-            <li>They always retain an aura of mystery and strangeness, never being easy, mechanical, mundane, or safe.</li>
-        </ul>
-
-        <h3>Word of Recall → Escape</h3>
-        <p>The spell in question is a variant of <em>Word of Recall</em>, renamed to <em>Escape</em>:</p>
-        <ul>
-            <li>Instead of requiring a chosen sanctuary at casting, it picks one automatically.</li>
-            <li>It excludes the caster, either specifically or optionally.</li>
-            <li>Aside from these changes, it functions the same way.</li>
-        </ul>
-
-        <h3>Why This Matters</h3>
-        <p>The <em>Escape Scene</em> stands out because:</p>
-        <ul>
-            <li>Teleportation effects in D&D do not typically function this way, making the spell feel strange and mysterious.</li>
-            <li>Its climactic use in <em>Don’t Split the Party</em> reinforces the mystical and unsettling nature of <em>Call of Cthulhu</em> magic.</li>
-            <li>Rich further emphasizes this by showing the Monster in the Dark failing to activate it later, underscoring the inherent unpredictability of these spells.</li>
-        </ul>
-
-        <p>In hindsight, the <em>Escape</em> spell may have tested the fine line more than intended. It became a daunting shibboleth—an expectation that no candidate could meet without exceeding the boundaries of its own stat block.</p>
-        <p>In the case of the Hunting Horror, <em>Escape</em> was a spell Rich had to construct within the template system's constraints. For the Monster in the Dark, learning it would require a standard method—either being taught by another or having it impressed upon its mind by a greater power. This additional complexity blurred the boundary between an organic part of the character and an external addition, making it harder to distinguish what was intrinsic to the Hunting Horror and what was imposed on the Monster in the Dark by the story's needs.</p>
-        </main>
+        <h2>Page Heading</h2>
+        <div id="content">
+            <!-- Content will be inserted here -->
+        </div>
+    </main>
     <footer>
         <p>&copy; 2025 Tubercular Ox. All rights reserved.</p>
     </footer>
