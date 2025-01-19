@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page_title }}</title>
+    <title>My Static Page</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,31 +53,20 @@
 </head>
 <body>
     <header>
-        <h1>{{ header_title }}</h1>
-        <p>{{ header_subtitle }}</p>
+        <h1>My Static Page</h1>
+        <p>Subtitle goes here</p>
     </header>
+    <div class="back-to-index">
+        <a href="index.html">Back to Home</a>
+    </div>
     <main>
-        <h2>{{ main_heading }}</h2>
-        <p>{{ main_content }}</p>
-        <div class="back-to-index">
-            <a href="index.html">Back to Home</a>
+        <h2>Page Heading</h2>
+        <div id="content">
+            <!-- Content will be inserted here -->
         </div>
-        <section>
-            <h2>{{ section_heading }}</h2>
-            <ul style="list-style: none; padding: 0; margin: 20px 0;">
-                {% for item in section_items %}
-                <li style="margin-bottom: 10px;">
-                    <a href="{{ item.link }}" target="_blank" style="font-weight: bold; text-decoration: none;">
-                        {{ item.title }}
-                    </a>
-                    <p style="margin: 5px 0;">{{ item.description }}</p>
-                </li>
-                {% endfor %}
-            </ul>
-        </section>
     </main>
     <footer>
-        <p>&copy; {{ year }} Tubercular Ox. All rights reserved.</p>
+        <p>&copy; 2025 Tubercular Ox. All rights reserved.</p>
     </footer>
 </body>
 </html>
