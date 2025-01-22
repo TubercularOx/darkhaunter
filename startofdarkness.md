@@ -1,3 +1,6 @@
+---
+nav_order: 2
+---
 # The Enlightening Start of Darkness
 
 Start of Darkness is unique in how it presents the Monster in the Dark. In other books, either the Monster in the Dark does something and we are left to guess how it did it, or it refers to its own abilities so obliquely that understanding them almost requires prior knowledge of what it is.
