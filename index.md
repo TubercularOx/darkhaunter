@@ -4,7 +4,7 @@ nav_order: 1
 
 # The Haunter of the Dark
 
-**Ladies and gentlemen, gather round!** The unthinkable has finally happened: **The Monster in the Dark is a Hunting Horror!**
+**Ladies and gentlemen, gather round!** The unthinkable has finally happened: **The Monster in the Dark has been revealed as a Hunting Horror!**
 
 Or at least, that’s how this is written—because rewriting everything after the reveal would be an eldritch nightmare all its own.
 
