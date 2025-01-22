@@ -62,7 +62,7 @@ Several details reinforce the connection between *Escape* and *Call of Cthulhu*
 
 - Teleportation effects in D&D do not typically function this way, making the spell feel strange and mysterious when it is finally used.
 
-- The Monster in the Dark gambles everything—casting *Escape* under Xykon's watchful eye could have meant  death.  *Call of Cthulhu* magic is always a last resort.
+- The Monster in the Dark gambles everything—casting *Escape* under Xykon's watchful eye could have meant  death.  *Call of Cthulhu* magic is never safe and always a last resort.
 
 ### Foreshadowing and Reinforcement
 
