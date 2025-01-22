@@ -1,9 +1,6 @@
-title: "The Haunter of the Dark as Monster in the Dark"
+title: "Hunting Horror"
 description: "Explaining how the Monster in the Dark fits as a Hunting Horror"
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 logo: "/huntinghorror.png"  # Optional
 favicon_ico: "/favicon.ico"  # Optional
-just_the_docs:
-  nav_order:  # Global order
-    - index.md
