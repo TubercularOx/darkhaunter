@@ -4,7 +4,7 @@ Start of Darkness is unique in how it presents the Monster in the Dark. In other
 
 Start of Darkness takes a different approach. Instead of leaving room for ambiguity, the Monster in the Dark and those around it sometimes provide direct statements about its nature. This makes it possible to compare its characteristics directly to its statblock, removing much of the speculation that other books necessitate.
 
-### **Speech and Language**
+## **Speech and Language**
 
 **Quote:**
 
@@ -12,7 +12,7 @@ Start of Darkness takes a different approach. Instead of leaving room for ambigu
 
 **Hunting Horror Trait:** Hunting Horrors "rarely speak," but they understand instructions in any language. They are also supposed to be able to project emotions at will, but the Monster in the Dark doesn’t seem to use that ability. Perhaps this is because it is one of the rare Hunting Horrors that speaks instead.
 
-### **Habitat and Presence**
+## **Habitat and Presence**
 
 **Quote:**
 
@@ -20,7 +20,7 @@ Start of Darkness takes a different approach. Instead of leaving room for ambigu
 
 **Hunting Horror Trait:** Its listed habitat is *"Any nighttime or sunless place"*, but *Start of Darkness* clearly dedicates an entire panel to establishing the jungle as sunny, making its presence unexpected.
 
-### **Scent and Stench**
+## **Scent and Stench**
 
 **Quote:**
 
@@ -28,7 +28,7 @@ Start of Darkness takes a different approach. Instead of leaving room for ambigu
 
 **Hunting Horror Trait:** For a long time, this seemed like a plot hole—why is the Monster in the Dark’s smell mentioned once and never again? If it’s just another character, that’s odd. If it’s a D&D monster with a strong odor, the same question applies. And if it’s a D&D monster without a smell, why mention it at all? The Hunting Horror fits the first category, with a powerful stench that causes nausea. The reveal finally resolved this by showing how the Monster in the Dark was neutralizing its scent.
 
-### **Fear and Sanity**
+## **Fear and Sanity**
 
 **Quotes:**
 
@@ -44,7 +44,7 @@ The circus workers are unaffected because repeated exposure to the same kind of 
 
 The goblins are safe because Call of Cthulhu rules distinguish between PC races and monsters. Monsters are explicitly immune to sanity checks. This distinction between PC races and monsters might have inspired Rich’s broader exploration of that theme in *Order of the Stick*.
 
-### **Charisma and Beauty**
+## **Charisma and Beauty**
 
 **Quote:**
 
@@ -52,7 +52,7 @@ The goblins are safe because Call of Cthulhu rules distinguish between PC races 
 
 **Hunting Horror Trait:** Hunting Horrors have a default Charisma score of 21. There's some inconsistency in how its appearance is described—Xykon later calls it ugly—but this likely emphasizes its unsettling nature rather than strictly its physical looks. Rich may have included this line to prevent players from disqualifying candidates based on Charisma alone.
 
-### **Rarity**
+## **Rarity**
 
 **Quote:**
 
@@ -60,7 +60,7 @@ The goblins are safe because Call of Cthulhu rules distinguish between PC races 
 
 **Hunting Horror Trait:** The character who delivers this line appears knowledgeable and well-read on monsters, likely having studied every Monster Manual, which makes their inability to identify the creature significant. However, the Hunting Horror is printed in *d20 Call of Cthulhu*, an official WotC product that exists entirely outside the D&D setting. While it uses the same rules system as D&D, it is designed for a fundamentally different style of play, focusing on horror and sanity mechanics. An appendix provides several options on how to integrate these elements into a standard D&D campaign, including the possibility of using the monsters as written without adapting the horror mechanics.
 
-### **Hunger and Feeding**
+## **Hunger and Feeding**
 
 **Quotes:**
 
@@ -72,4 +72,4 @@ The goblins are safe because Call of Cthulhu rules distinguish between PC races 
 
 It also has an explicit Vomit attack, which is reflected when Xykon orders the Monster in the Dark to spit out Redcloak’s amulet.
 
-Rich’s repeated use of the word "devour" appears to be influenced by the Hunting Horror’s Summon Spell, which explicitly describes the creature devouring its victims. I counted every instance of the word in the comic, and only the Monster in the Dark and The Snarl have it applied to them more than once.
+Rich’s repeated use of the word "devour" appears to be influenced by the Hunting Horror’s Summon Spell, which explicitly describes the creature devouring its victims. Only the Monster in the Dark and The Snarl have the word repeatedly applied to them, other creatures see it used at most once.
