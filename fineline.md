@@ -54,14 +54,19 @@ The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 - It excludes the caster, either specifically or optionally.
 - Aside from these changes, it functions the same way.
 
-### Why This Matters
+### Reinforcing the Connection
 
-The *Escape Scene* stands out because:
+Several details reinforce the connection between *Word of Recall* and *Escape*:
 
 - Teleportation effects in D&D do not typically function this way, making the spell feel strange and mysterious.
 - Its climactic use in *Don’t Split the Party* reinforces the mystical and unsettling nature of *Call of Cthulhu* magic.
 - Rich further emphasizes this by showing the Monster in the Dark failing to activate it later, underscoring the inherent unpredictability of these spells.
+- Having the Monster in the Dark try a number of synonyms when it attempts to recast *Escape* primes us to think of renamed spells.
+- Having Redcloak use *Word of Recall* earlier in the scene reinforces the connection by introducing the original spell before its variant appears. 
+
+### The Fine Line and *Escape*
 
 In hindsight, the *Escape* spell may have tested the fine line more than intended. It became a daunting shibboleth—an expectation that no candidate could meet without exceeding the boundaries of its own stat block.&#x20;
 
-In the case of the Hunting Horror, Escape was a spell Rich had to construct within the template system's constraints. For the Monster in the Dark, learning it would require a standard method—either being taught by another or having it impressed upon its mind by a greater power. This additional complexity blurred the boundary between an organic part of the character and an external addition, making it harder to distinguish what was intrinsic to the Hunting Horror and what was imposed on the Monster in the Dark by the story's needs.
+In the case of the Hunting Horror, *Escape* was a spell Rich had to construct within the template system's constraints. For the Monster in the Dark, learning it would require a standard method—either being taught by another or having it impressed upon its mind by a greater power. This additional complexity blurred the boundary between an organic part of the character and an external addition, making it harder to distinguish what was intrinsic to the Hunting Horror and what was imposed on the Monster in the Dark by the story's needs.
+
