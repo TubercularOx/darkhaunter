@@ -29,7 +29,7 @@ Start of Darkness takes a different approach. Instead of leaving room for ambigu
 
 > *"Sorry about the smell."*
 
-**Hunting Horror Trait:** For a long time, this seemed like a plot hole—why is the Monster in the Dark’s smell mentioned once and never again? If it’s just another character, that’s odd. If it’s a D&D monster with a strong odor, the same question applies. And if it’s a D&D monster without a smell, why mention it at all? The Hunting Horror fits the first category, with a powerful stench that causes nausea. The reveal finally resolved this by showing how the Monster in the Dark was neutralizing its scent.
+**Hunting Horror Trait:** For a long time, this seemed like a plot hole—why is the Monster in the Dark’s smell mentioned once and never again? If it’s a D&D monster with a strong odor, where did the smell go? And if it’s a D&D monster without a smell, where did it come from for this scene? The Hunting Horror fits the first category, with a powerful stench that causes nausea. The reveal finally resolved this by showing how the Monster in the Dark was neutralizing its scent.
 
 ## **Fear and Sanity**
 
