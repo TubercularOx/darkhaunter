@@ -18,9 +18,9 @@ The Hunting Horror is Huge, and can grow all the way to Colossal, while the Mons
 
 ## Alignment
 
-Call of Cthulhu monsters do not have a printed alignment, which may have given Rich greater flexibility in shaping the Monster in the Dark’s role in the story. Without a predefined moral framework, he could explore a more fluid characterization without contradicting established lore. This allowed him to tell a story about an evil monster becoming good—a theme that wouldn't have worked as well if the creature had a fixed alignment.
+*Call of Cthulhu* monsters do not have a printed alignment, which may have given Rich greater flexibility in shaping the Monster in the Dark’s role in the story. Without a predefined moral framework, he could explore a more fluid characterization without contradicting established lore. This allowed him to tell a story about an evil monster becoming good—a theme that wouldn't have worked as well if the creature had a fixed alignment.
 
-The Call of Cthulhu rulebook does contain an appendix with alignment conversions, but it is obscure enough that Rich may have already solidified his approach before ever encountering it.
+The *Call of Cthulhu* rulebook does contain an appendix with alignment conversions, but it is obscure enough that Rich may have already solidified his approach before ever encountering it.
 
 ## The Shock Wave Feat
 
@@ -58,11 +58,11 @@ The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 
 Several details reinforce the connection between *Escape* and *Call of Cthulhu* magic:
 
-- Its climactic use in Don’t Split the Party reinforces the desperate and unsettling nature of Call of Cthulhu magic.
+- Its climactic use in *Don’t Split the Party* reinforces the desperate and unsettling nature of *Call of Cthulhu* magic.
 
 - Teleportation effects in D&D do not typically function this way, making the spell feel strange and mysterious when it is finally used.
 
-- The Monster in the Dark risks everything to make the spell work—casting *Escape* under Xykon's watchful eye could have meant instant death, reinforcing the idea that magic is never safe.
+- The Monster in the Dark gambles everything—casting *Escape* under Xykon's watchful eye could have meant  death.  *Call of Cthulhu* magic is always a last resort.
 
 ### Foreshadowing and Reinforcement
 
