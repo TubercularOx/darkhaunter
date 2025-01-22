@@ -56,7 +56,7 @@ The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 
 ### Reinforcing the Connection
 
-Several details reinforce the connection between *Word of Recall* and *Escape*:
+Several details reinforce the connection between *Escape* and *Call of Cthulhu* magic:
 
 - Its climactic use in Don’t Split the Party reinforces the desperate and unsettling nature of Call of Cthulhu magic.
 
