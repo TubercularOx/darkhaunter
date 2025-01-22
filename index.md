@@ -1,3 +1,6 @@
+---
+title: "Direct References"
+---
 **Ladies and gentlemen, gather round!** The unthinkable has finally happened: **The Monster in the Dark is a Hunting Horror!**
 
 I know this revelation has rattled your sanity, but fear not! Together, we’ll untangle the eldritch threads and make peace with the cosmic horrors of canon.
