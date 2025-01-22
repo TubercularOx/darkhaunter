@@ -54,15 +54,17 @@ The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 - It excludes the caster, either specifically or optionally.
 - Aside from these changes, it functions the same way.
 
-### Reinforcing the Connection
+### Meeting the Requirements
 
-Several details reinforce the connection between *Escape* and *Call of Cthulhu* magic:
+Several details reinforce the connection between *Escape* and *Call of Cthulhu* magic:
 
-- Its climactic use in *Don’t Split the Party* reinforces the desperate and unsettling nature of *Call of Cthulhu* magic.
+- Its climactic use in Don’t Split the Party underscores the narrative weight that Call of Cthulhu magic always demands.
+- The Monster in the Dark gambles everything—casting Escape with Xykon watching could have meant  death.  Call of Cthulhu magic is never safe and always a last resort.
 - Teleportation effects in D&D do not typically function this way, making the spell feel strange and mysterious when it is finally used.
-- The Monster in the Dark gambles everything—casting *Escape* under Xykon's watchful eye could have meant  death.  *Call of Cthulhu* magic is never safe and always a last resort.
 
 ### Foreshadowing and Reinforcement
+
+Rich provides a few clues to guide us toward the connection to *Call of Cthulhu* magic.
 
 - Redcloak using *Word of Recall* earlier in the scene introduces the original spell before its variant appears.
 - In a later scene, the Monster in the Dark fails to activate *Escape*, reinforcing the idea that *Call of Cthulhu* spells are unpredictable and not purely mechanical.
