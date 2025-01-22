@@ -61,7 +61,7 @@ The goblins are safe because Call of Cthulhu rules distinguish between PC races 
 
 > *"I've never seen anything like it."*
 
-**Hunting Horror Trait:** The character who delivers this line appears knowledgeable and well-read on monsters, likely having studied every Monster Manual, which makes their inability to identify the creature significant. However, the Hunting Horror is printed in *d20 Call of Cthulhu*, an official WotC product that exists entirely outside the D&D setting. While it uses the same rules system as D&D, it is designed for a fundamentally different style of play, focusing on horror and sanity mechanics. An appendix provides several options on how to integrate these elements into a standard D&D campaign, including the possibility of using the monsters as written without adapting the horror mechanics.
+**Hunting Horror Trait:** The character who delivers this line appears knowledgeable and well-read, likely having studied every Monster Manual, which makes their inability to identify the creature significant. However, the Hunting Horror is printed in *d20 Call of Cthulhu*, an official WotC product that exists entirely outside the D&D setting. While it uses the same rules system as D&D, it is designed for a fundamentally different style of play, focusing on horror and sanity mechanics. An appendix provides several options on how to integrate these elements into a standard D&D campaign, including the possibility of using the monsters as written without adapting the horror mechanics.
 
 ## **Hunger and Feeding**
 
