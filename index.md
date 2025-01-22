@@ -6,7 +6,7 @@ nav_order: 1
 
 **Ladies and gentlemen, gather round!** The unthinkable has finally happened: **The Monster in the Dark is a Hunting Horror!**
 
-I know this revelation has rattled your sanity, but fear not! Together, we’ll untangle the eldritch threads and make peace with the cosmic horrors of canon.
+Or at least, that’s how this is written—because rewriting everything after the reveal would be an eldritch nightmare all its own.
 
 ## Why the Hunting Horror?
 
