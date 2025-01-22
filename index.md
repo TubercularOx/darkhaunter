@@ -1,5 +1,5 @@
 ---
-title: "Direct References"
+title: "The Haunter of the Dark"
 ---
 **Ladies and gentlemen, gather round!** The unthinkable has finally happened: **The Monster in the Dark is a Hunting Horror!**
 
