@@ -14,7 +14,7 @@ As mentioned on the front page, Rich had to make changes to the Hunting Horror's
 
 ## Size Discrepancy
 
-The Hunting Horror is Huge, while the Monster in the Dark is Large. Rich resolved this by making the Hunting Horror a child, allowing it to fit within the established size constraints. While the Hunting Horror itself lacks age categories, it does have the Dragon type. Rich may have drawn inspiration from dragon progressions while consciously disregarding the lack of explicit age categories in the Hunting Horror’s stat block.
+The Hunting Horror is Huge, and can grow all the way to Colossal, while the Monster in the Dark is Large. Rich resolved this by making the Hunting Horror a child, allowing it to fit within the established size constraints. While the Hunting Horror itself lacks age categories, it does have the Dragon type. Rich may have drawn inspiration from dragon progressions while consciously disregarding the lack of explicit age categories in the Hunting Horror’s stat block.
 
 ## Alignment
 
