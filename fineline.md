@@ -59,9 +59,7 @@ The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 Several details reinforce the connection between *Escape* and *Call of Cthulhu* magic:
 
 - Its climactic use in *Don’t Split the Party* reinforces the desperate and unsettling nature of *Call of Cthulhu* magic.
-
 - Teleportation effects in D&D do not typically function this way, making the spell feel strange and mysterious when it is finally used.
-
 - The Monster in the Dark gambles everything—casting *Escape* under Xykon's watchful eye could have meant  death.  *Call of Cthulhu* magic is never safe and always a last resort.
 
 ### Foreshadowing and Reinforcement
