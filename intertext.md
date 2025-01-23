@@ -1,10 +1,12 @@
-# Intertextual Moments
+# Not Really Foreshadowing
 
 Rich created a number of intertextual moments for the Monster in the Dark: Scenes that stand on their own but gain additional meaning by referring to an external text, specifically the Monster in the Dark's D&D stats.  Since this other text wasn't defined until  the reveal, these moments are also a kind of prolepsis.&#x20;
 
 These moments don’t function as traditional foreshadowing, as they don’t predict events in the story. Instead, they serve as subtle evidence that Rich always intended the Monster in the Dark to be a Hunting Horror,  rewarding readers familiar with D&D mechanics while seamlessly fitting into the story for all audiences.
 
 ## The Rope Scene
+
+[Comic 701](https://www.giantitp.com/comics/oots0701.html)
 
 In the rope scene, the Monster in the Dark says:
 
@@ -23,6 +25,8 @@ This line aligns with the Hunting Horror’s abilities:
      > *"Calling upon the name of Great Cthulhu, you summon magical energies that wrap around a subject, holding it motionless. Each round, the subject takes 2d6 points of subdual damage. The grasp can render targets unconscious but cannot kill."*
 
 ## The "Poor Mr. Stiffly" Scene
+
+[Comic 543](https://www.giantitp.com/comics/oots0543.html)
 
 In this scene, the Monster in the Dark says:
 
@@ -44,6 +48,8 @@ Under this theory, the sequence could be interpreted as follows:
 - In this case, the Monster focuses on O-Chul and wishes him good luck instead. However, *Evil Eye* can only inflict bad luck, so nothing happens. This disconnect leads to the humorous dialogue in the strip.
 
 ## The Zombie Dwarves Scene
+
+[Comic 1260](https://www.giantitp.com/comics/oots1260.html)
 
 In this scene, Xykon says:
 
