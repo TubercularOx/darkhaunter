@@ -56,7 +56,7 @@ The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 
 ### Meeting the Requirements
 
-Several details reinforce the connection between *Escape* and *Call of Cthulhu* magic:
+Several details underscore the connection between *Escape* and *Call of Cthulhu* magic:
 
 - Its climactic use in *Don’t Split the Party* underscores the narrative weight that *Call of Cthulhu* magic always demands.
 - The Monster in the Dark gambles everything—casting *Escape* with Xykon watching could have meant  death.  *Call of Cthulhu* magic is never safe and always a last resort.
