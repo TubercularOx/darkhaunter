@@ -15,9 +15,11 @@ In its traditional lore, the Hunting Horror, also known as the Haunter of the Da
 
 Hunting Horrors serve Nyarlathotep, a link that could complicate the story’s narrative independence. But what if Rich intentionally created the Snarl—a god-eating horror—as a substitute for Nyarlathotep? This substitution allows the Hunting Horror’s mythos to integrate into *The Order of the Stick*. It deepens the Snarl’s significance and makes the Monster in the Dark an essential part of the story.
 
-## Visual and Thematic Match
+## Visual Match
 
 The Hunting Horror’s visual characteristics align closely with the Monster in the Dark. Both creatures are in the dark, something not every candidate achieved, and the Monster’s yellow eyes, visible even in shadow, evoke the Hunting Horror’s burning yellow ones. While standard Hunting Horrors are described with three-lobed eyes, variants with two eyes exist, so the connection isn't broken.
+
+## Thematic Match
 
 The Monster in the Dark began as an obedient monster lurking in darkness until commanded to kill. However, its comedic misunderstanding of its role—focusing on release from darkness instead of obedience—parodies the archetypal shadowy enforcer, which the Hunting Horror embodies.
 
