@@ -35,9 +35,9 @@ Start of Darkness takes a different approach. Instead of leaving room for ambigu
 
 **Quotes:**
 
-> *"It's horrible!"*
->
 > *"Look on in awe and terror."*
+>
+> *"It's horrible!"*
 >
 > *"Almost everyone ... recoils in abject horror at the sight of you."*
 
