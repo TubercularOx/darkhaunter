@@ -36,7 +36,7 @@ The thread identified *Shock Wave* early on as a strong possibility for the eart
 
 ## The Escape Spell
 
-The Escape Scene is best understood as a *Call of Cthulhu* spell cast by the Monster in the Dark.&#x20;
+In the Escape Scene, the Monster in the Dark casts a Call of Cthulhu spell.&#x20;
 
 ### How Call of Cthulhu Spells Work
 
