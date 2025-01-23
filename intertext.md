@@ -12,14 +12,14 @@ In the rope scene, the Monster in the Dark says:
 
 > *"I'm a lot better at pushing than pulling. Pulling has all those tricky parts where you hold something and move it at the same time."*
 
-This line aligns with the Hunting Horror’s abilities:
+This line aligns with two of the Hunting Horror’s Spell Like Abilities:
 
-1. **"Better at pushing": Fist of Yog-Sothoth**
+1. **"Better at pushing":** ***Fist of Yog-Sothoth***
 
    - This spell allows the Hunting Horror to push targets with magical force but not pull them:
      > *"You can pummel a foe with a magical blow. The force strikes like a big fist, dealing 1d6 points of damage per caster level (maximum 10d6). The target is subjected to a bum's rush attack as if the fist had a Strength equal to the caster's Intelligence and was Large."*
 
-2. **"Tricky parts of pulling": Grasp of Cthulhu**
+2. **"Tricky parts of pulling":** ***Grasp of Cthulhu***
 
    - This spell allows the Hunting Horror to hold people in place but not move them:
      > *"Calling upon the name of Great Cthulhu, you summon magical energies that wrap around a subject, holding it motionless. Each round, the subject takes 2d6 points of subdual damage. The grasp can render targets unconscious but cannot kill."*
@@ -38,7 +38,7 @@ When Tsukiko sarcastically responds, the Monster doubles down, agreeing earnestl
 
 > *"Me neither!"*
 
-For readers not interested in D&D statistics, this moment plays as a joke about the Monster in the Dark's comical misunderstanding of how reality works. However, when viewed intertextually, it probably alludes to the Hunting Horror’s spell *Evil Eye*, which uses magical intent to curse a target with bad luck:
+For readers not interested in D&D statistics, this moment plays as a joke about the Monster in the Dark's comical misunderstanding of how reality works. However, when viewed intertextually, it probably alludes to the Hunting Horror’s Spell-Like Ability *Evil Eye*, which uses magical intent to curse a target with bad luck:
 
 > *"You focus magical energy through your gaze and curse someone with bad luck. You must have line of sight to your target when casting this spell. The subject suffers a -4 luck penalty to all attack rolls, checks, and saves. The spell ends at the next sunrise, until dismissed, or until the caster takes at least 1 point of damage from the subject."*
 
@@ -74,3 +74,7 @@ The phrase 'your kind' shifts the focus from the Monster in the Dark to the Hunt
 The Monster’s hesitation implies that Xykon, while misremembering, is referencing something true about the Monster in the Dark.&#x20;
 
 Finally, Xykon’s suggestion to zombify the dwarves reframes them as undead, creating a parallel to the ghouls in Lovecraft’s story and strengthening the thematic link.
+
+---
+
+*Spell-Like Abilities in Call of Cthulhu are spared the usage restrictions mentioned in The Fine Line, the Hunting Horror can use them freely.*
