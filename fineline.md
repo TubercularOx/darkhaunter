@@ -36,9 +36,9 @@ The thread identified *Shock Wave* early on as a strong possibility for the eart
 
 ## The Escape Spell
 
-In the Escape Scene, the Monster in the Dark casts a Call of Cthulhu spell.&#x20;
+In the Escape Scene, the Monster in the Dark casts a *Call of Cthulhu* spell named *Escape*.
 
-### How Call of Cthulhu Spells Work
+### How *Call of Cthulhu* Spells Work
 
 These spells follow a template system:
 
@@ -46,7 +46,7 @@ These spells follow a template system:
 - They must differ in one or two ways from their template spell.
 - They always retain an aura of mystery and strangeness, never being easy, mechanical, mundane, or safe.
 
-### Word of Recall → Escape
+### *Word of Recall → Escape*
 
 The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 
