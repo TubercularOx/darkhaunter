@@ -1,7 +1,6 @@
 ---
 nav_order: 1
 ---
-
 # The Haunter of the Dark
 
 **Ladies and gentlemen, gather round!** The unthinkable has finally happened: **The Monster in the Dark has been revealed as a Hunting Horror!**
@@ -10,7 +9,7 @@ Or at least, that’s how this is written—because rewriting everything after t
 
 ## Why the Hunting Horror?
 
-The Hunting Horror, also known as the Haunter of the Dark, is a perfect match for the Monster in the Dark. In its traditional lore, the Hunting Horror obeys evil sorcerers, lurking in shadows until called to fetch or kill. This fits the Monster’s role early in the comic—an obedient force confined to darkness—except for the added parody of its humorous complaints about its situation.
+In its traditional lore, the Hunting Horror, also known as the Haunter of the Dark, obeys evil sorcerers, lurking in shadows until called to fetch or kill. This fits the Monster’s role early in the comic—an obedient force confined to darkness—except for the added parody of its humorous complaints about its situation.
 
 ## The Snarl Connection
 
