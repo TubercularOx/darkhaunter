@@ -8,6 +8,10 @@
 
 The Monster in the Dark does not perfectly match the Hunting Horror. Rich made changes to its stats, sometimes to make it fit better, other times because it enabled the story. The fine line he refers to is the one he had to walk—keeping the Monster in the Dark recognizable as a Hunting Horror while ensuring it served the story in ways that sometimes diverged from its original form. This balancing act made it possible to figure out eventually, but only with careful observation.
 
+## Name
+
+"Hunting Horror" is the name of the monster as it appears in the rulebook; however, Rich introduces it as the Haunter of the Dark. This name originally referred to a Mask of Nyarlathotep, as noted in the Hunting Horror's rules, but Rich adopted it for the Monster in the Dark due to its structural parallel and because its portrayal in *Order of the Stick* leans away from horror.
+
 ## Theme and Appearance
 
 As mentioned on the front page, Rich had to make changes to the Hunting Horror's theme and appearance. He was fortunate to be able to opt for a two-eyed version and demonstrated skill in converting Cosmic Horror into Comical Errors. The transformation of Nyarlathotep into the Snarl was a significant departure, testing the boundaries of adaptation while staying just within the fine line.
