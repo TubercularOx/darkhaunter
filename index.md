@@ -11,6 +11,8 @@ Or at least, that’s how this is written—because rewriting everything after t
 
 In its traditional lore, the Hunting Horror, also known as the Haunter of the Dark, obeys evil sorcerers, lurking in shadows until called to fetch or kill. This fits the Monster’s role early in the comic—an obedient force confined to darkness—except for the added parody of its humorous complaints about its situation.
 
+Its D&D version is printed in d20 Call of Cthulhu, pg. 173.
+
 ## Visual Match
 
 The Hunting Horror’s visual characteristics align closely with the Monster in the Dark. Both creatures are in the dark, something not every candidate achieved, and the Monster’s yellow eyes, visible even in shadow, evoke the Hunting Horror’s burning yellow ones. While standard Hunting Horrors are described with three-lobed eyes, variants with two eyes exist, so the connection isn't broken.
