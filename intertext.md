@@ -3,9 +3,9 @@ nav_order: 5
 ---
 # Not Really Foreshadowing
 
-Rich created a number of intertextual moments for the Monster in the Dark: Scenes that stand on their own but gain additional meaning by referring to an external text, specifically the Monster in the Dark's D&D stats.  Since this other text wasn't defined until  the reveal, these moments are also a kind of prolepsis.&#x20;
+Rich created a number of intertextual moments for the Monster in the Dark: Scenes that stand on their own but gain additional meaning by referring to an external text, specifically the Monster in the Dark's D&D stats.  Since this other text wasn't defined until the reveal, these moments are also a kind of prolepsis.&#x20;
 
-These moments don’t function as traditional foreshadowing, as they don’t predict events in the story. Instead, they serve as subtle evidence that Rich always intended the Monster in the Dark to be a Hunting Horror,  rewarding readers familiar with D&D mechanics while seamlessly fitting into the story for all audiences.
+These moments don’t function as traditional foreshadowing, as they don’t predict events in the story. Instead, they serve as subtle evidence that Rich always intended the Monster in the Dark to be a Hunting Horror, rewarding readers familiar with D&D mechanics while seamlessly fitting into the story for all audiences.
 
 ## The Rope Scene
 
@@ -50,6 +50,16 @@ Under this theory, the sequence could be interpreted as follows:
 - The Monster in the Dark instinctively activates *Evil Eye* by focusing on someone and hoping for bad things to happen to them. It may have done this in the past successfully, without understanding its abilities fully.
 - In this case, the Monster focuses on O-Chul and wishes him good luck instead. However, *Evil Eye* can only inflict bad luck, so nothing happens. This disconnect leads to the humorous dialogue in the strip.
 
+## The Power Rangers Scene
+
+[Comic 147](https://www.giantitp.com/comics/oots0147.html)
+
+> "Where are your Power Ranger figures right now?"
+>
+> "Ummm... broken."
+
+The Hunting Horror has no hands.  It has a Ravenous Maw with Improved Grab, and a Tail-Tentacle, also with Improved Grab.  Both of these grabs can also do automatic damage.  The Maw can Masticate for 5d8+12 damage per turn, and the Tail-Tentacle can Constrict for 2d6+12 damage per turn.  Being able to play with its toys using only these deadly weapons may be why its toys break so easily, and might explain Redcloak’s reluctance to let it near the phylactery.
+
 ## The Zombie Dwarves Scene
 
 [Comic 1260](https://www.giantitp.com/comics/oots1260.html)
@@ -80,4 +90,4 @@ Finally, Xykon’s suggestion to zombify the dwarves reframes them as undead, cr
 
 ---
 
-*Spell-Like Abilities in Call of Cthulhu are spared the usage restrictions mentioned in The Fine Line, the Hunting Horror can use them freely.*
+1 Spell-Like Abilities in *Call of Cthulhu* are spared the usage restrictions mentioned in *The Fine Line*; the Hunting Horror can use them freely.
