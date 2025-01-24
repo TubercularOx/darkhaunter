@@ -1,3 +1,6 @@
+---
+nav_order: 4
+---
 # If You Listen, You Can Hear Rich Laughing
 
 This page is subjective. Sometimes, Rich pulls off something so perfectly absurd that I can’t help but imagine him laughing right along with me. Your mileage may vary, but I know what I hear.
