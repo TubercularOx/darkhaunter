@@ -1,3 +1,6 @@
+---
+nav_order: 6
+---
 # Actual Foreshadowing!
 
 The Hunting Horror is a major reveal, but the story can't pause to explain every detail in the middle of the action. Instead, the necessary information is woven into earlier scenes, ensuring that when the Monster in the Dark is unmasked, the audience already understands the key elements without disrupting the pacing.
