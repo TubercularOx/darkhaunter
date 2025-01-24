@@ -71,6 +71,7 @@ Several details underscore the connection between *Escape* and *Call of Cthulhu*
 Rich provides a few clues to guide us toward the connection to *Call of Cthulhu* magic.
 
 - Redcloak using *Word of Recall* earlier in the scene introduces the original spell before its variant appears.
+- Just after using the spell, the Monster in the Dark falls asleep, seemingly exhausted. This appears to be how Rich indicates ability damage, consistent with its fatigue after using *Deflect Harm*.
 - In a later scene, the Monster in the Dark fails to activate *Escape*, reinforcing the idea that *Call of Cthulhu* spells are unpredictable and not purely mechanical.
 - When the Monster in the Dark attempts to recast *Escape*, it cycles through synonyms, subtly reinforcing the renaming conventions of *Call of Cthulhu* magic.
 
