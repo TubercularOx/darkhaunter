@@ -1,3 +1,6 @@
+---
+nav_order: 5
+---
 # Not Really Foreshadowing
 
 Rich created a number of intertextual moments for the Monster in the Dark: Scenes that stand on their own but gain additional meaning by referring to an external text, specifically the Monster in the Dark's D&D stats.  Since this other text wasn't defined until  the reveal, these moments are also a kind of prolepsis.&#x20;
