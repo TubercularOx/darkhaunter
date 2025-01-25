@@ -8,7 +8,7 @@ The Hunting Horror has +26 Spellcraft, an unusually high skill for a creature of
 
 ### Arcane vs. Divine Spells
 
-Comic 431
+[Comic 431](https://www.giantitp.com/comics/oots0431.html)
 
 > WOW! I didn't know Xykon knew how to cast cleric spells, too!
 
@@ -16,7 +16,7 @@ This moment demonstrates Spellcraft being used to distinguish between arcane and
 
 ### Half Ritual
 
-Comic 700
+[Comic 700](https://www.giantitp.com/comics/oots0700.html)
 
 > Fine! Read your stupid half of a ritual, I'll find someone else to help me!
 
@@ -30,7 +30,7 @@ Knowledge (Occult) has an unusual relationship with the setting. *Call of Cthulh
 
 ### Magical Books
 
-Comic 195
+[Comic 195](https://www.giantitp.com/comics/oots0195.html)
 
 > Oooo! Is it one of those books that raises your ability scores?
 > Please! In the grand scheme of things, this book makes the "Tome of Clear Thought" look like "Dianetics".
@@ -39,7 +39,7 @@ Knowledge (Occult) explicitly covers magical books—your character's familiarit
 
 ### The Astral Plane
 
-Comic 833
+[Comic 833](https://www.giantitp.com/comics/oots0833.html)
 
 > Oooo! I love the Astral Plane! It's so silvery and weightless!
 
@@ -57,7 +57,7 @@ Since Knowledge (Religion) is the skill used to identify undead, this would expl
 
 ### Trenchant Political Analysis
 
-Comic 1038
+[Comic 1038](https://www.giantitp.com/comics/oots1038.html)
 
 > [Bugbears] mostly get name-dropped to bolster an appealing but ultimately specious pan-goblinoid narrative that probably arose to elide historic sectarian divisions between goblins and hobgoblins... is a thing I totally overheard some guy say.
 
