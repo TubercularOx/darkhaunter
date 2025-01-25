@@ -54,7 +54,7 @@ Redcloak stresses that the three false Xykons are hard to distinguish, hence the
 
 The simplest explanation is that Knowledge (Occult) explicitly excludes Knowledge (Religion). In *Call of Cthulhu*, Knowledge (Religion) pertains to real-world faiths, while in *Dungeons & Dragons*, it covers divine magic and undead. Because the names are the same, Rich likely retained the mechanical framework while redefining what the skill covers, adapting it naturally to the *Order of the Stick* setting.
 
-Since Knowledge (Religion) is the skill used to identify undead, this would explain why the Monster in the Dark has no idea what a huecuva is or what it can do, despite its otherwise broad knowledge.
+Since Knowledge (Religion) is the skill used to identify Undead, this would explain why the Monster in the Dark has no idea what a huecuva is or what it can do, despite its otherwise broad knowledge.
 
 ### Trenchant Political Analysis
 
@@ -72,9 +72,7 @@ First, it's important to note that the rules for recognizing monsters do not exi
 
 *d20 Call of Cthulhu* is not the best-organized book, and niche rules like this are scattered throughout, affecting many skills.
 
-Rich probably decided he wanted a *Call of Cthulhu* spell in the story first, read the full spell list, and selected *Word of Recall* as one that could be framed as strange and mysterious when altered. In this scenario, the *Escape* scene would have been written around this choice. &#x20;
-
-While reviewing the spell list, Rich would have also encountered *Detect Life* along the way.
+I feel like the chance of Rich encountering *Detect Life* is extremely high. The *Escape* scene suggests that Rich first conceived of a dramatic moment in which the Monster in the Dark would cast a *Call of Cthulhu* spell. Having decided on that, he likely reviewed the spell list and selected *Word of Recall* as one that could be reframed as strange and mysterious. If this was the case, then the *Escape* scene would have been constructed around that choice, and along the way, Rich would have encountered *Detect Life*, which may have inspired the trenchant political analysis scene. &#x20;
 
 The three relevant skills are Knowledge (Biology), Knowledge (Occult), and Cthulhu Mythos. If goblins fall under Knowledge (Occult), then the Monster in the Dark could reasonably know something this detailed.
 
