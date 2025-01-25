@@ -33,6 +33,7 @@ Knowledge (Occult) has an unusual relationship with the setting. *Call of Cthulh
 [Comic 195](https://www.giantitp.com/comics/oots0195.html)
 
 > Oooo! Is it one of those books that raises your ability scores?
+>
 > Please! In the grand scheme of things, this book makes the "Tome of Clear Thought" look like "Dianetics".
 
 Knowledge (Occult) explicitly covers magical books—your character's familiarity with texts like the Necronomicon is tied to it, for example. "Tome" is also the term *Call of Cthulhu* uses to describe magical books in general. Rich's choice of the word "tome" might be intentional, but if not, it’s still a striking coincidence given the thematic overlap.
@@ -61,7 +62,7 @@ Since Knowledge (Religion) is the skill used to identify undead, this would expl
 
 > [Bugbears] mostly get name-dropped to bolster an appealing but ultimately specious pan-goblinoid narrative that probably arose to elide historic sectarian divisions between goblins and hobgoblins... is a thing I totally overheard some guy say.
 
-I have a possible explanation for this, though I’m not fully convinced by it. If the story concludes without further clarification, I may present this more assertively as one of the best remaining interpretations. My preferred solution is that the Monster in the Dark really is repeating something it overheard, exactly as it claims, but without knowing who that person is or what their expertise might be, I prefer to lean on an unlikely explanation that still aligns with established mechanics.
+I have a possible explanation for this, though I’m not fully convinced by it. If the story concludes without further clarification, I may present this more assertively as one of the best remaining interpretations. My preferred solution is that the Monster in the Dark really is repeating something it overheard, exactly as it claims, but without knowing who that person is or what their expertise might be, I can at least offer a reason that is grounded in existing game mechanics.
 
 First, it's important to note that the rules for recognizing monsters do not exist in d20 Call of Cthulhu. The DM is never compelled to tell you what a monster is or how it works. However, the *Detect Life* spell offers an alternative:
 
