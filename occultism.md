@@ -52,7 +52,7 @@ This implies that Rich has chosen to include Knowledge (The Planes) as a subset 
 
 Redcloak stresses that the three false Xykons are hard to distinguish, hence they each get a color-coded amulet. However, even after Redcloak explains that one is a huecuva, the Monster in the Dark is still surprised that "Xykon" can cast divine spells.
 
-The simplest explanation is that Knowledge (Occult) explicitly excludes Knowledge (Religion). In *Call of Cthulhu*, Knowledge (Religion) pertains to real-world faiths, while in *Dungeons & Dragons*, it covers divine magic and undead. Because the names are the same, Rich likely retained the mechanical framework while redefining what the skill covers, adapting it naturally to the *Order of the Stick* setting.
+The simplest explanation is that Knowledge (Occult) explicitly excludes Knowledge (Religion). In Call of Cthulhu, Knowledge (Religion) exists, but pertains to real-world faiths, while in Dungeons & Dragons, it covers divine magic and undead. Because the names are the same, Rich likely retained the mechanical framework while redefining what the skill covers, adapting it naturally to the Order of the Stick setting.
 
 Since Knowledge (Religion) is the skill used to identify Undead, this would explain why the Monster in the Dark has no idea what a huecuva is or what it can do, despite its otherwise broad knowledge.
 
