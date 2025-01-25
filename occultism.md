@@ -48,7 +48,7 @@ This implies that Rich has chosen to include Knowledge (The Planes) as a subset 
 
 ### (Not) Recognizing Undead
 
-Comic 431
+[Comic 431](https://www.giantitp.com/comics/oots0431.html)
 
 Redcloak stresses that the three false Xykons are hard to distinguish, hence they each get a color-coded amulet. However, even after Redcloak explains that one is a huecuva, the Monster in the Dark is still surprised that "Xykon" can cast divine spells.
 
