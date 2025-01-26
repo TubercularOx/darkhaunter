@@ -82,3 +82,8 @@ Biology is a plausible alternative since goblins are similar enough to humans fo
 
 Goblins, hobgoblins, and bugbears all exist in folklore, and Knowledge (Occult) explicitly covers ancient mysteries, magical traditions, and cryptozoology. If Rich followed the same approach here—slotting in a *Dungeons & Dragons* equivalent under a *Call of Cthulhu* label—then it makes sense that the Monster in the Dark would recognize goblins in this context.
 
+### The Evil Sorcerer
+
+Between [Comic 13](https://www.giantitp.com/comics/oots0013.html) and [Comic 191](https://www.giantitp.com/comics/oots0191.html), Xykon went from being an undead mage to a mighty lich sorcerer. This shift doesn’t relate to Knowledge (Occult) directly, but it reinforces the same pattern seen throughout this discussion.&#x20;
+
+In Call of Cthulhu, Hunting Horrors serve evil sorcerers, a term with vastly different connotations in that system. Rather than adapting the meaning, Rich appears to have taken the Call of Cthulhu label and applied it to a Dungeons & Dragons concept, treating the two as interchangeable. This makes it easier for readers to recognize the connection between the two settings without needing prior knowledge of either.
