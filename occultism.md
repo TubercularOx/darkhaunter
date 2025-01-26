@@ -24,11 +24,11 @@ This reference highlights the role of Spellcraft in understanding shared or inco
 
 ## Knowledge (Occult)
 
-The Hunting Horror has +26 Knowledge (Occult) on its skill list, making it an ultimate wildcard for integrating mysterious lore into the story as needed. The official conversion rules state that skills unique to *Call of Cthulhu*—including Knowledge (Occult)—are unsuitable for *Dungeons & Dragons*. However, they also dismiss the need to update monsters, focusing instead on sanity mechanics and the altered spell system. This contradiction allows Rich creative freedom to define what Knowledge (Occult) covers, enabling the Monster in the Dark to demonstrate extensive knowledge of obscure topics while remaining unaware of things that are common knowledge to other characters.
+The Hunting Horror has +26 Knowledge (Occult) on its skill list, a skill unique to Call of Cthulhu. The official conversion rules state that such unique skills are unsuitable for *Dungeons & Dragons*. However, they also deny the need to update monsters, focusing instead on adapting sanity mechanics and the altered spell system. This contradiction allows Rich creative freedom to define what Knowledge (Occult) covers.
 
-Knowledge (Occult) has an unusual relationship with the setting. *Call of Cthulhu* takes place on Earth, where its skills typically apply to real-world concepts. However, Rich appears to have kept the skill names and their general intent while redefining the knowledge they cover to fit the *Order of the Stick* setting.
+The examples below suggest that Rich has chosen to apply Knowledge (Occult) to concepts that have a basis in real-world mysticism, folklore, or esoteric traditions, but instead of importing these concepts from the real world, he appears to slot in the closest D&D equivalent, keeping the terminology while adjusting its application.
 
-### Magical Books
+### Magical Tomes
 
 [Comic 195](https://www.giantitp.com/comics/oots0195.html)
 
@@ -36,7 +36,7 @@ Knowledge (Occult) has an unusual relationship with the setting. *Call of Cthulh
 >
 > Please! In the grand scheme of things, this book makes the "Tome of Clear Thought" look like "Dianetics".
 
-Knowledge (Occult) explicitly covers magical books—your character's familiarity with texts like the Necronomicon is tied to it, for example. "Tome" is also the term *Call of Cthulhu* uses to describe magical books in general. Rich's choice of the word "tome" might be intentional, but if not, it’s still a striking coincidence given the thematic overlap.
+Knowledge (Occult) explicitly covers magical books in *Call of Cthulhu*, including legendary tomes like the Necronomicon. In that system, all books related to magic are referred to as tomes, and the use of the word here echoes that tradition. While the function of these books differs in *Order of the Stick*, the terminology remains intact, following the broader pattern of slotting in a *Dungeons & Dragons* equivalent for a *Call of Cthulhu* concept, preserving the terminology while shifting the meaning to fit the setting.
 
 ### The Astral Plane
 
@@ -44,7 +44,7 @@ Knowledge (Occult) explicitly covers magical books—your character's familiarit
 
 > Oooo! I love the Astral Plane! It's so silvery and weightless!
 
-This implies that Rich has chosen to include Knowledge (The Planes) as a subset of Knowledge (Occult). This connection is particularly fitting, as the Astral Plane has real-world philosophical and esoteric counterparts that are discussed in various mystical and occult traditions.
+Knowledge (Occult) explicitly covers esoteric traditions, and the Astral Plane has a long history in mystical and philosophical thought. In *Dungeons & Dragons*, it is a space between realms, while in real-world occultism, it is often described as a plane of consciousness or spirit. Instead of the Monster in the Dark being familiar with the real-world concept of an astral plane, Rich appears to have slotted in D&D's Astral Plane as the closest equivalent, maintaining the terminology while reshaping its significance within the setting.
 
 ### (Not) Recognizing Undead
 
@@ -52,9 +52,9 @@ This implies that Rich has chosen to include Knowledge (The Planes) as a subset 
 
 Redcloak stresses that the three false Xykons are hard to distinguish, hence they each get a color-coded amulet. However, even after Redcloak explains that one is a huecuva, the Monster in the Dark is still surprised that "Xykon" can cast divine spells.
 
-The simplest explanation is that Knowledge (Occult) explicitly excludes Knowledge (Religion). In Call of Cthulhu, Knowledge (Religion) exists, but pertains to real-world faiths, while in Dungeons & Dragons, it covers divine magic and undead. Because the names are the same, Rich likely retained the mechanical framework while redefining what the skill covers, adapting it naturally to the Order of the Stick setting.
+The Monster in the Dark's ignorance follows from the separation of Knowledge (Occult) and Knowledge (Religion) in *Call of Cthulhu*, where Knowledge (Occult) does not include real-world religious knowledge.
 
-Since Knowledge (Religion) is the skill used to identify Undead, this would explain why the Monster in the Dark has no idea what a huecuva is or what it can do, despite its otherwise broad knowledge.
+By preserving the skill divide but slotting in the *D&D* version of Knowledge (Religion), Rich extended the gap in the Monster in the Dark’s knowledge to include identifying Undead. Since *D&D*'s Knowledge (Religion) covers that function, the Monster in the Dark—lacking that skill—fails to recognize a huecuva or understand its abilities.
 
 ### Trenchant Political Analysis
 
@@ -62,7 +62,7 @@ Since Knowledge (Religion) is the skill used to identify Undead, this would expl
 
 > [Bugbears] mostly get name-dropped to bolster an appealing but ultimately specious pan-goblinoid narrative that probably arose to elide historic sectarian divisions between goblins and hobgoblins... is a thing I totally overheard some guy say.
 
-I have a possible explanation for this, though I’m not fully convinced by it. If the story concludes without further clarification, I may present this more assertively as one of the best remaining interpretations. My preferred solution is that the Monster in the Dark really is repeating something it overheard, exactly as it claims, but without knowing who that person is or what their expertise might be, I can at least offer a reason that is grounded in existing game mechanics.
+I want to believe the Monster in the Dark is repeating something it overheard, exactly as it claims, but without knowing who said it or what their expertise was I don't want to rely on it. If the story concludes without further clarification, I may present this more assertively as one of the best remaining interpretations, but for now, I'm trying to offer an explanation that fits within existing game mechanics.
 
 First, it's important to note that the rules for recognizing monsters do not exist in d20 Call of Cthulhu. The DM is never compelled to tell you what a monster is or how it works. However, the *Detect Life* spell offers an alternative:
 
@@ -72,18 +72,13 @@ First, it's important to note that the rules for recognizing monsters do not exi
 
 *d20 Call of Cthulhu* is not the best-organized book, and niche rules like this are scattered throughout, affecting many skills.
 
-I feel like the chance of Rich encountering *Detect Life* is extremely high. The *Escape* scene suggests that Rich first conceived of a dramatic moment in which the Monster in the Dark would cast a *Call of Cthulhu* spell. Having decided on that, he likely reviewed the spell list and selected *Word of Recall* as one that could be reframed as strange and mysterious. If this was the case, then the *Escape* scene would have been constructed around that choice, and along the way, Rich would have encountered *Detect Life*, which may have inspired the trenchant political analysis scene. &#x20;
+I feel like the chance of Rich encountering *Detect Life* is extremely high. The *Escape* scene suggests that Rich first conceived of a dramatic moment in which the Monster in the Dark would cast a *Call of Cthulhu* spell. Having decided on that, he likely reviewed the spell list and selected *Word of Recall* as one that could be reframed as strange and mysterious. If this was the case, then the *Escape* scene would have been constructed around that choice, and along the way, Rich would have encountered *Detect Life*, which may have inspired the trenchant political analysis scene. 
 
-The three relevant skills are Knowledge (Biology), Knowledge (Occult), and Cthulhu Mythos. If goblins fall under Knowledge (Occult), then the Monster in the Dark could reasonably know something this detailed.
+If Knowledge (Occult) applies to goblins, then the Monster in the Dark’s detailed knowledge makes sense.
 
-Cthulhu Mythos is a pseudo-skill that can only be learned by encountering Mythos creatures, which doesn’t fit *Order of the Stick*—goblins are not unknowable horrors. Even if someone argued that it does fit, a monster like the Hunting Horror automatically passes all Cthulhu Mythos checks, as the rules explicitly state that such creatures treat the unfathomable as normal.
+Cthulhu Mythos is not a likely fit—goblins in *Order of the Stick* are not unfathomable horrors. But even if someone argues otherwise, it might actually help my case, since Hunting Horrors automatically pass all Cthulhu Mythos checks.
 
-Biology is a plausible alternative, given that goblins are close enough to humans that some crossover might apply. If Rich chose to adjust the skill to fit his setting in this way, this could provide a reasonable explanation.&#x20;
+Biology is a plausible alternative since goblins are similar enough to humans for some crossover. However, this doesn’t fit the pattern Rich has followed elsewhere. Instead of reasoning from real-world classifications, he has consistently taken *Call of Cthulhu* labels and applied them to *D&D* concepts, swapping in equivalents rather than adapting based on function.
 
-However, this approach doesn't match the other conversions Rich has done. The Monster in the Dark consistently understands concepts that exist in the real world but interprets them through the lens of the setting. Instead of the Necronomicon, it knows books that raise stats; instead of a mystical astral plane, it identifies the silvery and weightless Astral Plane of D&D<sup>1</sup>. Rich's handling of Knowledge (Religion) appears to follow the same pattern—rather than covering real-world religions, it applies to divine magic and the undead, reinforcing the idea that the gap in the Monster in the Dark's knowledge is shaped by this adaptation.
+Goblins, hobgoblins, and bugbears all exist in folklore, and Knowledge (Occult) explicitly covers ancient mysteries, magical traditions, and cryptozoology. If Rich followed the same approach here—slotting in a *Dungeons & Dragons* equivalent under a *Call of Cthulhu* label—then it makes sense that the Monster in the Dark would recognize goblins in this context.
 
-Goblins, hobgoblins, and bugbears exist in real-world folklore, and Knowledge (Occult) explicitly covers topics like ancient mysteries, magical traditions, and cryptozoology. If Rich followed the same method—keeping the name but adapting the content—then it makes sense that the Monster in the Dark would be familiar with goblins in this way.
-
-Ultimately, we are making educated guesses about how Rich adapted existing mechanics in a way that best suited the story, given that those mechanics sometimes contradict each other. With more evidence, certain interpretations might become stronger, but in the absence of that, readers can weigh the contradictions and decide for themselves what they find most convincing.
-
-<sup>1</sup> Xykon's status as an evil sorcerer—relevant to the Hunting Horror's description—also follows this pattern. While a sorcerer in *Call of Cthulhu* is conceptually distinct from a sorcerer in *Dungeons & Dragons*, Rich's pattern is to retain the name while slotting in a different concept, effectively using the D&D version as a direct substitute without further adaptation.
