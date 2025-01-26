@@ -62,7 +62,9 @@ By preserving the skill divide but slotting in the *D&D* version of Knowledge (R
 
 > [Bugbears] mostly get name-dropped to bolster an appealing but ultimately specious pan-goblinoid narrative that probably arose to elide historic sectarian divisions between goblins and hobgoblins... is a thing I totally overheard some guy say.
 
-I want to believe the Monster in the Dark is repeating something it overheard, exactly as it claims, but without knowing who said it or what their expertise was I don't want to rely on it. If the story concludes without further clarification, I may present this more assertively as one of the best remaining interpretations, but for now, I'm trying to offer an explanation that fits within existing game mechanics.
+I want to believe the Monster in the Dark is repeating something it overheard, exactly as it claims, but without knowing who said it or what their expertise was I don't want to rely on it. If the story concludes without further clarification, I may present this more assertively as one of the best remaining interpretations, but for now, I'm just trying to offer an explanation that fits within existing game mechanics.
+
+#### Impetus
 
 First, it's important to note that the rules for recognizing monsters do not exist in d20 Call of Cthulhu. The DM is never compelled to tell you what a monster is or how it works. However, the *Detect Life* spell offers an alternative:
 
@@ -75,6 +77,8 @@ First, it's important to note that the rules for recognizing monsters do not exi
 I feel like the chance of Rich encountering *Detect Life* is extremely high. The *Escape* scene suggests that Rich first conceived of a dramatic moment in which the Monster in the Dark would cast a *Call of Cthulhu* spell. Having decided on that, he likely reviewed the spell list and selected *Word of Recall* as one that could be reframed as strange and mysterious. If this was the case, then the *Escape* scene would have been constructed around that choice, and along the way, Rich would have encountered *Detect Life*, which may have inspired the trenchant political analysis scene. 
 
 If Knowledge (Occult) applies to goblins, then the Monster in the Dark’s detailed knowledge makes sense.
+
+#### Analysis
 
 Cthulhu Mythos is not a likely fit—goblins in *Order of the Stick* are not unfathomable horrors. But even if someone argues otherwise, it might actually help my case, since Hunting Horrors automatically pass all Cthulhu Mythos checks.
 
