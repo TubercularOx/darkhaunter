@@ -60,7 +60,7 @@ Under this theory, the sequence could be interpreted as follows:
 
 The Hunting Horror has no hands.  It has a Ravenous Maw with Improved Grab, and a Tail-Tentacle, also with Improved Grab.  Both of these grabs can also do automatic damage.  The Maw can Masticate for 5d8+12 damage per turn, and the Tail-Tentacle can Constrict for 2d6+12 damage per turn.  Being able to play with its toys using only these deadly weapons may be why its toys break so easily, and might explain Redcloak’s reluctance to let it near the phylactery.
 
-## The Footprints
+## The Footprints Scene
 
 [Comic 474](https://www.giantitp.com/comics/oots0474.html)
 
@@ -80,7 +80,7 @@ The other explanation comes from the Hunting Horror’s description itself:
 
 While this refers to the creature’s flight rather than ground movement, Rich may have drawn inspiration from it when deciding how to interpret the "slither" keyword for the Hunting Horror.
 
-## Remorhaz Kebab
+## The Remorhaz Kebab Scene
 
 [Comic 1037](https://www.giantitp.com/comics/oots1037.html)
 
