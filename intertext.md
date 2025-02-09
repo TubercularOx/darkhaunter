@@ -60,6 +60,30 @@ Under this theory, the sequence could be interpreted as follows:
 
 The Hunting Horror has no hands.  It has a Ravenous Maw with Improved Grab, and a Tail-Tentacle, also with Improved Grab.  Both of these grabs can also do automatic damage.  The Maw can Masticate for 5d8+12 damage per turn, and the Tail-Tentacle can Constrict for 2d6+12 damage per turn.  Being able to play with its toys using only these deadly weapons may be why its toys break so easily, and might explain Redcloak’s reluctance to let it near the phylactery.
 
+## The Footprints
+
+[Comic 474](https://www.giantitp.com/comics/oots0474.html)
+
+> *"These tracks are...weird. They're definitely not hobgoblin footprints, and they're not Undead Roy's, either. I don't know what made them."*
+
+The Hunting Horror has at least two possible explanations for this.
+
+One explanation is that its movement speed is listed as a 30' slither, which is not a defined movement type for standard D&D monsters. The Hunting Horror doesn’t have a listed walk speed at all. Some *Call of Cthulhu* creatures have both a slither and a walk speed, but the rules never explain why walking would be preferable when slithering is usually faster.&#x20;
+
+The other explanation comes from the Hunting Horror’s description itself:
+
+"It does not move in a direct line, but flies in strange, spiraling, non-Euclidean paths, coiling its way across the sky at a great speed."
+
+While this refers to the creature’s flight rather than ground movement, Rich may have drawn inspiration from it when deciding how to interpret the "slither" keyword for the Hunting Horror.
+
+## Remorhaz Kebab
+
+[Comic 1037](https://www.giantitp.com/comics/oots1037.html)
+
+> Snuck peek under old umbrella when you got here.  Such majesty!  Like in wildest dreams, after remorhaz kebab too close to bed.
+
+The Hunting Horror is described as a legless dragon seen in a nightmare. Oona's description of the Monster in the Dark matches this idea, as it is compared to dreams brought on by eating too much remorhaz kebab—likely evoking the common trope of unsettling nightmares after eating rich or unusual food.
+
 ## The Zombie Dwarves Scene
 
 [Comic 1260](https://www.giantitp.com/comics/oots1260.html)
@@ -68,7 +92,7 @@ In this scene, Xykon says:
 
 > *"Really? Didn't I read someplace that dwarves were like a delicacy for your kind?"*
 
-The Monster in the Dark  responds:
+The Monster in the Dark responds:
 
 > *"I don't... think so."*
 
@@ -80,14 +104,15 @@ I have to ask Rich about this one, because it's based on free association:
 
 In *The Dream-Quest of Unknown Kadath*, ghouls live in communal underground kingdoms, much like dwarves in D&D. Hunting Horrors, as servants of Nyarlathotep, are sent to harass these ghouls. Xykon’s dialogue builds up a connection between dwarves, ghouls, Hunting Horrors, and the Monster in the Dark.
 
-Claiming to have 'read it someplace' suggests Xykon is referring to outside sources, like *The Dream-Quest*. &#x20;
+Claiming to have 'read it someplace' suggests Xykon is referring to outside sources, like *The Dream-Quest*.
 
-The phrase 'your kind' shifts the focus from the Monster in the Dark to the Hunting Horrors it was adapted from.&#x20;
+The phrase 'your kind' shifts the focus from the Monster in the Dark to the Hunting Horrors it was adapted from.
 
-The Monster’s hesitation implies that Xykon, while misremembering, is referencing something true about the Monster in the Dark.&#x20;
+The Monster’s hesitation implies that Xykon, while misremembering, is referencing something true about the Monster in the Dark.
 
 Finally, Xykon’s suggestion to zombify the dwarves reframes them as undead, creating a parallel to the ghouls in Lovecraft’s story and strengthening the thematic link.
 
 ---
 
 1 Spell-Like Abilities in *Call of Cthulhu* are spared the usage restrictions mentioned in *The Fine Line*; the Hunting Horror can use them freely.
+
