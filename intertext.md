@@ -68,7 +68,11 @@ The Hunting Horror has no hands.  It has a Ravenous Maw with Improved Grab, and
 
 The Hunting Horror has at least two possible explanations for this.
 
-One explanation is that its movement speed is listed as a 30' slither, which is not a defined movement type for standard D&D monsters. The Hunting Horror doesn’t have a listed walk speed at all. Some *Call of Cthulhu* creatures have both a slither and a walk speed, but the rules never explain why walking would be preferable when slithering is usually faster.&#x20;
+One explanation is that its movement speed is listed as a 30' slither, which is not a defined movement type for standard D&D monsters. The Hunting Horror doesn’t have a listed walk speed at all. Some *Call of Cthulhu* creatures have both a slither and a walk speed, but the rules never explain why walking would be preferable when slithering is usually faster.
+
+Belkar, unfamiliar with D&D monsters that have a slither speed instead of a walk speed, naturally finds this confusing.
+
+&#x20;
 
 The other explanation comes from the Hunting Horror’s description itself:
 
