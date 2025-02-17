@@ -19,7 +19,7 @@
 
 ### Strip #59
 
-- Fulfills the foreshadowing of #15, but that foreshadowing does not imply all the intervening strips were fully planned.
+- Fulfills the foreshadowing of #15, but that foreshadowing does not imply all the intervening strips were fully planned. [Foreshadowing]
 
 ### Strip #62
 
@@ -51,7 +51,6 @@
 
 - First appearance of the gates
 - First appearance of the "What Gate?" joke
-- Alleged: First appearance of the Hunting Horror
 
 ### Strip #100
 
