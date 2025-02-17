@@ -4,3 +4,10 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 logo: "/huntinghorror.png"  # Optional
 favicon_ico: "/favicon.ico"  # Optional
+
+collections:
+  speculation:
+    output: true
+    permalink: /speculation/:path/
+    order: true  # Ensures ordering in Just the Docs nav
+
