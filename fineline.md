@@ -71,7 +71,7 @@ First, it enables the earthquake scene—the Monster in the Dark strikes the gro
 
 Second, people who accepted the *Shock Wave* interpretation would conclude that the Monster in the Dark is a Dragon, as *Shock Wave* requires the Dragon type. Likewise, those who started from the assumption that the Monster in the Dark was a Dragon would naturally be drawn to the *Shock Wave* feat as supporting evidence. Choosing a feat with such specific prerequisites not only reinforces the connection but also provides a two-way path for reasoning toward the same conclusion.
 
-Third, it's a secondary justification for the Monster in the Dark's line, "Wow! I didn't know I could do that!"
+It also creates a secondary justification for the Monster in the Dark's line, "Wow! I didn't know I could do that!"
 
 This line lands differently depending on when you learn it's a Hunting Horror. If the reveal had come first, the moment would feel like an acknowledgment that what just happened was outside the base creature’s stat block, encouraging the audience to pursue other explanations.
 
