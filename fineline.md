@@ -53,7 +53,7 @@ Likewise, it helps onboard the audience when the Monster in the Dark's role as a
 
 The Monster in the Dark tries to be intimidating, but fails. Xykon expects it to be good at this and has to adjust his expectations downward several times. Xykon's initial expectations track with the near-epic Intimidation skill a standard Hunting Horror possesses, but not with the Monster in the Dark.
 
-This makes the scene difficult to reconcile with its later appearance in Book 3, where it seems to intimidate Haley and Belkar effortlessly.
+This makes the scene difficult to reconcile with its later appearance in Book 3, where it [seems to intimidate Haley and Belkar effortlessly](https://www.giantitp.com/comics/oots0475.html).
 
 Does it fail because it doesn’t understand what the situation calls for?
 
@@ -63,7 +63,7 @@ Or is it simply incapable, and the later scene must be explained without relying
 
 [Comic 477](https://www.giantitp.com/comics/oots0477.html)
 
-The Hunting Horror is printed with the *Shot on the Run* feat, but it doesn’t qualify for it—it lacks the prerequisites. Even if it had those, its only ranged attack is a vomit ability, making the feat an odd choice.
+The Hunting Horror is printed with the *Shot on the Run* feat, but it doesn’t qualify for it: it lacks the prerequisites. Even if it had those, its only ranged attack is a vomit ability, making the feat an odd choice.
 
 However, the Hunting Horror does qualify for *Shock Wave* (Draconomicon, p. 73). Swapping out *Shot on the Run* for *Shock Wave* serves two purposes.
 
@@ -104,7 +104,7 @@ The spell in question is a variant of *Word of Recall*, renamed to *Escape*:
 Several details underscore the connection between *Escape* and *Call of Cthulhu* magic:
 
 - Its climactic use in *Don’t Split the Party* underscores the narrative weight that *Call of Cthulhu* magic always demands.
-- The Monster in the Dark gambles everything—casting *Escape* with Xykon watching could have meant  death.  *Call of Cthulhu* magic is never safe and always a last resort.
+- The Monster in the Dark gambles everything, casting *Escape* with Xykon watching could have meant  death.  *Call of Cthulhu* magic is never safe and always a last resort.
 - Teleportation effects in D&D do not typically function this way, making the spell feel strange and mysterious when it is finally used.
 
 ### Foreshadowing and Reinforcement
@@ -118,7 +118,7 @@ Rich provides a few clues to guide us toward the connection to *Call of Cthulhu*
 
 ### The Fine Line and *Escape*
 
-In hindsight, the *Escape* spell may have tested the fine line more than intended. It became a daunting shibboleth—an expectation that no candidate could meet without exceeding the boundaries of its own stat block.&#x20;
+In hindsight, the *Escape* spell may have tested the fine line more than intended. It became a daunting shibboleth, an expectation that no candidate could meet without exceeding the boundaries of its own stat block.&#x20;
 
 In the case of the Hunting Horror, *Escape* was a spell Rich had to construct within the template system's constraints. For the Monster in the Dark, learning it would require a standard method: either being taught by another or having it impressed upon its mind by a greater power. This additional complexity blurred the boundary between an organic part of the character and an external addition, making it harder to distinguish what was intrinsic to the Hunting Horror and what was imposed on the Monster in the Dark by the story's needs.
 
