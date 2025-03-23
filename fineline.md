@@ -47,7 +47,7 @@ Xykon is following the rulebook's instructions on how to appease a Hunting Horro
 
 Even though the Monster in the Dark's early personality revolves around wanting to be revealed, Xykon keeps it in the dark. If the Monster in the Dark were a more typical Hunting Horror, this would be appreciated.  Such creatures loathe the light and seek to extinguish it.  While keeping the Monster in the Dark hidden serves the premise, choosing a creature that deserves to be in the dark makes the decision feel more organic to the world of the story.&#x20;
 
-Likewise, it helps onboard the audience when its role as a secret weapon has to be explained to it several times.  After we learn it’s a Hunting Horror, a creature that should understand this implicitly, it casts those scenes in a new light: Xykon is trying to force it to have the personality he expects from a textbook Hunting Horror: one that stays in the shadows until ordered to kill.
+Likewise, it helps onboard the audience when the Monster in the Dark's role as a secret weapon has to be explained to it several times. After we learn it’s a Hunting Horror, a creature that should understand this implicitly, it casts those scenes in a new light.  Xykon is trying to force it to have the personality he expects from a textbook Hunting Horror: one that stays in the shadows until ordered to kill.
 
 [Comic 103](https://www.giantitp.com/comics/oots0103.html)
 
