@@ -9,7 +9,7 @@ nav_order: 3
 >
 > **- Rich Burlew, War and XPs c.368**
 
-The Monster in the Dark does not perfectly match the Hunting Horror. Rich made changes to its stats, sometimes to make it fit better, other times because it enabled the story. The fine line he refers to is the one he had to walk—keeping the Monster in the Dark recognizable as a Hunting Horror while ensuring it served the story in ways that sometimes diverged from its original form. This balancing act made it possible to figure out eventually, but only with careful observation.
+The Monster in the Dark does not perfectly match the Hunting Horror. Rich made changes to its stats, sometimes to make it fit better, other times because it enabled the story. The fine line he refers to is the one he had to walk: keeping the Monster in the Dark recognizable as a Hunting Horror while ensuring it served the story in ways that sometimes diverged from its original form. This balancing act made it possible to figure out eventually, but only with careful observation.
 
 ## Name
 
@@ -25,11 +25,43 @@ The Hunting Horror is Huge, and can grow all the way to Colossal, while the Mons
 
 ## Alignment
 
-*Call of Cthulhu* monsters do not have a printed alignment, which may have given Rich greater flexibility in shaping the Monster in the Dark’s role in the story. Without a predefined moral framework, he could explore a more fluid characterization without contradicting established lore. This allowed him to tell a story about an evil monster becoming good—or perhaps it was good all along.  This theme wouldn't have worked as well if the creature had a fixed alignment.
+*Call of Cthulhu* monsters do not have a printed alignment, which may have given Rich greater flexibility in shaping the Monster in the Dark’s role in the story. Without a predefined moral framework, he could explore a more fluid characterization without contradicting established lore. This allowed him to tell a story about an evil monster becoming good, or perhaps it was good all along.  This theme wouldn't have worked as well if the creature had a fixed alignment.
 
 The *Call of Cthulhu* rulebook does contain an appendix with alignment conversions, but it is obscure enough that Rich may have already solidified his approach before ever encountering it.
 
+## Xykon's Lack of Insight
+
+The Monster in the Dark has an aberrant personality compared to the Hunting Horror described in d20 *Call of Cthulhu*, but Xykon remains fixated on that original description, trying to force behaviors suited to a textbook Hunting Horror, even when the Monster in the Dark resists or objects.
+
+This acted as a pressure valve for Rich, letting him give the Monster in the Dark a personality more suited to the parodic tone of the comic, while still embedding clues about the base monster he originally selected.
+
+[Comic 549](https://www.giantitp.com/comics/oots0549.html)
+
+Here the Monster in the Dark tells O-Chul that Xykon tries to feed it live children, but the Monster in the Dark doesn't want to eat them.
+
+Xykon is following the rulebook's instructions on how to appease a Hunting Horror:
+
+> A sacrifice of a sentient creature must be offered to the hunting horror, who devours it when it arrives (in 1 round).
+
+[Comic 147](https://www.giantitp.com/comics/oots0147.html)
+
+Even though the Monster in the Dark's early personality revolves around wanting to be revealed, Xykon keeps it in the dark. If the Monster in the Dark were a more typical Hunting Horror, this would be appreciated—such creatures loathe the light and seek to extinguish it.  While keeping the Monster in the Dark hidden serves the premise, choosing a creature that deserves to be in the dark makes the decision feel more organic to the world of the story.&#x20;
+
+Likewise, it helps onboard the audience when its role as a secret weapon has to be explained to it several times. But once we learn it’s a Hunting Horror, a creature that should understand this implicitly, it casts those scenes in a new light: Xykon is trying to force it to have the personality he expects from a textbook Hunting Horror: one that stays in the shadows until ordered to kill.
+
+[Comic 103](https://www.giantitp.com/comics/oots0103.html)
+
+The Monster in the Dark tries to be intimidating, but fails. Xykon expects it to be good at this and has to adjust his expectations downward several times. Xykon's initial expectations track with the near-epic Intimidation skill a standard Hunting Horror possesses, but not with the Monster in the Dark.
+
+This makes the scene difficult to reconcile with its later appearance in Book 3, where it seems to intimidate Haley and Belkar effortlessly.
+
+Does it fail because it doesn’t understand what the situation calls for?
+
+Or is it simply incapable, and the later scene must be explained without relying on Intimidation as a factor?
+
 ## The Shock Wave Feat
+
+[Comic 477](https://www.giantitp.com/comics/oots0477.html)
 
 The Hunting Horror is printed with the *Shot on the Run* feat, but it doesn’t qualify for it—it lacks the prerequisites. Even if it had those, its only ranged attack is a vomit ability, making the feat an odd choice.
 
@@ -39,9 +71,15 @@ First, it enables the earthquake scene—the Monster in the Dark strikes the gro
 
 Second, people who accepted the *Shock Wave* interpretation would conclude that the Monster in the Dark is a Dragon, as *Shock Wave* requires the Dragon type. Likewise, those who started from the assumption that the Monster in the Dark was a Dragon would naturally be drawn to the *Shock Wave* feat as supporting evidence. Choosing a feat with such specific prerequisites not only reinforces the connection but also provides a two-way path for reasoning toward the same conclusion.
 
+Third, it's a secondary justification for the Monster in the Dark's line, "Wow! I didn't know I could do that!"
+
+This line lands differently depending on when you learn it's a Hunting Horror. If the reveal had come first, the moment would feel like an acknowledgment that what just happened was outside the base creature’s stat block, encouraging the audience to pursue other explanations.
+
 The thread identified *Shock Wave* early on as a strong possibility for the earthquake scene. However, later discussions moved away from this conclusion due to concerns that the way Rich depicted the scene was more exaggerated than the feat’s description implied.
 
 ## The Escape Spell
+
+[Comic 661](https://www.giantitp.com/comics/oots0661.html)
 
 In the Escape Scene, the Monster in the Dark casts a *Call of Cthulhu* spell named *Escape*.
 
@@ -82,5 +120,5 @@ Rich provides a few clues to guide us toward the connection to *Call of Cthulhu*
 
 In hindsight, the *Escape* spell may have tested the fine line more than intended. It became a daunting shibboleth—an expectation that no candidate could meet without exceeding the boundaries of its own stat block.&#x20;
 
-In the case of the Hunting Horror, *Escape* was a spell Rich had to construct within the template system's constraints. For the Monster in the Dark, learning it would require a standard method—either being taught by another or having it impressed upon its mind by a greater power. This additional complexity blurred the boundary between an organic part of the character and an external addition, making it harder to distinguish what was intrinsic to the Hunting Horror and what was imposed on the Monster in the Dark by the story's needs.
+In the case of the Hunting Horror, *Escape* was a spell Rich had to construct within the template system's constraints. For the Monster in the Dark, learning it would require a standard method: either being taught by another or having it impressed upon its mind by a greater power. This additional complexity blurred the boundary between an organic part of the character and an external addition, making it harder to distinguish what was intrinsic to the Hunting Horror and what was imposed on the Monster in the Dark by the story's needs.
 
