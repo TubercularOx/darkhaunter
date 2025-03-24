@@ -43,7 +43,7 @@ Comparing the box the Monster in the Dark occupies to that of Large creatures, s
 
 The Hunting Horror’s subtype, Greater Servitor, signifies a species that was created by a deity to serve it, though individual members may or may not still be in its service. This draws an interesting parallel to Rich’s portrayal of "Usually Evil" species, where origins do not dictate individual morality.
 
-For the Hunting Horror, this servitude links to Nyarlathotep. However, Rich created the Snarl at least partly as a substitute for Nyarlathotep in his setting.
+For the Hunting Horror, this connection links to Nyarlathotep. However, Rich created the Snarl at least partly as a substitute for Nyarlathotep in his setting.
 
 ### Hit Dice
 
