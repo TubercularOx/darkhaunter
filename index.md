@@ -391,7 +391,7 @@ Rich adopted the "Haunter of the Dark" name for Hunting Horrors in general becau
 
 Start of Darkness, page 50
 
-The Stereotyped Big Game Hunters are surprised that the Hunting Horror speaks, and that it chooses Common over any of the languages it undestands. We never see the Monster in the Dark project emotions empathetically, so it appears Rich chose the interpretation that it's one of the rare Hunting Horrors that communicates through speech.
+The Stereotyped Big Game Hunters are surprised that the Hunting Horror speaks, and that it chooses Common over any of the languages it understands. We never see the Monster in the Dark project emotions empathetically, so it appears Rich chose the interpretation that it's one of the rare Hunting Horrors that communicates through speech.
 
 This fits with the idea that Hunting Horrors are often bound into service by cult leaders or evil sorcerers. A monster used in that role needs to understand and respond to instructions, not just from Nyarlathotep but from mortal casters as well.&#x20;
 
