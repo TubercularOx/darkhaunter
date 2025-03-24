@@ -413,3 +413,10 @@ This eating style is referenced several times in the comic.  The Monster in the
 
 The Monster in the Dark often has the word devour associated with its eating habits, for example when it comments on devouring Haley and Belkar.  The Snarl also devours frequently, but other characters and monsters only see the word used once.
 
+## And more!
+
+To Do: Link explanations on this page to the deeper explanations in the other pages.  Also, find a way to mention the new information that the other pages sometimes include without making the reader hunt for it.
+
+I recommend reading next "The Fine Line: How the Hunting Horror Doesn’t Fit," that article covers the Escape spell as well as the Monster in the Dark's decidedly less horrifying personality.
+
+A deeper discussion of the Monster's invulnerability in the Tower scene and the Haley/Belkar fight is in "If You Listen, You Can Hear Rich Laughing."
