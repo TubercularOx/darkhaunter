@@ -35,6 +35,8 @@ Comparing the box the Monster in the Dark occupies to that of Large creatures, s
 
 ### Type
 
+[Comic 477](https://www.giantitp.com/comics/oots0477.html)
+
  The Hunting Horror is a Dragon type creature. Its use of the Shock Wave feat, which allows a creature to create localized earthquakes with a tail strike, reinforces this classification. Because Shock Wave can only be taken by Dragon-type creatures, its presence acts as a quiet confirmation of the Hunting Horror's type even before that information becomes explicit.
 
 ### Subtype
@@ -403,6 +405,8 @@ The Monster in the Dark is not summoned, but the text of the Hunting Horror's Su
 
 As noted above, Xykon knows the Hunting Horror only through  descriptions  by others and tends to follow that script, even when it doesn't match the Monster in the Dark's actual preferences. This is why he tries to feed it live sentient creatures even though the Monster in the Dark rejects them.
 
+> &#x20;
+>
 > who devours it when it arrives (in 1 round).
 
 This eating style is referenced several times in the comic.  The Monster in the Dark is often shown with food but when it is actually depicted as eating it's always eating as fast as possible.
