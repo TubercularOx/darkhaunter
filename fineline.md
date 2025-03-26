@@ -37,7 +37,7 @@ The *Call of Cthulhu* rulebook does contain an appendix with alignment conversio
 
 ## Personality
 
-Rich is not writing a Horror Story. None of the themes appropriate to a creature of horror are appropriate for *The Order of the Stick*. While we’ll explore how some of those themes were discarded or reworked, one core idea Rich preserved was the asymmetry of understanding.  Hunting Horrors, like other *Call of Cthulhu* monsters, act beyond human comprehension and understand humans just as little. Rich preserved this by giving the Monster in the Dark a goofy, fish-out-of-water personality that transformed the alienation of Cosmic Horror into the absurdity of Comical Error.
+Rich is not writing a Cosmic Horror Story. None of the themes appropriate to a creature of horror are appropriate for *The Order of the Stick*. While we’ll explore how some of those themes were discarded or reworked, one core idea Rich preserved was the asymmetry of understanding.  Hunting Horrors, like other *Call of Cthulhu* monsters, act beyond human comprehension and understand humans just as little. Rich preserved this by giving the Monster in the Dark a goofy, fish-out-of-water personality that transformed the alienation of Cosmic Horror into the absurdity of Comical Error.
 
 Rich didn’t discard the Monster in the Dark’s more horrific traits, he entrusted them to Xykon.  Xykon treats the Monster in the Dark more like a textbook Hunting Horror, following the rulebook’s assumptions even when they clash with what’s in front of him. This gave Rich room to emphasize the Monster’s comic personality while still leaving the original creature’s shape visible beneath it.
 
