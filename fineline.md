@@ -1,5 +1,5 @@
 ---
-nav_order: 2
+nav_order: 3
 ---
 # The Fine Line: How the Hunting Horror Doesn't Fit
 
