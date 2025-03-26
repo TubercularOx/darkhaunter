@@ -1,6 +1,11 @@
-# The Hunting Horror
+---
+nav_order: 2
+---
+# Summary of Powers
 
-This is a full breakdown of the Hunting Horror's stats as they are presented in the story, along with commentary on how those stats apply to the Monster in the Dark in particular.  It doesn't do a very good job of showing off the intricacy of Rich's efforts to include the Hunting Horror in his story, but it's useful.
+This is a full breakdown of the Hunting Horror's stats as they are presented in the story, along with commentary on how those stats apply to the Monster in the Dark in particular.
+
+The other pages cover much of the same information, but in more depth and with a focus on the tools Rich used to weave the Hunting Horror into his story.
 
 ### Size
 
