@@ -37,7 +37,6 @@ Call of Cthulhu does not put alignments in their monster descriptions.  This may
 
 **Actual Foreshadowing!** covers scenes unrelated to the Monster in the Dark that still prepare the audience for a Hunting Horror reveal.
 
-**A Curious Volume of Forgotten Lore** is primarily concerned with Knowledge (Occult) and its unique place in the rules.  Possibly the highest text-to-significance ratio on the site.
+**A Curious Volume of Forgotten Lore** is primarily concerned with Knowledge (Occult) and its unique place in the rules.  Possibly the lowest significance-to-text ratio on the site.
 
 **Timeline** analyzes Rich's comments about when key decisions were made in the story, including but not limited to the choice of the Monster in the Dark's base monster. While the section currently avoids drawing conclusions, one plausible candidate for the point of commitment is Comic #96, which may be the first moment the Monster is written with the Hunting Horror as the primary inspiration.
-
