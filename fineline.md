@@ -15,9 +15,15 @@ The Monster in the Dark does not perfectly match the Hunting Horror. Rich made c
 
 "Hunting Horror" is the name of the monster as it appears in the rulebook; however, Rich introduces it as the Haunter of the Dark. This name originally referred to a Mask of Nyarlathotep, as noted in the Hunting Horror's rules, but Rich adopted it for the Monster in the Dark due to its structural parallel and because its portrayal in *Order of the Stick* leans away from horror.
 
-## Theme and Appearance
+## Appearance
 
-As mentioned on the front page, Rich had to make changes to the Hunting Horror's theme and appearance. He was fortunate to be able to opt for a two-eyed version and demonstrated skill in converting Cosmic Horror into Comical Errors. The transformation of Nyarlathotep into the Snarl was a significant departure, testing the boundaries of adaptation while staying just within the fine line.
+The base Hunting Horror is described as having a three-lobed burning eye, a detail that doesn’t match the Monster in the Dark. But the text also notes that Hunting Horrors are mutable, with some specimens sporting two eyes instead. Rich took advantage of this flexibility. Rather than inventing a new exception, he selected a documented variation, preserving both the mechanical connection and the visual reveal without compromising his original vision.
+
+## Theme
+
+Hunting Horrors are Greater Servitors.  The species was made to serve the Cosmic Horror named Nyarlathotep.  While the Servitor title is flexible enough that Rich was not compelled to make the Monster in the Dark a servant of Nyarathotep, just the existence of Nyarlathotep would have been an uncomfortable addition to a setting that mostly belonged to Rich building off of generic 3.5 tropes.
+
+So Rich made the Snarl, shifting the Hunting Horror's connection from Nyarlathotep to a force of his own creation. This push toward the fine line allowed him to maintain the narrative independence of his setting while honoring the spirit of the Hunting Horror’s description.
 
 ## Size Discrepancy
 
@@ -29,11 +35,11 @@ The Hunting Horror is Huge, and can grow all the way to Colossal, while the Mons
 
 The *Call of Cthulhu* rulebook does contain an appendix with alignment conversions, but it is obscure enough that Rich may have already solidified his approach before ever encountering it.
 
-## Xykon's Lack of Insight
+## Personality
 
-The Monster in the Dark has an aberrant personality compared to the Hunting Horror described in d20 *Call of Cthulhu*, but Xykon remains fixated on that original description, trying to force behaviors suited to a textbook Hunting Horror, even when the Monster in the Dark resists or objects.
+Rich is not writing a Horror Story. None of the themes appropriate to a creature of horror are appropriate for *The Order of the Stick*. While we’ll explore how some of those themes were discarded or reworked, one core idea Rich preserved was the asymmetry of understanding.  Hunting Horrors, like other *Call of Cthulhu* monsters, act beyond human comprehension and understand humans just as little. Rich preserved this by giving the Monster in the Dark a goofy, fish-out-of-water personality that transformed the alienation of Cosmic Horror into the absurdity of Comical Error.
 
-This acted as a pressure valve for Rich, letting him give the Monster in the Dark a personality more suited to the parodic tone of the comic, while still embedding clues about the base monster he originally selected.
+Rich didn’t discard the Monster in the Dark’s more horrific traits, he entrusted them to Xykon.  Xykon treats the Monster in the Dark more like a textbook Hunting Horror, following the rulebook’s assumptions even when they clash with what’s in front of him. This gave Rich room to emphasize the Monster’s comic personality while still leaving the original creature’s shape visible beneath it.
 
 [Comic 549](https://www.giantitp.com/comics/oots0549.html)
 
@@ -121,4 +127,3 @@ Rich provides a few clues to guide us toward the connection to *Call of Cthulhu*
 In hindsight, the *Escape* spell may have tested the fine line more than intended. It became a daunting shibboleth, an expectation that no candidate could meet without exceeding the boundaries of its own stat block.&#x20;
 
 In the case of the Hunting Horror, *Escape* was a spell Rich had to construct within the template system's constraints. For the Monster in the Dark, learning it would require a standard method: either being taught by another or having it impressed upon its mind by a greater power. This additional complexity blurred the boundary between an organic part of the character and an external addition, making it harder to distinguish what was intrinsic to the Hunting Horror and what was imposed on the Monster in the Dark by the story's needs.
-
