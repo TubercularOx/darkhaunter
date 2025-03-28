@@ -69,7 +69,7 @@ Or is it simply incapable, and the later scene must be explained without relying
 
 [Comic 477](https://www.giantitp.com/comics/oots0477.html)
 
-The Hunting Horror is printed with the *Shot on the Run* feat, but it doesn’t qualify for it: it lacks the prerequisites. Even if it had those, its only ranged attack is a vomit ability, making the feat an odd choice.
+The Hunting Horror is printed with the *Shot on the Run* feat, but it doesn’t qualify for it: it has the Dexterity, but lacks the prerequisite feats. Even if it had those, its only ranged attack is a vomit ability, making the feat an odd choice.
 
 However, the Hunting Horror does qualify for *Shock Wave* (Draconomicon, p. 73). Swapping out *Shot on the Run* for *Shock Wave* serves two purposes.
 
