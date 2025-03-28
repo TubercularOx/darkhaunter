@@ -251,7 +251,7 @@ Most of its feats are undemonstrated because they're combat related and we just 
 
 #### Shot on the Run
 
-The Hunting Horror does not qualify for this feat.  It is missing literally all of the prerequisites, and even if it had those, its only ranged attack is its Vomit attack.  That's why Rich felt free to replace it with:
+The Hunting Horror does not qualify for this feat.  It has the Dexterity, but is missing literally all of the prerequisite feats, and even if it had those, its only ranged attack is its Vomit attack.  That's why Rich felt free to replace it with:
 
 #### Shock Wave
 
