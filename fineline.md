@@ -21,7 +21,7 @@ The base Hunting Horror is described as having a three-lobed burning eye, a deta
 
 ## Theme
 
-Hunting Horrors are Greater Servitors.  The species was made to serve the Cosmic Horror named Nyarlathotep.  While the Servitor title is flexible enough that Rich was not compelled to make the Monster in the Dark a servant of Nyarathotep, just the existence of Nyarlathotep would have been an uncomfortable addition to a setting that mostly belonged to Rich building off of generic 3.5 tropes.
+Hunting Horrors are Greater Servitors.  The species was made to serve the Cosmic Horror named Nyarlathotep.  While the Servitor title is flexible enough that Rich was not compelled to make the Monster in the Dark a servant of Nyarlathotep, just the existence of Nyarlathotep would have been an uncomfortable addition to a setting that mostly belonged to Rich building off of generic 3.5 tropes.
 
 So Rich made the Snarl, shifting the Hunting Horror's connection from Nyarlathotep to a force of his own creation. This push toward the fine line allowed him to maintain the narrative independence of his setting while honoring the spirit of the Hunting Horror’s description.
 
