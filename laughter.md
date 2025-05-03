@@ -11,7 +11,7 @@ Gates figure prominently in *Call of Cthulhu*. There are spells to create them, 
 
 Given how gates are described, it follows that a Hunting Horror wouldn’t immediately recognize any of the ones placed before the Monster in the Dark. None of the gates encountered are circles or patterns on the ground, at least until the reveal near the end of the story.
 
-I suspect Rich lucked into this gag—he probably told the first gate joke without yet knowing what the Monster in the Dark really was. He must've been thrilled when he realized the cosmic-scale stunt he could pull.
+The Timeline page offers strong circumstantial evidence that the “What Gate?” joke first appeared alongside Rich’s decision to make the Monster in the Dark a Hunting Horror and steer the story toward a Snarl-related arc.
 
 ## A Flawless Mystery
 
