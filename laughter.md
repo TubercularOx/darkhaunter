@@ -11,17 +11,17 @@ Gates figure prominently in *Call of Cthulhu*. There are spells to create them, 
 
 Given how gates are described, it follows that a Hunting Horror wouldn’t immediately recognize any of the ones placed before the Monster in the Dark. None of the gates encountered are circles or patterns on the ground, at least until the reveal near the end of the story.
 
-The Timeline page offers strong circumstantial evidence that the “What Gate?” joke first appeared alongside Rich’s decision to make the Monster in the Dark a Hunting Horror and steer the story toward a Snarl-related arc.
+The Timeline page offers strong circumstantial evidence suggesting that the “What Gate?” joke first appeared alongside Rich’s decision to make the Monster in the Dark a Hunting Horror and steer the story toward a Snarl-related arc.
 
 ## A Flawless Mystery
 
-Twice, Rich presents the Monster in the Dark as nigh-invulnerable: once in Comic 374, when Miko fails to affect it, and again in Comic 477, when Belkar fails to affect it. At first glance, this makes it natural to assume the Monster in the Dark has a single, all-encompassing defense. But that assumption may not be correct.
+Twice, Rich presents the Monster in the Dark as nigh-invulnerable: once in [Comic 374](https://www.giantitp.com/comics/oots0374.html), when Miko fails to affect it, and again in [Comic 477](https://www.giantitp.com/comics/oots0477.html), when Belkar fails to affect it. At first glance, this makes it natural to assume the Monster in the Dark has a single, all-encompassing defense. But that assumption may not be correct.
 
 The Hunting Horror’s defensive abilities include Smoke Form, which lets it become incorporeal, and Deflect Harm, which allows it to negate attacks. These are two separate defenses, each with a limitation: Smoke Form prevents interaction with objects, and Deflect Harm requires concentration.
 
 Each of these fights presents a piece of the puzzle, but neither alone provides a full explanation. In Comic 374, the Monster in the Dark laughs uncontrollably, which strongly suggests it isn’t concentrating—making it unlikely that Deflect Harm is in play. In Comic 477, it holds its umbrella, which suggests it isn’t incorporeal—making Smoke Form unlikely.
 
-The structure of these two encounters encourages the audience to look for a single defense that explains both scenes. However, when examined in the context of the Hunting Horror reveal, these scenes instead suggest that different defensive abilities were used at different times. This new perspective encourages a closer look at these moments, reframing them in a way that wasn’t immediately obvious before.
+The structure of these two encounters encourages the audience to look for a single defense that explains both scenes, one that would leave the Monster in the Dark both corporeal and not concentrating, consistent with what we’re shown in each case. However, when examined in the context of the Hunting Horror reveal, these scenes instead suggest that different defensive abilities were used at different times. This new perspective encourages a closer look at these moments, reframing them in a way that wasn’t immediately obvious before.
 
 ### Miko vs. The Smoke Form Hunting Horror
 
@@ -29,7 +29,7 @@ Smoke Form grants incorporeality, but more importantly, it creates a mental imag
 
 The math behind this depends on many factors: Miko's levels, her attributes, and her magic items are all important unknowns. The Hunting Horror may also gain significant defensive benefits from taking the Total Defense action, if a reflexive reaction to being tickled can be interpreted that way.&#x20;
 
-In many plausible scenarios, Miko’s damage output would be less than 10 hp per round, meaning it could be completely negated by the Hunting Horror’s Fast Healing 10. If that’s the case, Miko could swing indefinitely and still never kill the Monster in the Dark.&#x20;
+In many plausible scenarios, Miko’s damage output would average less than 10 hp per round, meaning it could be completely negated by the Hunting Horror’s Fast Healing 10. If that’s the case, Miko could swing indefinitely and still never kill the Monster in the Dark.&#x20;
 
 Rich is then free to summarize this inevitable outcome in a single round that has no visible effect.
 
@@ -37,11 +37,11 @@ Rich is then free to summarize this inevitable outcome in a single round that ha
 
 Deflect Harm is a spell unique to Call of Cthulhu that the Hunting Horror has as an at-will Spell-Like Ability, which removes it from the dramatic limitations associated with casting a Call of Cthulhu spell directly:
 
-You deflect a number of successful incoming physical attacks equal to your level, although each attack you deflect causes you to take 2 points of temporary Intelligence damage. All attacks deflected must occur before your next action.
+> You deflect a number of successful incoming physical attacks equal to your level, although each attack you deflect causes you to take 2 points of temporary Intelligence damage. All attacks deflected must occur before your next action.
 
 While the spell only lasts for an action, it does require Concentration during that action to use it. In this scene, we see the Monster in the Dark sorting out its thoughts. Rich often presents concentration subtly rather than explicitly, and based on how it is handled in other instances, it is reasonable to infer that a creature visibly engaged in thought could also be maintaining a magical shield that gives it space to think.
 
-The 20% miss chance from darkness and a miss or two from its AC help limit the Intelligence damage it takes. Even in an unfavorable scenario, the Hunting Horror's 17 Intelligence is enough to absorb the maximum possible 10 damage and remain functional.
+The 20% miss chance from darkness and a miss or two from its AC help limit the Intelligence damage it takes. Even in an unfavorable scenario, the Hunting Horror's 17 Intelligence is enough to absorb the maximum possible 10 Int damage and remain functional.
 
 However, temporary Intelligence damage may still have lingering effects. Later in the same scene, the Monster in the Dark complains of being "really tired all of a sudden." Much later, in the Escape scene, the Monster in the Dark falls asleep after casting a spell that deals both Intelligence and Wisdom ability damage. Although it's not definitive, this pattern suggests that Rich may be using fatigue as a way to represent the effects of ability damage from Call of Cthulhu spells.
 
