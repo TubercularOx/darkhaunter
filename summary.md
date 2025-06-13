@@ -1,4 +1,5 @@
 ---
+parent: The Haunter of the Dark
 nav_order: 2
 ---
 # Summary of Powers
