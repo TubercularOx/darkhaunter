@@ -1,4 +1,5 @@
 ---
+parent: The Haunter of the Dark
 nav_order: 5
 ---
 # If You Listen, You Can Hear Rich Laughing
