@@ -1,3 +1,6 @@
+---
+parent: The Haunter of the Dark
+---
 # A Curious Volume of Forgotten Lore
 
 The Hunting Horror has two skills that grant it broad but inconsistent knowledge, allowing it to demonstrate insight into obscure subjects while remaining oblivious to more common knowledge.
