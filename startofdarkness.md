@@ -1,4 +1,5 @@
 ---
+parent: The Haunter of the Dark
 nav_order: 4
 ---
 # The Enlightening Start of Darkness
