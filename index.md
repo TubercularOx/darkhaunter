@@ -1,8 +1,9 @@
 ---
+title: Haunter
 nav_order: 1
 has_children: true
 ---
-## The Haunter of the Dark
+# The Haunter of the Dark
 
 This site explains the Monster in the Dark as a Hunting Horror, also known as the Haunter of the Dark, printed in d20 Call of Cthulhu, pg. 173.  It aims to be a resource for readers after the reveal.
 
