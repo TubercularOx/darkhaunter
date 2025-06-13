@@ -1,4 +1,5 @@
 ---
+parent: The Haunter of the Dark
 nav_order: 3
 ---
 # The Fine Line: How the Hunting Horror Doesn't Fit
