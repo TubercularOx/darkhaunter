@@ -1,6 +1,7 @@
 ---
 title: "Geekery"
 has_children: true
+nav_exclude: true
 ---
 # Welcome to Geekery
 
