@@ -1,5 +1,5 @@
 ---
-title: Haunter
+title: The Haunter of the Dark
 nav_order: 1
 has_children: true
 ---
