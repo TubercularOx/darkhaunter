@@ -1,4 +1,5 @@
 ---
+parent: The Haunter of the Dark
 nav_order: 7
 ---
 # Actual Foreshadowing!
