@@ -60,9 +60,9 @@ He’s also shared that being quoted out of context has caused him distress in t
 
 [Source](https://www.patreon.com/posts/answers-post-8-93833361)
 
-In light of that, it’s likely Rich didn’t intend to contradict the Swordsage theory at all. His response seems designed to close the topic gently, not to settle it definitively.
+In light of that, it’s likely Rich didn’t intend to contradict the Swordsage theory at all. His response seems designed to remove himself from the discussion, not to settle it definitively.
 
-Having made room for the possibility, we can now look at support for the possibility.
+Having made room for the possibility, we can now look at support for it.
 
 ## Maneuvers
 
