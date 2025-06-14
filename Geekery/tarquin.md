@@ -9,10 +9,14 @@ Some readers point to [this post](https://forums.giantitp.com/showsinglepost.php
 
 > **Tubercular Ox:**
 > So, does this nix "Tarquin is a Swordsage"? Cuz that Ballista Throw and the constricting stance were nova hot.
+>
+>
 > OMG, it nixes the Blue Carbuncle, too. Unless that's an ordinary Carbuncle.
 >
 > **Rich:**
 > I honestly enjoy having had no awareness of either of these two theories.
+>
+>
 > EDIT: Wrecan is technically a Crusader so there's still some flexibility in each category anyway.
 
 This response has sometimes been read as a rejection, but Rich’s comment doesn’t actually disqualify the Swordsage theory, it simply states he wasn’t aware of it. His edit appears to respond directly to the question, "Does this nix 'Tarquin is a Swordsage'?" The answer it gives is, essentially, "No."
