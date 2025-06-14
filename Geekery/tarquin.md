@@ -11,7 +11,7 @@ Some readers point to [this post](https://forums.giantitp.com/showsinglepost.php
 > So, does this nix "Tarquin is a Swordsage"? Cuz that Ballista Throw and the constricting stance were nova hot.
 >
 > OMG, it nixes the Blue Carbuncle, too. Unless that's an ordinary Carbuncle.
->
+
 > **Rich:**
 > I honestly enjoy having had no awareness of either of these two theories.
 >
@@ -85,7 +85,7 @@ Because of the way classes work in D&D, seeing Tarquin use one Maneuver makes me
 
 *With a quick sidestep, you send a charging opponent sprawling.*
 
-Panels 1 through 3 of the same strip follow this sequence closely. In Panel 1, Roy charges with clear motion lines behind him. In Panel 2, Tarquin steps aside and hooks Roy’s leg with his foot, consistent with using leverage and misdirection. In Panel 3, Roy is redirected and lands sprawling a moderate distance away. The visual match aligns well with how *Counter Charge* functions, both thematically and mechanically.
+Panels 1 through 3 of [the same strip](https://www.giantitp.com/comics/oots0851.html) follow this sequence closely. In Panel 1, Roy charges with clear motion lines behind him. In Panel 2, Tarquin steps aside and hooks Roy’s leg with his foot, consistent with using leverage and misdirection. In Panel 3, Roy is redirected and lands sprawling a moderate distance away. The visual match aligns well with how *Counter Charge* functions, both thematically and mechanically.
 
 ### Disrupting Blow
 
