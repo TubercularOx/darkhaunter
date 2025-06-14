@@ -9,6 +9,8 @@ nav_order: 1
 
 ### Ballista Throw
 
+This is the best evidence that Tarquin is a Swordsage.
+
 Ballista Throw is described like this:
 
 > You grab your opponent and spin like a top, swinging him around before throwing him at your opponents like a bolt from a ballista.
