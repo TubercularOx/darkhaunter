@@ -79,7 +79,7 @@ Notably, the feat doesn’t require the thrown victim to be aimed at a target.
 
 Short of labeling it outright, it’s hard to imagine what a clearer depiction of Ballista Throw would look like. And labeling it outright isn’t something Rich can do in this format without implying it’s going to be a plot point.
 
-Because of the way classes work in D\&D, seeing Tarquin use one Maneuver makes me want to look at whether any of his other actions might be as well.
+Because of the way classes work in D&D, seeing Tarquin use one Maneuver makes me want to look at whether any of his other actions might be as well.
 
 ### Counter Charge
 
