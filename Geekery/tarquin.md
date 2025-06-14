@@ -19,7 +19,11 @@ Some readers point to [this post](https://forums.giantitp.com/showsinglepost.php
 >
 > EDIT: Wrecan is technically a Crusader so there's still some flexibility in each category anyway.
 
-This response has sometimes been read as a rejection, but Rich’s comment doesn’t actually disqualify the Swordsage theory, it simply states he wasn’t aware of it. His edit appears to respond directly to the question, "Does this nix 'Tarquin is a Swordsage'?" The answer it gives is, essentially, "No."
+This response has sometimes been read as a rejection, but Rich’s comment doesn’t actually disqualify the Swordsage theory, it simply states he wasn’t aware of it.&#x20;
+
+His edit appears to respond directly to the question, "Does this nix 'Tarquin is a Swordsage'?"&#x20;
+
+The answer it gives is, essentially, "No."
 
 This is enough for the Geekery thread, for which the premise is that Rich is following the rules as much as possible, even if that wasn’t his original goal as a storyteller.
 
@@ -30,6 +34,8 @@ While the thread should be guided by the premise, the following supporting mater
 Rich also said he wasn’t aware of the “Blue Carbuncle” theory, yet his Class Monster design includes a blue carbuncle on it:
 
 [https://i.giantitp.com/products/CafePress2023/Class\_Monster\_Forum.png](https://i.giantitp.com/products/CafePress2023/Class_Monster_Forum.png)
+
+
 [Original post](https://forums.giantitp.com/showsinglepost.php?p=25915519&postcount=1)
 
 The same creature appears as a "Carbunkle" in A Monster for Every Season, Spring 2, with the gem correctly colored red, suggesting that the blue gem in the Monster Class design was an intentional choice.
@@ -81,7 +87,7 @@ Because of the way classes work in D\&D, seeing Tarquin use one Maneuver makes m
 
 *With a quick sidestep, you send a charging opponent sprawling.*
 
-Panels 1 through 3 follow this sequence closely. In Panel 1, Roy charges with clear motion lines behind him. In Panel 2, Tarquin steps aside and hooks Roy’s leg with his foot, consistent with using leverage and misdirection. In Panel 3, Roy is redirected and lands sprawling a moderate distance away. The visual match aligns well with how *Counter Charge* functions, both thematically and mechanically.
+Panels 1 through 3 of the same strip follow this sequence closely. In Panel 1, Roy charges with clear motion lines behind him. In Panel 2, Tarquin steps aside and hooks Roy’s leg with his foot, consistent with using leverage and misdirection. In Panel 3, Roy is redirected and lands sprawling a moderate distance away. The visual match aligns well with how *Counter Charge* functions, both thematically and mechanically.
 
 ### Disrupting Blow
 
