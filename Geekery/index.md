@@ -10,7 +10,7 @@ This page collects minor topics that the Geekery thread either considered too tr
 
 [Strip 1321](https://www.giantitp.com/comics/oots1321.html)
 
-This includes posters for several lower planes, and reference the default setting for D\&D 3.5:
+This includes posters for several lower planes, and reference the default setting for D&D 3.5:
 
 **It won't be a cold day in Hell:** [Nine Hells](https://forgottenrealms.fandom.com/wiki/Baator).  Avernus and Dis are hot enough, but Phlegethos "most resembled the stereotype of a fiery world of eternal damnation, filled with active volcanoes, rivers of liquid fire, molten rock, ash hills, smoking pits, unbearable heat, all wracked by tremors and earthquakes."
 
@@ -39,3 +39,33 @@ V did an [area dispel](https://www.d20srd.org/srd/spells/dispelMagic.htm), which
 Dispel Magic provides a maximum +10 bonus to the dispel check, whereas Greater Dispel Magic can reach up to +20.&#x20;
 
 Had V used Greater Dispel Magic, it likely would have stripped away his own enchantments while leaving Sunny's lower-level effects on the party untouched.
+
+## Crystal ([deceased](https://www.giantitp.com/comics/oots0981.html))
+
+[Neutral Evil](https://forums.giantitp.com/showsinglepost.php?p=15667889&postcount=57) (forum), [Flesh golem](https://www.d20srd.org/srd/monsters/golem.htm) female, unknown class 6+/Assassin 1-9 ([wants "at least one more Assassin level"](https://www.giantitp.com/comics/oots0613.html)); total level 15+ ([Haley's personal rival](https://www.giantitp.com/comics/oots0581.html)).
+Str 21 (no evidence; racial)
+Dex 9 (no evidence; racial)
+Con N/A (no evidence; racial)
+Int <10 ("dumb-as-rocks", DStP; [flesh golem racial explicitly overridden during creation](https://www.giantitp.com/comics/oots0980.html))
+Wis 11 (no evidence; racial)
+Cha 1 (no evidence; racial)
+*Skills:* Disguise 4, Hide 8, Move Silently 8 (all required for Assassin)
+*Items:* [+4 dagger](https://www.giantitp.com/comics/oots0607.html), [protective jewelry](https://www.giantitp.com/comics/oots0648.html)
+*Abilities:* Assassin class abilities, flesh golem traits.
+
+### Crystal's Level
+
+Saying she wants one more Assassin level means Crystal isn't Assassin 10 yet, and if her level matched Haley's level of 15+, that means she has 6+ levels in a class that isn't Assassin.
+
+### Flesh Golem Abilities
+
+Crystal is explicitly identified as a [Flesh Golem](https://www.d20srd.org/srd/monsters/golem.htm) in [974](https://www.giantitp.com/comics/oots0974.html), and multiple scenes afterward show effects consistent with that stat block.
+
+* [A golem usually follows its last instruction to the best of its ability, though if attacked it returns the attack.](https://www.d20srd.org/srd/monsters/golem.htm) ([974](https://www.giantitp.com/comics/oots0974.html))
+* Does not eat, sleep, or breathe ([Construct type](https://www.d20srd.org/srd/typesSubtypes.htm), [974](https://www.giantitp.com/comics/oots0974.html))
+* Damage Reduction 5/adamantine ([976](https://www.giantitp.com/comics/oots0976.html))
+* Immunity to magic that allows spell resistance ([973](https://www.giantitp.com/comics/oots0973.html))
+* Electricity heals, grants temporary HP, and removes slow ([977](https://www.giantitp.com/comics/oots0977.html))
+* Flesh Golem cost: 20,000 gp. Crystal: 5× that ([974](https://www.giantitp.com/comics/oots0974.html)), or 100,000 gp
+
+The “supercharge” from the lightning bolt is highly stylized.  If the Geekery thread considered house rules, it might suggest Crystal was granted Haste or bonus lightning damage. But under the working assumption that Rich is following the rules and communicating through them, the most supportable reading is that this scene visually represents, rather extravagantly, a flesh golem gaining temporary hit points from electricity.
