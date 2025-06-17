@@ -66,7 +66,7 @@ While the thread should be guided by the premise, the following supporting mater
 
 Rich also said he wasn’t aware of the “Blue Carbuncle” theory, yet his Class Monster design includes a blue carbuncle on it:
 
-[https://i.giantitp.com/products/CafePress2023/Class\_Monster\_Forum.png](https://i.giantitp.com/products/CafePress2023/Class_Monster_Forum.png)
+(Out of respect for forum rules regarding the linking of art from Rich, I ask you to click on the original post, go to the Monster Class image, then right click > Open image in new tab:)
 
 [Original post](https://forums.giantitp.com/showsinglepost.php?p=25915519&postcount=1)
 
