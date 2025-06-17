@@ -18,7 +18,7 @@ Ballista Throw is described like this:
 The scene looks like this:
 [https://www.giantitp.com/comics/oots0851.html](https://www.giantitp.com/comics/oots0851.html)
 
-Notably, the feat doesn’t require the thrown victim to be aimed at a target.
+Notably, the maneuver doesn’t require the thrown victim to be aimed at a target.
 
 Short of labeling it outright, it’s hard to imagine what a clearer depiction of Ballista Throw would look like. And labeling it outright isn’t something Rich can do in this format without implying it’s going to be a plot point.
 
