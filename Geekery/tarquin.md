@@ -74,7 +74,7 @@ The same creature appears as a "Carbunkle" in A Monster for Every Season, Spring
 
 If Rich can draw a blue carbuncle and still not think of it as validating a “Blue Carbuncle” theory, then he can draw a swordsage and still not think of it as validating a Swordsage theory.
 
-There are several reasons Rich might have held back. It could be that Tarquin being a Swordsage is a future reveal. Or that Tarquin is multiclass, like his son, and Rich didn’t want to endorse a purely Swordsage interpretation or explicitly support a multiclass one. 
+There are several reasons Rich might have held back. It could be that Tarquin being a Swordsage is a future reveal. Or that Tarquin is multiclass, like the son he raised, and Rich didn’t want to endorse a purely Swordsage interpretation or explicitly support a multiclass one. 
 
 This follows naturally from a broader pattern of avoidance:
 
