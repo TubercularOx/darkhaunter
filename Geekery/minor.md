@@ -28,9 +28,9 @@ Wis 11 (no evidence; racial)
 Cha 1 (no evidence; racial)
 *Skills:* Disguise 4, Hide 8, Move Silently 8 (all required for Assassin)
 *Items:* [+4 dagger](https://www.giantitp.com/comics/oots0607.html), [protective jewelry](https://www.giantitp.com/comics/oots0648.html)
-*Abilities:* Assassin class abilities, flesh golem traits.
+*Abilities:* Assassin class abilities, [flesh golem traits](https://tubercularox.github.io/darkhaunter/Geekery/#crystals-flesh-golem-traits)
 
-## Azure City
+Azure City
 
 **Ho Thanh** ([deceased](https://www.giantitp.com/comics/oots0827.html))
 Lawful Good, Human male, Paladin 4 ([can Turn Undead](https://www.giantitp.com/comics/oots0514.html), but has no mount, nor a demonstrated ability to Smite more than once a day)
