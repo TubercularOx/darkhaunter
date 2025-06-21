@@ -1,3 +1,7 @@
+---
+title: "Minor Characters"
+parent: "Geekery"
+---
 # Minor Characters
 
 This page has characters that were not notable enough for the first post.
