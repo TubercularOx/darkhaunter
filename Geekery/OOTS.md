@@ -7,7 +7,7 @@ nav_order: 10
 
 **Roy Greenhilt**
 [Lawful Good](http://www.giantitp.com/comics/oots0490.html), Human male [Fighter](http://www.giantitp.com/comics/oots0285.html) 14+ ([forum](https://forums.giantitp.com/showsinglepost.php?p=19392374&postcount=533)).
-Str 29 ([same as a frost giant](http://www.giantitp.com/comics/oots1075.html)).
+Str ~29 ([same as a frost giant](http://www.giantitp.com/comics/oots1075.html)).
 Dex 13+ (legacy)
 
 Con 12+ ([151+ hit points](http://www.giantitp.com/comics/oots1109.html)).
