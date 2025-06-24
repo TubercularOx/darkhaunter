@@ -1,6 +1,6 @@
 ---
 title: "Tarquin"
-parent: "Geekery"
+parent: "Vector Legion"
 ---
 # Tarquin
 
