@@ -1,3 +1,7 @@
+---
+title: "Order of the Stick"
+parent: "Geekery"
+---
 # Order of the Stick
 
 **Roy Greenhilt**
