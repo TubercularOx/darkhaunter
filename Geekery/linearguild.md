@@ -2,6 +2,7 @@
 title: "Linear Guild"
 parent: "Geekery"
 nav_order: 30
+has_children: true
 ---
 # The Linear Guild
 
