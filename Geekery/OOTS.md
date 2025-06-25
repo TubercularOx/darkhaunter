@@ -2,6 +2,7 @@
 title: "Order of the Stick"
 parent: "Geekery"
 nav_order: 10
+has_children: true
 ---
 # Order of the Stick
 
