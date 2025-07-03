@@ -7,6 +7,8 @@ nav_order: 10
 
 ## Maximized Energy Drain
 
+[Strip 652](https://www.giantitp.com/comics/oots0652.html)
+
 Energy Drain is a 9th level spell, Maximize requires a spell slot at least 3 levels higher.  There are multiple ways for Xykon to achieve this.
 
 ### Improved Spell Capacity x3
