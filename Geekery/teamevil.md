@@ -2,6 +2,7 @@
 title: "Team Evil"
 parent: "Geekery"
 nav_order: 20
+has_children: true
 ---
 # Team Evil
 
