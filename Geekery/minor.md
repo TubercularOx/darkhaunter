@@ -6,6 +6,14 @@ parent: "Geekery"
 
 This page has characters that were not notable enough for the first post.
 
+## Kraagor's Gate
+
+**Mimi**
+*Under construction*
+Mimi is a mimic, and hence her stats are [all online](https://www.d20srd.org/srd/monsters/mimic.htm). Rich has confirmed her Mimic Shape and Adhesive abilities, but he seems to be ignoring the rule that says she cannot substantially alter her size.
+
+Many hints suggest that Mimi is Advanced, which increases her Size and Hit Dice.  We get a visual estimate of her size in her first appearance.  Roy refers to her as, "Giant."  Serini says she's the largest.
+
 ## Greysky City
 
 **Bozzok** ([deceased](https://www.giantitp.com/comics/oots0980.html))
