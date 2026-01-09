@@ -39,7 +39,7 @@ Disrupting Blow is the same effect as Stunning Fist, but it works with any melee
 
 ### Crushing Weight of the Mountain
 
-> While you are in this stance, you gain the ability to constrict.
+*While you are in this stance, you gain the ability to constrict.*
 
 Malack [explicitly credits](https://www.giantitp.com/comics/oots0876.html) Tarquin with teaching him a holding technique that he employs against Durkon.
 
