@@ -49,7 +49,7 @@ If this holding technique is *Crushing Weight of the Mountain*, the implication 
 
 That detail reinforces a broader pattern in the story’s portrayal of evil. Characters like Tarquin and Malack are capable of long-term partnerships, mentorships, and something that closely resembles friendship. Their evil is not erratic or antisocial in the way exemplified by Belkar; it coexists with planning, loyalty, and shared history. However, Tarquin’s narrative in particular later shows that these relationships do not dilute or compartmentalize moral alignment.
 
-This context directly informs Tarquin’s response after Malack’s death. When Tarquin later cites the killing of his best friend as justification for executing his own son, the scene rests on the established depth of that relationship. Two significant bonds are placed in conflict, and Tarquin’s actions show that he does not treat either as disposable: first by offering his son protection from the consequences of his actions, and then by enforcing those consequences after that offer is refused.
+This context directly informs Tarquin’s response after Malack’s death. When Tarquin later cites the killing of his best friend as justification for [executing his own son](https://www.giantitp.com/comics/oots0913.html), the scene rests on the established depth of that relationship. Two significant bonds are placed in conflict, and Tarquin’s actions show that he does not treat either as disposable: first by offering his son protection from the consequences of his actions, and then by enforcing those consequences after that offer is refused.
 
 ## Objection
 
