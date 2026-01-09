@@ -39,6 +39,8 @@ Disrupting Blow is the same effect as Stunning Fist, but it works with any melee
 
 ### Crushing Weight of the Mountain
 
+> While you are in this stance, you gain the ability to constrict.
+
 Malack [explicitly credits](https://www.giantitp.com/comics/oots0876.html) Tarquin with teaching him a holding technique that he employs against Durkon.
 
 If Tarquin is a Swordsage, a fit for this holding technique is *Crushing Weight of the Mountain*, a Swordsage stance that enables Constrict as a combat option. During the fight, Malack is shown constricting Durkon with his tail.
