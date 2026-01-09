@@ -2,7 +2,7 @@
 title: "Tarquin"
 parent: "Vector Legion"
 ---
-# Tarquin
+# Swordsage Tarquin
 
 ## Maneuvers
 
