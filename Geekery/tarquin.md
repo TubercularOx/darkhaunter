@@ -37,6 +37,18 @@ Panels 1 through 3 of [the same strip](https://www.giantitp.com/comics/oots0851.
 
 Disrupting Blow is the same effect as Stunning Fist, but it works with any melee weapon. This matters because the previous explanation for this scene relied on Stunning Fist combined with a ki strike weapon that could deliver it. That workaround isn’t needed here.
 
+### Crushing Weight of the Mountain
+
+Malack [explicitly credits](https://www.giantitp.com/comics/oots0876.html) Tarquin with teaching him a holding technique that he employs against Durkon.
+
+If Tarquin is a Swordsage, a fit for this holding technique is *Crushing Weight of the Mountain*, a Swordsage stance that enables Constrict as a combat option. During the fight, Malack is shown constricting Durkon with his tail.
+
+If this holding technique is *Crushing Weight of the Mountain*, the implication is not primarily about the maneuver itself but about what it says regarding Tarquin and Malack’s history. Teaching that stance would require a long enough association to justify formal martial training over time. Mechanically, this corresponds to at least four character levels, sufficient to account for acquiring *Martial Study* and *Martial Stance*.
+
+That detail reinforces a broader pattern in the story’s portrayal of evil. Characters like Tarquin and Malack are capable of long-term partnerships, mentorships, and something that closely resembles friendship. Their evil is not erratic or antisocial in the way exemplified by Belkar; it coexists with planning, loyalty, and shared history. However, Tarquin’s narrative in particular later shows that these relationships do not dilute or compartmentalize moral alignment.
+
+This context directly informs Tarquin’s response after Malack’s death. When Tarquin later cites the killing of his best friend as justification for executing his own son, the scene rests on the established depth of that relationship. Two significant bonds are placed in conflict, and Tarquin’s actions show that he does not treat either as disposable: first by offering his son protection from the consequences of his actions, and then by enforcing those consequences after that offer is refused.
+
 ## Objection
 
 Some readers point to [this post](https://forums.giantitp.com/showsinglepost.php?p=25915532&postcount=3) as contradicting Tarquin being a Swordsage:
