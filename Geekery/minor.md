@@ -12,7 +12,7 @@ This page has characters that were not notable enough for the first post.
 
 Mimi is a mimic, so her [baseline statistics are known](https://www.d20srd.org/srd/monsters/mimic.htm).Rich has demonstrated her [Mimic Shape](https://www.giantitp.com/comics/oots1281.html) and [Adhesive](https://www.giantitp.com/comics/oots1269.html) abilities, but the usual restrictions that limit mimics to object forms and prevent substantial size changes do not appear to apply.
 
-Multiple cues suggest that Mimi is Advanced, giving her additional Hit Dice and a larger size. Her [first appearance](https://www.giantitp.com/comics/oots1238.html) establishes a size reference, Roy calls her a “[giant mimic](https://www.giantitp.com/comics/oots1281.html),” and Serini describes her as [the biggest](https://www.giantitp.com/comics/oots1269.html).
+Multiple cues suggest that Mimi is Advanced, giving her additional Hit Dice and a larger size. Her [first appearance](https://www.giantitp.com/comics/oots1238.html) establishes a size reference, Roy calls her a “[giant mimic](https://www.giantitp.com/comics/oots1281.html),” and Serini describes her as [the biggest](https://www.giantitp.com/comics/oots1269.html).  As of [comic 1338](https://www.giantitp.com/comics/oots1338.html), Mimi has been subjected to *Blasphemy*, a spell with level-dependent effects whose implications for her are not yet resolved on-panel.
 
 ## Greysky City
 
