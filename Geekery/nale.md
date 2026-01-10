@@ -21,7 +21,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Roy | 14+ | ([forum](https://forums.giantitp.com/showsinglepost.php?p=19392374&postcount=533)) |
 | Durkon | 13+ | (required to cast [Regenerate](http://www.giantitp.com/comics/oots1162.html)) |
 | Lien | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
-| O-Chul | 11+ | ([Fighter 8+ / Paladin 3-4](http://www.giantitp.com/comics/oots0671.html)) |
+| O-Chul | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
 | Minrah | 10+ | ([Fighter](http://www.giantitp.com/comics/oots1180.html) 1+ / [Cleric](https://www.giantitp.com/comics/oots1212.html) 9+) |
 | Mr. Scruffy | TBD |  |
 | Blackwing | TBD |  |
