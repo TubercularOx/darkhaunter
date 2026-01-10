@@ -26,7 +26,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Mr. Scruffy | TBD |  |
 | Blackwing | TBD |  |
 | Sunny | 11–16+ | (Beholders start as Large 11+ Hit Dice, can advance up to 16 HD without becoming Huge, and maybe just maybe Sunny has class levels.) |
-| Mimi | 11–21+ | (Mimi appears to be a Huge Mimic, and thus advanced to this HD range.) |
+| Mimi | 11–21+ | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
 
 
 ### Status
