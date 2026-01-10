@@ -9,10 +9,10 @@ This page has characters that were not notable enough for the first post.
 ## Kraagor's Gate
 
 **Mimi**
-*Under construction*
-Mimi is a mimic, and hence her stats are [all online](https://www.d20srd.org/srd/monsters/mimic.htm). Rich has confirmed her Mimic Shape and Adhesive abilities, but he seems to be ignoring the rule that says she cannot substantially alter her size.
 
-Many hints suggest that Mimi is Advanced, which increases her Size and Hit Dice.  We get a visual estimate of her size in her first appearance.  Roy refers to her as, "Giant."  Serini says she's the largest.
+Mimi is a mimic, so her [baseline statistics are known](https://www.d20srd.org/srd/monsters/mimic.htm).Rich has demonstrated her [Mimic Shape](https://www.giantitp.com/comics/oots1281.html) and [Adhesive](https://www.giantitp.com/comics/oots1269.html) abilities, but the usual restrictions that limit mimics to object forms and prevent substantial size changes do not appear to apply.
+
+Multiple cues suggest that Mimi is Advanced, giving her additional Hit Dice and a larger size. Her [first appearance](https://www.giantitp.com/comics/oots1238.html) establishes a size reference, Roy calls her a “[giant mimic](https://www.giantitp.com/comics/oots1281.html),” and Serini describes her as [the biggest](https://www.giantitp.com/comics/oots1269.html).
 
 ## Greysky City
 
