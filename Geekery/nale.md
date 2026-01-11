@@ -11,6 +11,8 @@ parent: "Linear Guild"
 
 This is a temporary section for discussing 1338's use of [Blasphemy](https://www.giantitp.com/comics/oots1338.html)
 
+#### Character Level Summary
+
 | Character | Level | Basis (with inline links) |
 |---|---:|---|
 | Serini | 21+ | ([Low Epic](https://forums.giantitp.com/showpost.php?p=15415463&postcount=331)) |
@@ -27,6 +29,24 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Blackwing | TBD |  |
 | Sunny | 11–16+ | (Beholders start as Large 11+ Hit Dice, can advance up to 16 HD without becoming Huge, and maybe just maybe Sunny has class levels.) |
 | Mimi | 11–21+ | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
+
+#### Blasphemy Effects (Simplified)
+
+Blasphemy affects **nonevil creatures** based on how their Hit Dice compare to the caster’s level.  
+All listed effects apply **simultaneously**.
+
+| Target HD relative to caster | Resulting effects |
+| --- | --- |
+| **Equal to caster level** | Dazed |
+| **Up to caster level -1** | Weakened, dazed |
+| **Up to caster level -5** | Paralyzed, weakened, dazed |
+| **Up to caster level -10** | Killed, paralyzed, weakened, dazed |
+
+**Creatures with more Hit Dice than the caster are unaffected.**
+
+If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
+
+
 
 
 ### Status
