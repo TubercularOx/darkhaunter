@@ -27,8 +27,8 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Minrah | 10+ | ([Fighter](http://www.giantitp.com/comics/oots1180.html) 1+ / [Cleric](https://www.giantitp.com/comics/oots1212.html) 9+) |
 | Mr. Scruffy | TBD |  |
 | Blackwing | TBD |  |
-| Sunny | 11–16+ | (Beholders start as Large 11+ Hit Dice, can advance up to 16 HD without becoming Huge, and maybe just maybe Sunny has class levels.) |
-| Mimi | 11–21+ | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
+| Sunny | 11–16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge |
+| Mimi | 11–21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
 
 #### Blasphemy Effects (Simplified)
 
