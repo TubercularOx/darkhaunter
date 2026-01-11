@@ -32,7 +32,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 
 #### Blasphemy Effects (Simplified)
 
-Blasphemy affects **nonevil creatures** based on how their Hit Dice compare to the caster’s level.  
+Blasphemy affects **nonevil creatures** based on how their Hit Dice compare to the caster’s caster level.  
 All listed effects apply **simultaneously**.
 
 | Target HD relative to caster | Resulting effects |
