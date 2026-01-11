@@ -33,16 +33,15 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 #### Blasphemy Effects (Simplified)
 
 Blasphemy affects **nonevil creatures** based on how their Hit Dice compare to the caster’s caster level.  
-All listed effects apply **simultaneously**.
+All listed effects apply **simultaneously**.  
 
-| Target HD relative to caster | Resulting effects |
+| Target HD relative to caster level | Resulting effects |
 | --- | --- |
+| **Above Caster Level** | No effect |
 | **Equal to caster level** | Dazed |
 | **Up to caster level -1** | Weakened, dazed |
 | **Up to caster level -5** | Paralyzed, weakened, dazed |
 | **Up to caster level -10** | Killed, paralyzed, weakened, dazed |
-
-**Creatures with more Hit Dice than the caster are unaffected.**
 
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
 
