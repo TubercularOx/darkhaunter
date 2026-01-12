@@ -21,7 +21,7 @@ parent: "Linear Guild"
   We see a lot of Malack in [this scene](https://www.giantitp.com/comics/oots0876.html).
 
 - **Serpentfolk Vampire reference**  
-  *[A Monster for Every Season: Spring 2](https://www.drivethrurpg.com/product/103664/A-Monster-for-Every-Season-Spring-2)* includes a “Serpentfolk Vampire” depicted as white-scaled and wearing a black palette swap of Malack’s outfit. “Serpentfolk” are Rich's legally distinct version of yuan-ti. [Buy it](https://richburlew.gumroad.com/l/amfesspring2) and judge for yourself whether this is meant to suggest Malack is a kind of Serpentfolk.
+  *A Monster for Every Season: Spring 2* includes a “Serpentfolk Vampire” depicted as white-scaled and wearing a black palette swap of Malack’s outfit. “Serpentfolk” are Rich's legally distinct version of yuan-ti. [Buy it](https://richburlew.gumroad.com/l/amfesspring2) and judge for yourself whether this is meant to suggest Malack is a kind of Serpentfolk.
 
 ### Malack Is a Lizard
 
