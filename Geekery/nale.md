@@ -3,15 +3,15 @@ title: "Nale"
 parent: "Linear Guild"
 ---
 
-## Nale — Least Devil (1322–1338)
+# Nale — Least Devil (1322–1338)
 
 **Nale** is a **Least Devil**, empowered by externally supplied **soul energy**.
 
-### Blasphemy!
+## Blasphemy!
 
 This is a temporary section for discussing 1338's use of [Blasphemy](https://www.giantitp.com/comics/oots1338.html)
 
-#### Character Level Summary
+### Character Level Summary
 
 | Character | Level | Basis (with inline links) |
 |---|---:|---|
@@ -30,7 +30,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Sunny | 11–16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
 | Mimi | 11–21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
 
-#### Blasphemy Effects (Simplified)
+### Blasphemy Effects (Simplified)
 
 Blasphemy affects **nonevil creatures** based on how their Hit Dice compare to the caster’s caster level.  
 All listed effects apply **simultaneously**.  
@@ -45,10 +45,36 @@ All listed effects apply **simultaneously**.
 
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
 
+## Least Devil
 
+The IFCC [offers](https://www.giantitp.com/comics/oots1322.html) to promote Nale to **Least Devil**.  
 
+In *Fiendish Codex II: Tyrants of the Nine Hells*, devils are divided into **Least**, **Lesser**, and **Greater** Devils. The Least Devils listed there are the **Lemure**, **Nupperibo**, and **Spined Devil**, ranked in that order.
 
-### Status
+New devils begin existence as **Lemures**, and may later be promoted to **Spined Devils**. At any point after that, a devil can be demoted to **Nupperibo** as a form of punishment.
+
+Nale does not resemble any of these devils, but he *does* [demonstrate](https://www.giantitp.com/comics/oots1327.html) **cold resistance 10**, which is a universal devil trait. One suggestion is that Nale differs from standard Least Devils because he did not undergo the usual rendering process applied to condemned souls before promotion. While this cannot be proven with the evidence available, I love this explanation.
+
+Rich published a [**Descent of Devil**](https://www.giantitp.com/comics/oots1322.html) panel, showing devils arranged by rank. All of the devils shown there have strong visual matches to devils previously published in *A Monster For Every Season: Autumn 1*. In order, the panel appears to depict:
+
+- **Spined Devil** (Rank 3, Least Devil)  
+- **Bearded Devil** (Rank 4, Lesser Devil)  
+- **Horned Devil** (Rank 13, Greater Devil)  
+- **Pit Fiend** (Rank 16, the highest rank, Greater Devil; mostly off panel)
+
+[Buy the set](https://richburlew.gumroad.com/l/amfesautumn) and decide for yourself whether there is a reason Rich chose these four. My inclination is that the selection reflects a combination of **body plan**, **color scheme**, and **fit with *Fiendish Codex II***.
+
+Taken together, the evidence suggests that Nale, as a Least Devil, possesses the baseline traits shared by devils in general:
+
+- **Immunity to fire and poison**  
+- **Resistance to acid 10 and cold 10**  
+- **See in Darkness (Su)**  
+- **Summon (Sp)**  
+- **Telepathy**
+
+Beyond these shared traits, there is not much evidence that can be linked to Least Devil status specifically.
+
+## Status
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
 - [Explicitly expects to become a devil and later identifies himself as “the least devil”](https://www.giantitp.com/comics/oots1326.html)
 - [Manifests physical devil traits (horns)](https://www.giantitp.com/comics/oots1326.html)
