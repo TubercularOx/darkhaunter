@@ -32,7 +32,7 @@ parent: "Linear Guild"
   Malack explicitly [identifies himself](https://www.giantitp.com/comics/oots0737.html) as a lizardfolk in dialogue, after Durkon identifies him as such first.
 
 - **Head and upper-body depiction**  
-  Malack's head shape is shown alongside other lizardfolk in [this panel](https://www.giantitp.com/comics/oots0723.html).
+  Malack's head shape is shown alongside other lizardfolk in [this strip](https://www.giantitp.com/comics/oots0723.html).
 
 ### Conclusion
 
