@@ -57,7 +57,7 @@ Nale does not resemble any of these devils, but he *does* [demonstrate](https://
 
 Rich published a [**Descent of Devil**](https://www.giantitp.com/comics/oots1322.html) panel, showing devils arranged by rank. All of the devils shown there have strong visual matches to devils previously published in *A Monster For Every Season: Autumn 1*. In order, the panel appears to depict:
 
-- **Spined Devil** (Rank 3, Least Devil)  
+- **Spined Devil** (Rank 3 in Fiendish Codex II, Least Devil)  
 - **Bearded Devil** (Rank 4, Lesser Devil)  
 - **Horned Devil** (Rank 13, Greater Devil)  
 - **Pit Fiend** (Rank 16, the highest rank, Greater Devil; mostly off panel)
