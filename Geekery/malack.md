@@ -7,7 +7,7 @@ parent: "Linear Guild"
 
 ## Herpetology
 
-### Malack Is a Snake
+### Malack Is A Snake
 
 - **Author statement (“snake person”)**  
   Rich Burlew thought the snake body was obvious, as stated in his [March 2020 Patreon Q&A answer](https://www.patreon.com/posts/answer-post-mar-36596373).
@@ -23,7 +23,7 @@ parent: "Linear Guild"
 - **Serpentfolk Vampire reference**  
   *A Monster for Every Season: Spring 2* includes a “Serpentfolk Vampire” depicted as white-scaled and wearing a black palette swap of Malack’s outfit. “Serpentfolk” are Rich's legally distinct version of yuan-ti. [Buy it](https://richburlew.gumroad.com/l/amfesspring2) and judge for yourself whether this is meant to suggest Malack is a kind of Serpentfolk.
 
-### Malack Is a Lizard
+### Malack Is A Lizard
 
 - **First meeting identification**  
   On first meeting, Elan and Haley identify Malack as a lizardfolk, and Vaarsuvius does not correct them, in [their introduction scene](https://www.giantitp.com/comics/oots0718.html).
