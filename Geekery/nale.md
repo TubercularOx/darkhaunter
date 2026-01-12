@@ -69,10 +69,9 @@ Taken together, the evidence suggests that Nale, as a Least Devil, possesses the
 - **Immunity to fire and poison**  
 - **Resistance to acid 10 and cold 10**  
 - **See in Darkness (Su)**  
-- **Summon (Sp)**  
 - **Telepathy**
 
-Beyond these shared traits, there is not much evidence that can be linked to Least Devil status specifically.
+Beyond these shared traits, there is not much evidence of any abilities that can be linked to Least Devil status specifically.
 
 ## Status
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
