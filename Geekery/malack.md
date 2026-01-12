@@ -29,7 +29,7 @@ parent: "Linear Guild"
   On first meeting, Elan and Haley identify Malack as a lizardfolk, and Vaarsuvius does not correct them, in [their introduction scene](https://www.giantitp.com/comics/oots0718.html).
 
 - **Self-identification**  
-  Malack explicitly identifies himself as a lizardfolk in dialogue, with Durkon identifying him as such first in [the same exchange](https://www.giantitp.com/comics/oots0737.html).
+  Malack explicitly [identifies himself](https://www.giantitp.com/comics/oots0737.html) as a lizardfolk in dialogue, after Durkon identifies him as such first.
 
 - **Head and upper-body depiction**  
   Malack’s head shape is shown alongside other lizardfolk in [this panel](https://www.giantitp.com/comics/oots0723.html).
