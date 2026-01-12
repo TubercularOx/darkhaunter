@@ -51,6 +51,8 @@ That detail reinforces a broader pattern in the story’s portrayal of evil. Cha
 
 This context directly informs Tarquin’s response after Malack’s death. When Tarquin later cites the killing of his best friend as justification for [executing his own son](https://www.giantitp.com/comics/oots0913.html), the scene rests on the established depth of that relationship. Two significant bonds are placed in conflict, and Tarquin’s actions show that he does not treat either as disposable: first by offering his son protection from the consequences of his actions, and then by enforcing those consequences after that offer is refused.
 
+The thread has made it clear that storytelling doesn’t meet its standard of evidence. But this site exists so I don’t have to carry certain arguments in my head. So it stays here until I find a better place for it.
+
 ## Objection
 
 Some readers point to [this post](https://forums.giantitp.com/showsinglepost.php?p=25915532&postcount=3) as contradicting Tarquin being a Swordsage:
