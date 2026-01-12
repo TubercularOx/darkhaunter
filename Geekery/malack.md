@@ -37,3 +37,5 @@ parent: "Linear Guild"
 ### Conclusion
 
 The apparent contradiction is resolved if, in Rich Burlew’s setting, snake people are commonly classified as lizardfolk and this is well known to the characters. This explanation fits the evidence, though others remain possible.
+
+Thank you to hamishpence and Unoriginal for most of this research.
