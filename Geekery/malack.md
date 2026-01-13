@@ -1,6 +1,6 @@
 ---
 title: "Malack"
-parent: "Linear Guild"
+parent: "Vector Legion"
 ---
 
 # Malack
