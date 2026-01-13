@@ -3,45 +3,87 @@ title: "Roy Greenhilt"
 parent: "Order of the Stick"
 nav_order: 10
 ---
-Roy Greenhilt
+# Roy Greenhilt
 
-Attributes
+## Attributes
 
-Dex 13+.  The first post bases this on what's needed for Improved Grapple, but there are alternate explanations that don't include Improved Grapple.
+### Strength
 
-Feats
+Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.com/comics/oots1075.html).  Frost giants have a base strength of 29 and this one may be [stronger than average](https://www.giantitp.com/comics/oots1061.html).  For the bull rush attempt in this comic, the Frost Giant is Large and that matters, but Roy does mention that explicitly.
 
-Improved Disarm.
+Before this scene we estimated Roy's strength at 24, based on [carrying capacity](https://forums.giantitp.com/showthread.php?4912-Class-and-Level-Geekery-II/page47&p=3226830#post3226830) and the belt of giant strength [earned](https://www.giantitp.com/comics/oots0687.html) since that point.
 
-Strip 1003I see Greg casting defensively, then Roy using the Spellsplinter Maneuver in order to attack him.  A few panels later, Roy does a follow up attack, and Greg's staff is already on the ground.  The staff is magical and losing it is tactically significant for Greg, so I prefer to assume Roy removed it on purpose instead of it being the metaphorical DM's gift to Roy.  Since no attack of opportunity is visible, Improved Disarm is implied.
+A strength of 24 seems light for Roy's dialog, but it's not clear where to set it instead.
 
-Improved Sunder. 
+## Feats
 
-Strip 795
+### Run
 
-Same reasoning as Improved Disarm: Breaking the axe is tactically significant, suggesting a Sunder attempt, and no attack of opportunity is visible, so Improved Sunder is implied.  
+Roy carries Durkon when they are fleeing. This is odd because a Human and a Dwarf have the same movement speed when both are in heavy armor. The Run feat would give Roy additional running speed.  This makes carrying Durkon practical.
 
-A counter argument is that breaking the tusk implies damage was done, and damage means Improved Sunder wasn't used.  To me that leaves a choice: a regular attack that conveniently got rid of Thog's weapon, or a Sunder attempt that conveniently broke Thog's tusk, inducing him to rage.
+**The below was written under a different theory about how this web page should work. I'll update it someday.**
 
-I feel a few points of damage is not a significant contribution to the fight, while sundering Thog's axe is, and focusing on something insignificant in order to turn something significant into the metaphorical DM's favor sits wrong with me.
+### Improved Disarm
 
-Improved Unarmed Strike. 
+**Strip 1003**
 
-In Strip 144, Roy refuses to attack monsters without a weapon.  In Strip 1070 he attacks an armed Frost Giant with his fist.  I think he took Improved Unarmed Strike somewhere in between.
+I see Greg casting defensively, then Roy using the *Spellsplinter Maneuver* to attack him. A few panels later, Roy makes a follow-up attack, and Greg’s staff is already on the ground.
 
-Improved Trip.
+The staff is magical, and losing it is tactically significant for Greg, so I prefer to assume Roy removed it deliberately rather than it being a metaphorical DM’s gift. Since no attack of opportunity is visible, *Improved Disarm* is implied.
 
-In Strip 730, I see Enor moving through Roy's threatened space and Roy using his attack of opportunity to Trip Enor.  Improved Unarmed Strike is necessary for Roy to be allowed an attack of opportunity.  The first post lists the Trip as a Grapple, probably because Roy grabbed Enor with his hands.  However, the goal of a grapple is to end up grappled, and the goal of a trip is to make the target prone.  I think Trip fits better, and Improved Trip is implied by the lack of an attack of opportunity from Enor.
+### Improved Sunder
 
-Least Legacy, Lesser Legacy, Call To Hand.  Rich alludes to Weapons of Legacy as the rulebook devoted to the concept of Roy "feeling at his sword super hard" in order to grant it magical abilities, but says he didn't read it.  I feel this is the perfect gray area wherein we can assign rules to the story without worrying about people saying Rich got them wrong.
+**Strip 795**
 
-Call To Hand is a perfect match for what Roy does with his sword, but I'm not convinced Lesser Legacy is needed to activate it.
+Same reasoning as *Improved Disarm*: breaking the axe is tactically significant, suggesting a Sunder attempt, and no attack of opportunity is visible, so *Improved Sunder* is implied.
 
-+5 Starmetal Greatsword of Undead Bane and Throwing.  It would be fun to keep hunting in Weapons of Legacy for other abilities, especially since the Throwing part seems to be a legacy ability, but this seems like a sufficient description of his sword for now.
+A counter-argument is that breaking the tusk implies damage was done, and damage would mean *Improved Sunder* wasn’t used. To me, that leaves a choice:
 
-Spellsplinter Maneuver.  This appears to let Roy attack spellcasters who are casting defensively.  Whether this is legally an Attack of Opportunity, which is how similar feats work, or just an extra attack of some sort is not clear.
+- a regular attack that conveniently removed Thog’s weapon, or  
+- a Sunder attempt that conveniently broke Thog’s tusk, inducing rage
 
-Jump.  Some argue that Roy is so strong he doesn't need points in Jump to jump as high as we see.
+A few points of damage are not a significant contribution to the fight, while sundering Thog’s axe is. Focusing on something insignificant in order to turn something significant into the DM’s favor doesn’t sit right with me.
 
-Profession: Goatherd.  Some argue that taking a class doesn't necessarily mean earning skill points.  I don't like this interpretation because the setting is self-aware about the importance of skill points and it's hard to see a class that does not offer skill points being accepted as a substitute for a class that does offer skill points.
+### Improved Unarmed Strike
 
+In **Strip 144**, Roy refuses to attack monsters without a weapon.  
+In **Strip 1070**, he attacks an armed frost giant with his fist.
+
+I think he took *Improved Unarmed Strike* somewhere in between.
+
+### Improved Trip
+
+In **Strip 730**, Enor moves through Roy’s threatened space and Roy uses his attack of opportunity to trip him.
+
+*Improved Unarmed Strike* is required for Roy to be allowed an attack of opportunity here. The first post lists this as a grapple, likely because Roy grabbed Enor with his hands. However:
+
+- the goal of a grapple is to end up grappled  
+- the goal of a trip is to make the target prone
+
+Trip fits better, and *Improved Trip* is implied by the lack of an attack of opportunity from Enor.
+
+### Least Legacy, Lesser Legacy, Call to Hand
+
+Rich alludes to *Weapons of Legacy* as the rulebook devoted to the idea of Roy “feeling at his sword super hard” to grant it magical abilities, but says he didn’t read it.
+
+This feels like a gray area where assigning rules to the story is reasonable without worrying about Rich “getting them wrong.”
+
+*Call to Hand* is a perfect match for what Roy does with his sword, but I’m not convinced *Lesser Legacy* is required to activate it.
+
+### +5 Starmetal Greatsword of Undead Bane and Throwing
+
+It would be fun to keep hunting through *Weapons of Legacy* for additional abilities, especially since the Throwing property seems likely to be a legacy ability, but this feels like a sufficient description of Roy’s sword for now.
+
+### Spellsplinter Maneuver
+
+This appears to allow Roy to attack spellcasters who are casting defensively. Whether this is legally an attack of opportunity (as similar feats are), or an extra attack of some other kind, is unclear.
+
+## Skills
+
+### Jump
+
+Some argue Roy is strong enough that he doesn’t need ranks in Jump to achieve the jumps we see.
+
+### Profession: Goatherd
+
+Some argue that taking a class doesn’t necessarily mean earning skill points. I don’t like this interpretation; the setting is self-aware about the importance of skill points, and it’s hard to see a class that offers none being accepted as a substitute for one that does.
