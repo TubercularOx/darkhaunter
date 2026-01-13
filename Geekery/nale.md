@@ -3,7 +3,7 @@ title: "Nale"
 parent: "Linear Guild"
 ---
 
-# Nale — Least Devil (1322–1338)
+# Nale as a Least Devil (1322–1338)
 
 **Nale** is a **Least Devil**, empowered by externally supplied **soul energy**.
 
@@ -27,12 +27,12 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Minrah | 10+ | ([Fighter](http://www.giantitp.com/comics/oots1180.html) 1+ / [Cleric](https://www.giantitp.com/comics/oots1212.html) 9+) |
 | Mr. Scruffy | 4.5 | Half hit die from being a cat, plus 4 from Belkar's observed Ranger level |
 | Blackwing | 16 | ([V's familiar uses V's Caster Level](https://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars) in place of Hit Dice) |
-| Sunny | 11–16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
-| Mimi | 11–21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
+| Sunny | 11-16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
+| Mimi | 11-21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
 
 ### Blasphemy Effects (Simplified)
 
-Blasphemy affects **nonevil creatures** based on how their Hit Dice compare to the caster’s caster level.  
+Blasphemy affects **nonevil creatures** based on how their Hit Dice compare to the caster's caster level.  
 All listed effects apply **simultaneously**.  
 
 | Target HD relative to caster level | Resulting effects |
@@ -46,7 +46,7 @@ All listed effects apply **simultaneously**.
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
 ### Mr. Scruffy
 
-Mr. Scruffy is a cat with **½ Hit Die**. Belkar's confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **17th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
+Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **17th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
 
 - **Urban Companion.** Animal companions have a closed list of allowable creatures, and cats are not normally among them. The Urban Companion alternative class feature effectively replaces Animal Companion with a familiar, which would be protected in the same way as Blackwing, and explicitly allows cats. However, this would imply that Belkar can speak with cats, which he has not demonstrated. This speech ability is a feature of Urban Companions, not shared by familiars. (Cityscape Web Enhancement.)
 
@@ -90,7 +90,7 @@ Beyond these shared traits, there is not much evidence of any abilities that can
 
 ## Status
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
-- [Explicitly expects to become a devil and later identifies himself as “the least devil”](https://www.giantitp.com/comics/oots1326.html)
+- [Explicitly expects to become a devil and later identifies himself as "the least devil"](https://www.giantitp.com/comics/oots1326.html)
 - [Manifests physical devil traits (horns)](https://www.giantitp.com/comics/oots1326.html)
 - [Displays devil-typical environmental tolerance (extreme cold)](https://www.giantitp.com/comics/oots1327.html)
 
