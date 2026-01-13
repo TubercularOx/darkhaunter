@@ -25,7 +25,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Lien | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
 | O-Chul | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
 | Minrah | 10+ | ([Fighter](http://www.giantitp.com/comics/oots1180.html) 1+ / [Cleric](https://www.giantitp.com/comics/oots1212.html) 9+) |
-| Mr. Scruffy | TBD |  |
+| Mr. Scruffy | 4.5 | Half hit die from being a cat, plus 4 from Belkar's observed Ranger level |
 | Blackwing | 16 | ([V's familiar uses V's Caster Level](https://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars) in place of Hit Dice) |
 | Sunny | 11–16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
 | Mimi | 11–21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
@@ -44,6 +44,21 @@ All listed effects apply **simultaneously**.
 | **Up to caster level -10** | Killed, paralyzed, weakened, dazed |
 
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
+### Mr. Scruffy
+
+Mr. Scruffy is a cat with **½ Hit Die**. Belkar’s confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **17th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
+
+- **Urban Companion.** Animal companions have a closed list of allowable creatures, and cats are not normally among them. The Urban Companion alternative class feature effectively replaces Animal Companion with a familiar, which would be protected in the same way as Blackwing, and explicitly allows cats. However, this would imply that Belkar can speak with cats, which he has not demonstrated. This speech ability is a feature of Urban Companions, not shared by familiars. (Cityscape Web Enhancement.)
+
+- **Wild Cohort.** This feat grants an animal-companion-like cohort. Mr. Scruffy would have **+9 HD** instead of +4. It uses the same animal list as Animal Companion. This would also explain why Belkar has both Mr. Scruffy and Bloodfeast, with Bloodfeast remaining his actual animal companion. (Apparently from a web article?)
+
+- **More ranger levels.** Belkar could plausibly reach **18th level**, increasing Mr. Scruffy’s bonus Hit Dice to **+6** instead of +4.
+
+- **Natural Bond.** This feat adds **+3** to Belkar’s effective druid level when determining his animal companion, which would grant Mr. Scruffy an additional **+2 HD**.
+
+- **Warbeast template.** The Warbeast template adds **+1 HD**, and Belkar could apply it to Mr. Scruffy with sufficient time and a few successful Handle Animal checks.
+
+- **Foresight and preparation.** For example, Mr. Scruffy may have been protected against such effects during his time as the pet of a fabulously wealthy and eccentric aristocrat, with that protection still in effect.
 
 ## Least Devil
 
