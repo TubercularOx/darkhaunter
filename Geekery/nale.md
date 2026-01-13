@@ -54,7 +54,7 @@ Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level 
 
 - **More ranger levels.** Belkar could plausibly reach **18th level**, increasing Mr. Scruffy's bonus Hit Dice to **+6** instead of +4.
 
-- **Natural Bond.** This feat adds **+3** to Belkar's effective druid level when determining his animal companion, which would grant Mr. Scruffy an additional **+2 HD**.
+- **Natural Bond.** This feat adds **+3** to Belkar's effective druid level when determining his animal companion, which would grant Mr. Scruffy an additional **+2 HD**.  It's not compatible with Wild Cohort.
 
 - **Warbeast template.** The Warbeast template adds **+1 HD**, and Belkar could apply it to Mr. Scruffy with sufficient time and a few successful Handle Animal checks.
 
