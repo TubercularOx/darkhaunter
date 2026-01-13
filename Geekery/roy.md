@@ -11,7 +11,7 @@ nav_order: 10
 
 Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.com/comics/oots1075.html).  Frost giants have a base strength of 29 and this one may be [stronger than average](https://www.giantitp.com/comics/oots1061.html).  For the bull rush attempt in this comic, the Frost Giant is Large and that matters, but Roy does mention that explicitly.
 
-Before this scene we estimated Roy's strength at 24, based on [carrying capacity](https://forums.giantitp.com/showthread.php?4912-Class-and-Level-Geekery-II/page47&p=3226830#post3226830) and the belt of giant strength [earned](https://www.giantitp.com/comics/oots0687.html) since that point.
+Before this scene the thread estimated Roy's strength at 24, based on [carrying capacity](https://forums.giantitp.com/showthread.php?4912-Class-and-Level-Geekery-II/page47&p=3226830#post3226830) and the belt of giant strength [earned](https://www.giantitp.com/comics/oots0687.html) since that point.
 
 A strength of 24 seems light for Roy's dialog, but it's not clear where to set it instead.
 
