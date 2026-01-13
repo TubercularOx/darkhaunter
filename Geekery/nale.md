@@ -46,15 +46,15 @@ All listed effects apply **simultaneously**.
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
 ### Mr. Scruffy
 
-Mr. Scruffy is a cat with **½ Hit Die**. Belkar’s confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **17th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
+Mr. Scruffy is a cat with **½ Hit Die**. Belkar's confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **17th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
 
 - **Urban Companion.** Animal companions have a closed list of allowable creatures, and cats are not normally among them. The Urban Companion alternative class feature effectively replaces Animal Companion with a familiar, which would be protected in the same way as Blackwing, and explicitly allows cats. However, this would imply that Belkar can speak with cats, which he has not demonstrated. This speech ability is a feature of Urban Companions, not shared by familiars. (Cityscape Web Enhancement.)
 
 - **Wild Cohort.** This feat grants an animal-companion-like cohort. Mr. Scruffy would have **+9 HD** instead of +4. It uses the same animal list as Animal Companion. This would also explain why Belkar has both Mr. Scruffy and Bloodfeast, with Bloodfeast remaining his actual animal companion. (Apparently from a web article?)
 
-- **More ranger levels.** Belkar could plausibly reach **18th level**, increasing Mr. Scruffy’s bonus Hit Dice to **+6** instead of +4.
+- **More ranger levels.** Belkar could plausibly reach **18th level**, increasing Mr. Scruffy's bonus Hit Dice to **+6** instead of +4.
 
-- **Natural Bond.** This feat adds **+3** to Belkar’s effective druid level when determining his animal companion, which would grant Mr. Scruffy an additional **+2 HD**.
+- **Natural Bond.** This feat adds **+3** to Belkar's effective druid level when determining his animal companion, which would grant Mr. Scruffy an additional **+2 HD**.
 
 - **Warbeast template.** The Warbeast template adds **+1 HD**, and Belkar could apply it to Mr. Scruffy with sufficient time and a few successful Handle Animal checks.
 
