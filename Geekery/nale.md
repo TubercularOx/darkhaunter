@@ -50,7 +50,7 @@ Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level 
 
 - **Urban Companion.** Animal companions have a closed list of allowable creatures, and cats are not normally among them. The Urban Companion alternative class feature effectively replaces Animal Companion with a familiar, which would be protected in the same way as Blackwing, and explicitly allows cats. However, this would imply that Belkar can speak with cats, which he has not demonstrated. This speech ability is a feature of Urban Companions, not shared by familiars. (Cityscape Web Enhancement.)
 
-- **Wild Cohort.** This feat grants an animal-companion-like cohort. Mr. Scruffy would have **+9 HD** instead of +4. It uses the same animal list as Animal Companion. This would also explain why Belkar has both Mr. Scruffy and Bloodfeast, with Bloodfeast remaining his actual animal companion. (Apparently from a web article?)
+- **Wild Cohort.** This feat grants an animal-companion-like cohort. Mr. Scruffy would have **+9 HD** instead of +4. It uses the same animal list as Animal Companion. This would also explain why Belkar has both Mr. Scruffy and Bloodfeast, with Bloodfeast remaining his actual animal companion. (Apparently this is from a web article?)
 
 - **More ranger levels.** Belkar could plausibly reach **18th level**, increasing Mr. Scruffy's bonus Hit Dice to **+6** instead of +4.
 
