@@ -16,7 +16,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 | Character | Level | Basis (with inline links) |
 |---|---:|---|
 | Serini | 21+ | ([Low Epic](https://forums.giantitp.com/showpost.php?p=15415463&postcount=331)) |
-| Elan | 17+ | (16+ Bard required to cast [Mass Cure Moderate Wounds](https://www.giantitp.com/comics/oots1296.html); plus [Dashing Swordsman](http://www.giantitp.com/comics/oots0390.html) 1+) |
+| Elan | 18+ | (17+ Bard required to [swap](https://www.giantitp.com/comics/oots0647.html) [Cure Critical Wounds](https://www.giantitp.com/comics/oots0949.html)); plus [Dashing Swordsman](http://www.giantitp.com/comics/oots0390.html) 1+) |
 | Haley | 16 | (based on [attacks per round](http://www.giantitp.com/comics/oots0648.html) and [leveled since then](http://www.giantitp.com/comics/oots0990.html)) |
 | Vaarsuvius | 16 | ([demonstrated here](http://www.giantitp.com/comics/oots1102.html)) |
 | Belkar | 15 | ([Ranger 14 / Barbarian 1](https://forums.giantitp.com/showthread.php?p=291639#post291639); [deafened by Holy Word](http://www.giantitp.com/comics/oots0860.html)) |
