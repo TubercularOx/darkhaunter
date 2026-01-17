@@ -53,6 +53,10 @@ This section makes no attempt to shed light on anything.  You are likely to be 
 * First appearance of the Goblin teenagers (but see Strip #92)
 * Rich says he first considered moving beyond the dungeon. \[Dungeon exit]
 
+### Bonus Strip
+* Rich states he was "never really happy" with how the villains "just start talking about" the gate \[Gate Plans]
+* Bonus strips in Dungeon Crawlin Fools were meant to smooth this out.
+
 ### Strip #96
 
 * First appearance of the gates
@@ -123,6 +127,12 @@ I had originally planned for all of the Guild to be permanently wiped out except
 Then strip #15 initiates the subplot concerning Roy’s father and the mysterious omen about goats. At that time, I already had conceived of the Linear Guild (as seen in Round 3) and knew that the prophecy referred to Elan’s as-yet-unnamed evil twin.
 
 The details came later, naturally, but I had enough of an idea in my head to lead the story in that direction.
+
+### Gate Plans
+
+**Dungeon Crawlin’ Fools, page R5-B**
+
+The “mysterious gate” subplot gets introduced during these strips, starting with strip #96. I was never really happy with the way the villains just start talking about it, though, so I’ve now created two bonus strips that give a better introduction to the gate and the idea that it zaps anyone who tries to enter.
 
 ### Other Dungeons 
 
