@@ -96,9 +96,9 @@ In the end, I decided that all the expectations would be for a giant celebratory
 
 ### Dungeon exit
 
-**Forum Interview** - [https://forums.giantitp.com/showthread.php?411301-Interview-Questions-For-Rich/page5\&p=19169858#post19169858](https://forums.giantitp.com/showthread.php?411301-Interview-Questions-For-Rich/page5&p=19169858#post19169858)
+**Forum Interview** - [https://forums.giantitp.com/showthread.php?411301-Interview-Questions-For-Rich/page5&p=19169858#post19169858](https://forums.giantitp.com/showthread.php?411301-Interview-Questions-For-Rich/page5&p=19169858#post19169858)
 
-**Q:** *When you began the strip, did you have any intention of the Order ever leaving the Dungeon of Dorukan to have adventures elsewhere and at what point did you make the decision that the comic would have a long complicated story rather than being just a gag-a-day strip for D\&D fans?*
+**Q:** *When you began the strip, did you have any intention of the Order ever leaving the Dungeon of Dorukan to have adventures elsewhere and at what point did you make the decision that the comic would have a long complicated story rather than being just a gag-a-day strip for D&D fans?*
 
 **A:** No, even once I decided that the strip would follow the same characters every installment—my first plan called for the comic to be an anthology of gags using a different party each time—I still thought that they would simply wander the dungeon forever. It wasn't until around #93 that I started thinking about wrapping up the dungeon and moving on. I wish I could say what, exactly, made me change my mind but I don't remember. I know that I thought I was leaving a lot of good jokes on the table by never having them go to town or on a wilderness adventure, though.
 
@@ -144,8 +144,8 @@ While I have certainly embellished on that original outline since then, I’m st
 
 ### Thog plans 
 
-[https://forums.giantitp.com/showsinglepost.php?p=16772859\&postcount=56](https://forums.giantitp.com/showsinglepost.php?p=16772859&postcount=56)
+[https://forums.giantitp.com/showsinglepost.php?p=16772859&postcount=56](https://forums.giantitp.com/showsinglepost.php?p=16772859&postcount=56)
 
 ### Rich 4/19/04 
 
-[https://forums.giantitp.com/showsinglepost.php?p=486300\&postcount=54](https://forums.giantitp.com/showsinglepost.php?p=486300&postcount=54)
+[https://forums.giantitp.com/showsinglepost.php?p=486300&postcount=54](https://forums.giantitp.com/showsinglepost.php?p=486300&postcount=54)
