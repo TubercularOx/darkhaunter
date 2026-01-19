@@ -94,7 +94,7 @@ Beyond these shared traits, there is not much evidence of any abilities that can
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
 - [Explicitly expects to become a devil and later identifies himself as "the least devil"](https://www.giantitp.com/comics/oots1326.html)
 - [Manifests physical devil traits (horns)](https://www.giantitp.com/comics/oots1326.html)
-- [Displays devil-typical environmental tolerance (extreme cold)](https://www.giantitp.com/comics/oots1327.html)
+- [Displays devil-typical cold resistance](https://www.giantitp.com/comics/oots1327.html)
 
 ---
 
