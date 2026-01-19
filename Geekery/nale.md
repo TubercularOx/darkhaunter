@@ -90,6 +90,36 @@ Taken together, the evidence suggests that Nale, as a Least Devil, possesses the
 
 Beyond these shared traits, there is not much evidence of any abilities that can be linked to Least Devil status specifically.
 
+## Fountain of Overriding Diminishment
+
+While the link is active, the Fountain enhances a single linked fiend’s fiendish attributes and magic powers. It is not as powerful as a soul splice.
+
+“A single linked fiend” and “fiendish attributes and magic powers” emphasize fiends in a way that suggests the Fountain and its enhancements only work on such creatures and their abilities.
+
+In 3.5 D&D, “attributes” specifically refers to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. If the comic is intentionally referencing this kind of “attribute”, and we assume “magic powers” is supposed to be similarly strict, then, in addition to attributes, we should specifically think of (Su) and (Sp) abilities available to fiends.
+
+However, some of Nale’s demonstrated features fall outside these categories, complicating a strictly literal reading of both “attributes” and “magic powers”.
+
+After his soul empowerment, Nale has demonstrated the following:
+
+### Appearance  
+  Nale displays hooves, horns, and an increased size. These changes are clearly fiendish in appearance and fit “attributes” in a natural-language sense, but they do not correspond cleanly to D&D’s literal definition of attributes as ability scores. Hooves and horns could be interpreted as natural weapons, though they do not appear among the standard natural weapons of SRD devils. The *Descent of Devils* chart shows horn growth increasing with rank, suggesting fiendish progression rather than a discrete granted ability.
+
+### Flight 
+  Nale demonstrates wingless flight. This most naturally fits a supernatural ability. In the SRD, devils that can fly do so with wings, so this differs from the standard fiend chassis.
+
+### Strength  
+  Nale displays dramatically increased physical strength. This directly corresponds to a literal attribute increase.
+
+### Long-range vision  
+  Nale compliments his own long-range vision. In the SRD, devils tend to have very high Spot checks but gain them through skill ranks and high Wisdom, not racial bonuses or special senses. Whether Nale’s vision reflects enhanced attributes, skill-based competence, or a fiendish sensory ability is unclear.
+
+### Blasphemy  
+  Nale uses *blasphemy*. Among SRD devils, this appears as an at-will spell-like ability on pit fiends. It clearly qualifies as a fiendish magic power, but it raises the question of whether the Fountain enhances specific pre-existing abilities or enhances a fiend’s magical capability as a whole, allowing new expressions to appear.
+
+### Teleportation and soul energy transfer  
+  Nale never teleports himself. Instead, he repeatedly weakens Sabine to use her teleport, even when doing so is costly and tactically awkward. Many fiends, including Sabine, possess *greater teleport* at will with an explicit restriction to themselves and a limited carried weight. After receiving Nale’s soul energy, Sabine teleports in ways that exceed that restriction. This represents a form of enhancement that does not grant a new ability or scale up an existing one, but instead removes a restriction on an ability Sabine already possessed.
+
 ## Status
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
 - [Explicitly expects to become a devil and later identifies himself as "the least devil"](https://www.giantitp.com/comics/oots1326.html)
