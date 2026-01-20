@@ -116,6 +116,17 @@ Nale uses *blasphemy*. Among SRD devils, this appears as an at-will spell-like a
 ### Teleportation and soul energy transfer  
 Nale never teleports himself. Instead, he repeatedly weakens Sabine to use her teleport, even when doing so is costly and tactically awkward. Many fiends, including Sabine, possess *greater teleport* at will with an explicit restriction to themselves and a limited carried weight. After receiving Nale’s soul energy, Sabine teleports in ways that exceed that restriction. This represents a form of enhancement that does not grant a new ability or scale up an existing one, but instead removes a restriction on an ability Sabine already possessed.
 
+### Conclusions
+Two operational models for the Fountain have been suggested.
+
+**Enhancement**  
+Under this model, the Fountain amplifies a fiend’s pre-existing abilities. This would explain why Nale relies on Sabine for teleportation rather than demonstrating one himself: if Nale lacks teleport outright, the Fountain cannot supply it, only enhance it when present.
+
+**Endowment**  
+Under this model, the Fountain draws from a fixed set of “fiendish” powers it can grant, independent of the subject’s original ability list. This cleanly explains Nale’s access to *blasphemy*. However, the absence of *greater teleport* under this interpretation is harder to reconcile, since a majority of SRD devils possess it as an at-will ability.
+
+These models are not mutually exclusive. The Fountain may grant Nale abilities drawn from a predefined set of fiendish powers, while also enhancing or relaxing limitations on any fiendish powers he already possesses. Nale, as the "least devil possible", probably does not have many fiendish powers to enhance.
+
 ## Status
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
 - [Explicitly expects to become a devil and later identifies himself as "the least devil"](https://www.giantitp.com/comics/oots1326.html)
