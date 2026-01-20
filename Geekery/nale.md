@@ -151,7 +151,7 @@ Nupperibos are devils undergoing punishment for misdeeds. They slightly resemble
 ### Pit Fiend
 The pit fiend is a Greater Devil rather than a Least Devil, but it enters the discussion because it is the only SRD devil with access to *blasphemy*, which it uses at will. As the iconic apex of devilkind, it provides a clear reference point for what a fully realized fiendish ability suite looks like.
 
-This includes *greater teleport* at will, so using the pit fiend as a template for the abilities granted by the Fountain raises an immediate question: if Nale’s power set is modeled after this archetype, why does he rely on Sabine for teleportation instead of using it himself?
+This suite includes *greater teleport* at will, so using the pit fiend as a template for the abilities granted by the Fountain raises an immediate question: if Nale’s power set is modeled after this archetype, why does he rely on Sabine for teleportation instead of using it himself?
 
 ### Fiendish Creature Template
 The fiendish creature template has been proposed as a model for the abilities Nale gained by becoming a Least Devil, which would replace the baseline devil traits.
@@ -164,9 +164,9 @@ Half-Fiend has been suggested as a model for Nale’s abilities, either as a Lea
 
 In the printed template, *blasphemy* is gated behind 11+ Hit Dice. Since other Least Devils have low Hit Dice, Half-Fiend would not necessarily be too strong for a Least Devil at the bottom end; most of its signature power is locked behind HD rather than front-loaded.
 
-Half-Fiend also grants *smite good*, typical energy resistances (including cold), damage reduction, and spell resistance, all of which are broadly consistent with fiendish capability.
+Half-Fiend also grants *smite good*, typical energy resistances (including cold), damage reduction, and spell resistance.
 
-Where it fits poorly is in its assumptions about the creature it applies to. Half-Fiend can only be applied to living, corporeal creatures, while Nale is a dead soul. It explicitly grants wings, while Nale’s flight is wingless, and it applies a flat +4 bonus to both Strength and Dexterity, which contrasts with Nale’s comment that his aim needs some work compared to his strength increases.
+Where it fits poorly is in its assumptions about the creature it applies to. It explicitly grants wings, while Nale’s flight is wingless, and it applies a flat +4 bonus to both Strength and Dexterity, which contrasts with Nale’s comment that his aim needs some work compared to his strength increases.
 
 One structural point does work in its favor: unlike *Fiendish Creature*, Half-Fiend changes the creature’s type to Outsider, which is good for justifying Nale's identification as a true devil.
 
