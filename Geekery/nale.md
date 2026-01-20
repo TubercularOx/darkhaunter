@@ -143,7 +143,7 @@ The spinagon’s primary advantage over the lemure is that its existence is expl
 
 Like the lemure, it remains possible to argue that Nale retained his original appearance because his soul was not rendered down. Unlike the lemure, the spinagon actually has abilities: fire damage on melee attacks, ranged spine attacks, a low chance to summon other spinagons, spell resistance, and the spell-like abilities *disguise self*, *produce flame*, and *stinking cloud*.
 
-The most obvious stumbling block is that a spined devil without spines is difficult to reconcile visually. In addition, the spinagon’s ability spread (Dex 25, Str 10) sits uneasily with Nale’s demonstrated physical strength and his comment that his aim “could use some work.”
+The most obvious stumbling block is that a spined devil without spines is difficult to reconcile visually. In addition, the spinagon’s ability spread (Dex 25, Str 10) contrasts with Nale’s demonstrated physical strength and his comment that his aim “could use some work.”
 
 ### Nupperibo
 Nupperibos are devils undergoing punishment for misdeeds. They slightly resemble lemures in appearance.  Their eyes and ears are sewn shut, and they navigate by smell. While they possess blindsight, fast healing, and immunity to mind-affecting effects, Nale is neither blind nor deaf, nor are the IFCC punishing him.
