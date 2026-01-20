@@ -127,6 +127,49 @@ Under this model, the Fountain draws from a fixed set of “fiendish” powers i
 
 These models are not mutually exclusive. The Fountain may grant Nale abilities drawn from a predefined set of fiendish powers, while also enhancing or relaxing limitations on any fiendish powers he already possesses. Nale, as the "least devil possible", probably does not have many fiendish powers to enhance.
 
+## Printed Devils as Reference Points
+
+This section follows the core premise of the Geekery thread: for the purpose of analysis, the comic is treated as though it strictly follows the D&D 3.5 rules, even when we suspect it doesn’t.
+
+The devils discussed below are not proposed as literal identities for Nale. They are reference points used to test what a Least Devil can plausibly look like under the rules, what abilities are typical at that tier, and which parts of Nale’s presentation require additional explanation.
+
+### Lemure
+A lemure is a mindless mass of flesh with vaguely humanoid features. That appearance is a plausible outcome of prolonged soul rendering, which makes the lemure a natural fit for the idea that Nale retained his former appearance and abilities because his soul was never rendered before his promotion to Least Devil.
+
+However, the lemure is a poor fit for any model where the Fountain only enhances pre-existing powers, because lemures have none.
+
+### Spinagon (Spined Devil)
+The spinagon’s primary advantage over the lemure is that its existence is explicitly acknowledged in the comic. It appears as the small devil immediately after the human figure in the *Descent of Devils* chart, and this identification is confirmed by AMFES Autumn.
+
+Like the lemure, it remains possible to argue that Nale retained his original appearance because his soul was not rendered down. Unlike the lemure, the spinagon actually has abilities: fire damage on melee attacks, ranged spine attacks, a low chance to summon other spinagons, spell resistance, and the spell-like abilities *disguise self*, *produce flame*, and *stinking cloud*.
+
+The most obvious stumbling block is that a spined devil without spines is difficult to reconcile visually. In addition, the spinagon’s ability spread (Dex 25, Str 10) sits uneasily with Nale’s demonstrated physical strength and his comment that his aim “could use some work.”
+
+### Nupperibo
+Nupperibos are devils undergoing punishment for misdeeds. They slightly resemble lemures in appearance.  Their eyes and ears are sewn shut, and they navigate by smell. While they possess blindsight, fast healing, and immunity to mind-affecting effects, Nale is neither blind nor deaf, nor are the IFCC punishing him.
+
+### Pit Fiend
+The pit fiend is a Greater Devil rather than a Least Devil, but it enters the discussion because it is the only SRD devil with access to *blasphemy*, which it uses at will. As the iconic apex of devilkind, it provides a clear reference point for what a fully realized fiendish ability suite looks like.
+
+This includes *greater teleport* at will, so using the pit fiend as a template for the abilities granted by the Fountain raises an immediate question: if Nale’s power set is modeled after this archetype, why does he rely on Sabine for teleportation instead of using it himself?
+
+### Fiendish Creature Template
+The fiendish creature template has been proposed as a model for the abilities Nale gained by becoming a Least Devil, which would replace the baseline devil traits.
+
+It grants darkvision, cold and fire resistance, damage reduction, spell resistance, and a smite good attack, with most benefits scaling by Hit Dice. However, the template cannot be applied to outsiders and does not change the creature’s type. This conflicts with evidence that Nale is fully a devil, such as his eligibility for the Fountain and his summoning via a devil-summoning effect.
+
+### Half-Fiend Template
+
+Half-Fiend has been suggested as a model for Nale’s abilities, either as a Least Devil baseline or as a description of what the Fountain is doing. Its main appeal is that it allows access to *blasphemy* without also implying *greater teleport*.
+
+In the printed template, *blasphemy* is gated behind 11+ Hit Dice. Since other Least Devils have low Hit Dice, Half-Fiend would not necessarily be too strong for a Least Devil at the bottom end; most of its signature power is locked behind HD rather than front-loaded.
+
+Half-Fiend also grants *smite good*, typical energy resistances (including cold), damage reduction, and spell resistance, all of which are broadly consistent with fiendish capability.
+
+Where it fits poorly is in its assumptions about the creature it applies to. Half-Fiend can only be applied to living, corporeal creatures, while Nale is a dead soul. It explicitly grants wings, while Nale’s flight is wingless, and it applies a flat +4 bonus to both Strength and Dexterity, which contrasts with Nale’s comment that his aim needs some work compared to his strength increases.
+
+One structural point does work in its favor: unlike *Fiendish Creature*, Half-Fiend changes the creature’s type to Outsider, which is good for justifying Nale's identification as a true devil.
+
 ## Status
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
 - [Explicitly expects to become a devil and later identifies himself as "the least devil"](https://www.giantitp.com/comics/oots1326.html)
