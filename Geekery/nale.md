@@ -166,7 +166,7 @@ In the printed template, *blasphemy* is gated behind 11+ Hit Dice. Since other L
 
 Half-Fiend also grants *smite good*, typical energy resistances (including cold), damage reduction, and spell resistance.
 
-Where it fits poorly is in its assumptions about the creature it applies to. It explicitly grants wings, while Nale’s flight is wingless, and it applies a flat +4 bonus to both Strength and Dexterity, which contrasts with Nale’s comment that his aim needs some work compared to his strength increases.
+Where it fits less is in its assumptions about the creature it applies to. It explicitly grants wings, while Nale’s flight is wingless, and it applies a flat +4 bonus to both Strength and Dexterity, which contrasts with Nale’s comment that his aim needs some work compared to his strength increases.
 
 One structural point does work in its favor: unlike *Fiendish Creature*, Half-Fiend changes the creature’s type to Outsider, which is good for justifying Nale's identification as a true devil.
 
