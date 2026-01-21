@@ -99,7 +99,7 @@ While the link is active, the Fountain enhances a single linked fiend’s fiendi
 After his soul empowerment, Nale has demonstrated the following:
 
 ### Appearance  
-Nale displays hooves, horns, and an increased size. Hooves and horns could be interpreted as natural weapons, though they do not appear among the standard natural weapons of SRD devils. The *Descent of Devils* chart shows horn growth increasing with rank, suggesting fiendish progression rather than a discrete granted ability.
+Nale displays hooves, horns, and an increased size. Hooves and horns could be interpreted as natural weapons, though they do not appear among the standard natural weapons of SRD devils. The *Descent of Devil* chart shows horn growth increasing with rank, suggesting fiendish progression rather than a discrete granted ability.
 
 ### Flight  
 Nale demonstrates wingless flight. This most naturally fits a supernatural ability. In the SRD, devils that can fly do so with wings, so this differs from the standard fiend chassis.
@@ -139,7 +139,7 @@ A lemure is a mindless mass of flesh with vaguely humanoid features. That appear
 However, the lemure is a poor fit for any model where the Fountain only enhances pre-existing powers, because lemures have none.
 
 ### Spinagon (Spined Devil)
-The spinagon’s primary advantage over the lemure is that its existence is explicitly acknowledged in the comic. It appears as the small devil immediately after the human figure in the *Descent of Devils* chart, and this identification is confirmed by AMFES Autumn.
+The spinagon’s primary advantage over the lemure is that its existence is explicitly acknowledged in the comic. It appears as the small devil immediately after the human figure in the *Descent of Devil* chart, and this identification is confirmed by AMFES Autumn.
 
 Like the lemure, it remains possible to argue that Nale retained his original appearance because his soul was not rendered down. Unlike the lemure, the spinagon actually has abilities: fire damage on melee attacks, ranged spine attacks, a low chance to summon other spinagons, spell resistance, and the spell-like abilities *disguise self*, *produce flame*, and *stinking cloud*.
 
