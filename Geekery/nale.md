@@ -81,7 +81,7 @@ Rich published a [**Descent of Devil**](https://www.giantitp.com/comics/oots1322
 
 [Buy the set](https://richburlew.gumroad.com/l/amfesautumn) and decide for yourself whether there is a reason Rich chose these four. My inclination is that the selection reflects a combination of **body plan**, **color scheme**, and **fit with *Fiendish Codex II***.
 
-Taken together, the evidence suggests that Nale, as a Least Devil, possesses the baseline traits shared by devils in general:
+Taken together, the evidence suggests that Nale, as a Least Devil, may possess the baseline traits shared by devils in general:
 
 - **Immunity to fire and poison**  
 - **Resistance to acid 10 and cold 10**  
