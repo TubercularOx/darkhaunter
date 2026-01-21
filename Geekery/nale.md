@@ -173,6 +173,27 @@ Half-Fiend does not fit Nale perfectly. It explicitly grants wings, while Nale�
 
 One structural point does work in its favor: unlike *Fiendish Creature*, Half-Fiend changes the creature’s type to Outsider, which is good for justifying Nale's identification as a true devil.
 
+## Former Self
+
+Nale conjures clothes for Thog. This creates a chain of speculation:
+
+- **Conjure Clothes** is a single, concrete anomaly.
+- That anomaly implies **spellcasting access**.
+- Spellcasting access implies **Sorcerer class levels**.
+- Sorcerer class levels imply Nale’s **Rogue and Fighter class levels**.
+- Taken together, retained class levels imply **total character level**.
+- Total character level implies **feats and ability score increases**, independent of class.
+
+Different people will want to stop speculating at different points.
+
+There are additional questions:
+
+- Did Nale lose a level? He died but was not raised or resurrected.
+- Does Nale retain the benefits of being Human, specifically the bonus feat and bonus skill points?
+- Are Nale’s ability scores based on his scores in life, or on his current form? Physical and mental scores may not behave the same way here.
+
+Finally, [we know for certain](https://www.giantitp.com/comics/oots1325.html) Nale brought at least one thing with him.
+
 ## Status
 - [Promoted into a devil by the IFCC](https://www.giantitp.com/comics/oots1322.html)
 - [Explicitly expects to become a devil and later identifies himself as "the least devil"](https://www.giantitp.com/comics/oots1326.html)
