@@ -175,7 +175,7 @@ One structural point does work in its favor: unlike *Fiendish Creature*, Half-Fi
 
 ## Former Self
 
-Nale conjures clothes for Thog. This creates a chain of speculation:
+Nale [conjures clothes](https://www.giantitp.com/comics/oots1327.html) for Thog. This creates a chain of speculation:
 
 - **Conjure Clothes** is a single, concrete anomaly.
 - That anomaly implies **spellcasting access**.
