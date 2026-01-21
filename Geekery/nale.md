@@ -48,9 +48,9 @@ If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; 
 
 Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **18th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
 
-- **Urban Companion.** Animal companions have a closed list of allowable creatures, and cats are not normally among them. The Urban Companion alternative class feature effectively replaces Animal Companion with a familiar, which would be protected in the same way as Blackwing, and explicitly allows cats. However, this would imply that Belkar can speak with cats, which he has not demonstrated. This speech ability is a feature of Urban Companions, not shared by familiars. ([Cityscape Web Enhancement](https://web.archive.org/web/20160731213452/http://archive.wizards.com/default.asp?x=dnd/we/20070228a)[^1].)
+- **Urban Companion.** Animal companions have a closed list of allowable creatures, and cats are not normally among them. The Urban Companion alternative class feature effectively replaces Animal Companion with a familiar, which would be protected in the same way as Blackwing, and explicitly allows cats. However, this would imply that Belkar can speak with cats, which he has not demonstrated. This speech ability is a feature of Urban Companions, not shared by familiars. ([Cityscape Web Enhancement](https://web.archive.org/web/20160731213452/http://archive.wizards.com/default.asp?x=dnd/we/20070228a)[^kazyan].)
 
-- **Wild Cohort.** This feat grants an animal-companion-like cohort. Mr. Scruffy would have **+9 HD** instead of +4. It uses the same animal list as Animal Companion. This would also explain why Belkar has both Mr. Scruffy and Bloodfeast, with Bloodfeast remaining his actual animal companion. ([Wild Life column](https://web.archive.org/web/20160712191654/http://archive.wizards.com/default.asp?x=dnd/re/20031118a)[^1])
+- **Wild Cohort.** This feat grants an animal-companion-like cohort. Mr. Scruffy would have **+9 HD** instead of +4. It uses the same animal list as Animal Companion. This would also explain why Belkar has both Mr. Scruffy and Bloodfeast, with Bloodfeast remaining his actual animal companion. ([Wild Life column](https://web.archive.org/web/20160712191654/http://archive.wizards.com/default.asp?x=dnd/re/20031118a)[^kazyan])
 
 - **More ranger levels.** Belkar could plausibly reach **18th level**, increasing Mr. Scruffy's bonus Hit Dice to **+6** instead of +4.
 
@@ -60,7 +60,7 @@ Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level 
 
 - **Foresight and preparation.** For example, Mr. Scruffy may have been protected against such effects during his time as the pet of a fabulously wealthy and eccentric aristocrat, with that protection still in effect.
 
-[^1]: Thank you to Kazyan for sources.
+[^kazyan]: Thank you to Kazyan for sources.
 
 ## Least Devil
 
@@ -70,7 +70,10 @@ In *Fiendish Codex II: Tyrants of the Nine Hells*, devils are divided into **Lea
 
 New devils begin existence as **Lemures**, and may later be promoted to **Spined Devils**. At any point after that, a devil can be demoted to **Nupperibo** as a form of punishment.
 
-Nale does not resemble any of these devils, but he *does* [demonstrate](https://www.giantitp.com/comics/oots1327.html) **cold resistance 10**, which is a universal devil trait. One suggestion is that Nale differs from standard Least Devils because he did not undergo the usual rendering process applied to condemned souls before promotion. While this cannot be proven with the evidence available, I love this explanation.
+Nale does not resemble any of these devils, but he *does* [demonstrate](https://www.giantitp.com/comics/oots1327.html) cold resistance, and he [initiates](https://www.giantitp.com/comics/oots1338.html)[^telepathy] a telepathic conversation. Cold resistance 10 and telepathy (100 ft.) are universal devil traits.
+[^telepathy]: Thanks to D.One for pointing out the telepathic exchange in [comic 1338](https://www.giantitp.com/comics/oots1338.html). Fiendish telepathy is established in [comic 1319](https://www.giantitp.com/comics/oots1319.html).
+
+One suggestion is that Nale differs from standard Least Devils because he did not undergo the usual rendering process applied to condemned souls before promotion. While this cannot be proven with the evidence available, I love this explanation.
 
 Rich published a [**Descent of Devil**](https://www.giantitp.com/comics/oots1322.html) panel, showing devils arranged by rank. All of the devils shown there have strong visual matches to devils previously published in *A Monster For Every Season: Autumn 1*. In order, the panel appears to depict:
 
