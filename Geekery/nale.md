@@ -184,15 +184,13 @@ It grants darkvision, cold and fire resistance, damage reduction, spell resistan
 
 ### Half-Fiend Template
 
-Half-Fiend has been suggested as a model for Nale’s abilities, either as a Least Devil baseline or as a description of what the Fountain is doing. Its main appeal is that it allows access to *blasphemy* without also implying *greater teleport*.
+Half-Fiend is suggested mainly because it allows *blasphemy* without also implying *greater teleport*. In the printed template, *blasphemy* is gated behind 11+ Hit Dice, so a Least Devil modeled as a kind of Half-Fiend would still be weak overall, avoiding the problem of too much power for a Least Devil.
 
-In the printed template, *blasphemy* is gated behind 11+ Hit Dice. Since other Least Devils have low Hit Dice, Half-Fiend would not necessarily be too strong for a Least Devil at the bottom end; most of its signature power is locked behind HD rather than front-loaded.
+In addition to SLA's like blasphemy, it grants smite good, cold resistance, damage reduction, and spell resistance.
 
-Half-Fiend also grants *smite good*, typical energy resistances (including cold), damage reduction, and spell resistance.
+Half-Fiend does not fit Nale perfectly. It explicitly grants wings, while Nale’s flight is wingless, and it applies a flat +4 bonus to both Strength and Dexterity, which contrasts with Nale’s comment that his aim "could use some work" compared to his strength increase.
 
-Half-Fiend does not fit Nale perfectly. It explicitly grants wings, while Nale’s flight is wingless, and it applies a flat +4 bonus to both Strength and Dexterity, which contrasts with Nale’s comment that his aim needs some work compared to his strength increases.
-
-One structural point does work in its favor: unlike *Fiendish Creature*, Half-Fiend changes the creature’s type to Outsider, which is good for justifying Nale's identification as a true devil.
+One structural point does favor it: unlike Fiendish Creature, Half-Fiend changes the creature’s type to Outsider, which is consistent with Nale being treated as a true devil.
 
 ## Former Self
 
