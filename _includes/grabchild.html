@@ -1,0 +1,19 @@
+{%- comment -%}
+Renders:
+- a link to the child page
+- optional deep links from child.key_sections
+
+Usage:
+{% include grabchild.html page_id="nale" %}
+{%- endcomment -%}
+
+{% assign child = site.pages | where: "page_id", include.page_id | first %}
+
+{% if child %}
+- [{{ child.title }}]({{ child.url | relative_url }})
+  {% if child.key_sections %}
+    {% assign base = child.url | relative_url %}
+    {% assign md = child.key_sections | replace: '](#', '](BASE#' | replace: 'BASE', base %}
+{{ md | markdownify }}
+  {% endif %}
+{% endif %}
