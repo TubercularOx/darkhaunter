@@ -13,7 +13,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 
 ### Character Level Summary
 
-| Character | Level | Basis (with inline links) |
+| Character | Level | Basis |
 |---|---:|---|
 | Serini | 21+ | ([Low Epic](https://forums.giantitp.com/showpost.php?p=15415463&postcount=331)) |
 | Elan | 18+ | (17+ Bard required to [swap](https://www.giantitp.com/comics/oots0647.html) [Cure Critical Wounds](https://www.giantitp.com/comics/oots0949.html)); plus [Dashing Swordsman](http://www.giantitp.com/comics/oots0390.html) 1+) |
