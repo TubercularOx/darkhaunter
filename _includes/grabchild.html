@@ -4,10 +4,10 @@ Renders:
 - optional deep links from child.key_sections
 
 Usage:
-{% include grabchild.html page_id="nale" %}
+{% include grabchild.html title="nale" %}
 {%- endcomment -%}
 
-{% assign child = site.pages | where: "page_id", include.page_id | first %}
+{% assign child = site.pages | where: "title", include.title | first %}
 
 {% if child %}
 - [{{ child.title }}]({{ child.url | relative_url }})
