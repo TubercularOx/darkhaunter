@@ -94,6 +94,18 @@ Taken together, the evidence suggests that Nale, as a Least Devil, may possess t
 
 Beyond these shared traits, there is not much evidence of any abilities that can be linked to Least Devil status specifically.
 
+### Baatezu
+
+Wizards of the Coast retained copyright over baatezu. This is why they do not appear in the SRD and are unlikely to be mentioned explicitly in the comic.
+
+The chart labeled “Devil Traits,” which applies to “[most devils](https://www.d20srd.org/srd/monsters/devil.htm)” in the SRD, appears in the Monster Manual as applying to “all baatezu.” Both versions retain the “unless otherwise noted” language, so the practical difference between the two is limited.
+
+Nale is treated as a devil in the text: the IFCC [offers](https://www.giantitp.com/comics/oots1322.html) to make him a devil, Nale refers to himself as the [least devil possible](https://www.giantitp.com/comics/oots1326.html), and the spell used to [summon](https://www.giantitp.com/comics/oots1326.html) him is described as a “nonspecific devil summoning spell” when translated from [Wizardspeak](https://blambot.com/products/wizardspeak).
+
+From there, it is possible to argue that Nale should be treated as a baatezu. Becoming a Least Devil places him in a hierarchy, the hierarchy shown by the IFCC, [in the same panel](https://www.giantitp.com/comics/oots1322.html), consists entirely of baatezu, and Nale has already demonstrated two traits that are listed as belonging to all baatezu.
+
+A strong counterargument is that baatezu are copyrighted and do not exist in the story, so Nale cannot be one.
+
 ## Fountain of Overriding Diminishment
 
 While the link is active, the Fountain enhances a single linked fiend’s fiendish attributes and magic powers. It is not as powerful as a soul splice.
