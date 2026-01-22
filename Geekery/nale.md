@@ -158,7 +158,7 @@ This section follows the core premise of the Geekery thread: for the purpose of 
 The devils discussed below are not proposed as literal identities for Nale. They are reference points used to test what a Least Devil can plausibly look like under the rules, what abilities are typical at that tier, and which parts of Nale’s presentation require additional explanation.
 
 ### Lemure
-A lemure is a mindless mass of flesh with vaguely humanoid features. That appearance is a plausible outcome of prolonged soul rendering, which makes the lemure a natural fit for the idea that Nale retained his former appearance and abilities because his soul was never rendered before his promotion to Least Devil.
+A [lemure](https://www.d20srd.org/srd/monsters/devil.htm#lemure) is a mindless mass of flesh with vaguely humanoid features. That appearance is a plausible outcome of prolonged soul rendering, which makes the lemure a natural fit for the idea that Nale retained his former appearance and abilities because his soul was never rendered before his promotion to Least Devil.
 
 However, the lemure is a poor fit for any model where the Fountain only enhances pre-existing powers, because lemures have none.
 
@@ -173,7 +173,7 @@ The most obvious stumbling block is that a spined devil without spines is diffic
 Nupperibos are devils undergoing punishment for misdeeds. They slightly resemble lemures in appearance.  Their eyes and ears are sewn shut, and they navigate by smell. While they possess blindsight, fast healing, and immunity to mind-affecting effects, Nale is neither blind nor deaf, nor are the IFCC punishing him.
 
 ### Pit Fiend
-The pit fiend is a Greater Devil rather than a Least Devil, but it enters the discussion because it is the only SRD devil with access to *blasphemy*, which it uses at will. As the iconic apex of devilkind, it provides a clear reference point for what a fully realized fiendish ability suite looks like.
+The [Pit Fiend](https://www.d20srd.org/srd/monsters/devil.htm#pitFiend) is a Greater Devil rather than a Least Devil, but it enters the discussion because it is the only SRD devil with access to *blasphemy*, which it uses at will. As the iconic apex of devilkind, it provides a clear reference point for what a fully realized fiendish ability suite looks like.
 
 This suite includes *greater teleport* at will, so using the pit fiend as a template for the abilities granted by the Fountain raises an immediate question: if Nale’s power set is modeled after this archetype, why does he rely on Sabine for teleportation instead of using it himself?
 
