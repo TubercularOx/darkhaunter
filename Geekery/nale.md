@@ -178,13 +178,13 @@ The pit fiend is a Greater Devil rather than a Least Devil, but it enters the di
 This suite includes *greater teleport* at will, so using the pit fiend as a template for the abilities granted by the Fountain raises an immediate question: if Nale’s power set is modeled after this archetype, why does he rely on Sabine for teleportation instead of using it himself?
 
 ### Fiendish Creature Template
-The fiendish creature template has been proposed as a model for the abilities Nale gained by becoming a Least Devil, which would replace the baseline devil traits.
+The [fiendish creature](https://www.d20srd.org/srd/monsters/fiendishCreature.htm) template has been proposed as a model for the abilities Nale gained by becoming a Least Devil, which would replace the baseline devil traits.
 
 It grants darkvision, cold and fire resistance, damage reduction, spell resistance, and a smite good attack, with most benefits scaling by Hit Dice. However, the template cannot be applied to outsiders and does not change the creature’s type. This conflicts with evidence that Nale is fully a devil, such as his eligibility for the Fountain and his summoning via a devil-summoning effect.
 
 ### Half-Fiend Template
 
-Half-Fiend is suggested mainly because it allows *blasphemy* without also implying *greater teleport*. In the printed template, *blasphemy* is gated behind 11+ Hit Dice, so a Least Devil modeled as a kind of Half-Fiend would still be weak overall, avoiding the problem of too much power for a Least Devil.
+[Half-Fiend](https://www.d20srd.org/srd/monsters/halfFiend.htm) is suggested mainly because it allows *blasphemy* without also implying *greater teleport*. In the printed template, *blasphemy* is gated behind 11+ Hit Dice, so a Least Devil modeled as a kind of Half-Fiend would still be weak overall, avoiding the problem of too much power for a Least Devil.
 
 In addition to SLA's like blasphemy, it grants smite good, cold resistance, damage reduction, and spell resistance.
 
