@@ -70,7 +70,8 @@ In *Fiendish Codex II: Tyrants of the Nine Hells*, devils are divided into **Lea
 
 New devils begin existence as **Lemures**, and may later be promoted to **Spined Devils**. At any point after that, a devil can be demoted to **Nupperibo** as a form of punishment.
 
-Nale does not resemble any of these devils, but he *does* [demonstrate](https://www.giantitp.com/comics/oots1327.html) cold resistance, and he [initiates](https://www.giantitp.com/comics/oots1338.html)[^telepathy] a telepathic conversation. Cold resistance 10 and telepathy (100 ft.) are universal devil traits.
+Nale does not resemble any of these devils, but he *does* [demonstrate](https://www.giantitp.com/comics/oots1327.html) cold resistance, and he [initiates](https://www.giantitp.com/comics/oots1338.html) [^telepathy] a telepathic conversation. Cold resistance 10 and telepathy (100 ft.) are universal devil traits.
+
 [^telepathy]: Thanks to D.One for pointing out the telepathic exchange in [comic 1338](https://www.giantitp.com/comics/oots1338.html). Fiendish telepathy is established in [comic 1319](https://www.giantitp.com/comics/oots1319.html).
 
 One suggestion is that Nale differs from standard Least Devils because he did not undergo the usual rendering process applied to condemned souls before promotion. While this cannot be proven with the evidence available, I love this explanation.
