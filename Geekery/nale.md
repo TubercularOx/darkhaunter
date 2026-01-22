@@ -144,6 +144,7 @@ Under this model, the Fountain draws from a fixed set of “fiendish” powers i
 These models are not mutually exclusive. The Fountain may grant Nale abilities drawn from a predefined set of fiendish powers, while also enhancing or relaxing limitations on any fiendish powers he already possesses. Nale, as the "least devil possible", probably does not have many fiendish powers to enhance.
 
 **A proposed synthesis**
+
 Least Devils have few Hit Dice, and templates like Half-Fiend gate their most powerful abilities behind additional Hit Dice. On that basis, Half-Fiend can be used as an analogy for a Least Devil template: such a Least Devil would still begin with weak abilities. The Fountain can then be understood as enhancing the Least Devil’s Hit Dice, creating the appearance of newly granted powers while remaining consistent with the IFCC’s “enhancement” language.
 
 This becomes more complicated if Nale retained his Hit Dice from life, but Rich could instead have imagined a template that hinges on something other than Hit Dice. As a model, the idea remains internally consistent.
