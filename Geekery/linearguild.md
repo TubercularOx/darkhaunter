@@ -8,7 +8,7 @@ has_children: true
 
  **Nale**
  
-{% include index/grabchild.html title="Nale" %}
+{% include grabchild.html title="Nale" %}
 
  **Sabine**
 
