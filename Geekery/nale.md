@@ -185,7 +185,7 @@ Nale [conjures clothes](https://www.giantitp.com/comics/oots1327.html) for Thog.
 - Taken together, retained class levels imply **total character level**.
 - Total character level implies **feats and ability score increases**, independent of class.
 
-Different purposes may change at what point it makes sense to stop speculating.
+Different purposes may change at what point it makes sense to cut this line of thought short.
 
 There are additional questions:
 
