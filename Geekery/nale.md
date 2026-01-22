@@ -100,7 +100,7 @@ The chart labeled “Devil Traits,” which applies to “[most devils](https://
 
 Wizards of the Coast retained copyright over baatezu. This is why they do not appear in the SRD and are unlikely to be mentioned explicitly in the comic.
 
-Nale is treated as a devil in the text: the IFCC [offers](https://www.giantitp.com/comics/oots1322.html) to make him a devil, Nale refers to himself as the [least devil possible](https://www.giantitp.com/comics/oots1326.html), and the spell used to [summon](https://www.giantitp.com/comics/oots1326.html) him is described as a “nonspecific devil summoning spell” when translated from [Wizardspeak](https://blambot.com/products/wizardspeak).
+Nale is treated as a devil in the text: the IFCC [offers](https://www.giantitp.com/comics/oots1322.html) to make him a devil, Nale refers to himself as the [least devil possible](https://www.giantitp.com/comics/oots1326.html), and the spell used to [summon him](https://www.giantitp.com/comics/oots1326.html) is described as a “nonspecific devil summoning spell” when translated from [Wizardspeak](https://blambot.com/products/wizardspeak).
 
 From there, it is possible to argue that Nale should be treated as a baatezu. Becoming a Least Devil places him in a hierarchy, the hierarchy shown by the IFCC, [in the same panel](https://www.giantitp.com/comics/oots1322.html), consists entirely of baatezu, and Nale has already demonstrated two traits that are listed as belonging to all baatezu.
 
