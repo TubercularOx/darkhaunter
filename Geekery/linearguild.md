@@ -7,6 +7,7 @@ has_children: true
 # The Linear Guild
 
  **Nale**
+ 
 {% include index/grabchild.html title="Nale" %}
 
  **Sabine**
