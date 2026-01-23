@@ -10,7 +10,7 @@ Usage:
 {% assign child = site.pages | where: "title", include.title | first %}
 
 {% if child %}
-## [{{ child.title }}]({{ child.url | relative_url }})
+## {{ child.title }}
   {% if child.key_sections %}
     {% assign base = child.url | relative_url %}
     {% assign md = child.key_sections | replace: '](#', '](BASE#' | replace: 'BASE', base %}
