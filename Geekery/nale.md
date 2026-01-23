@@ -1,6 +1,12 @@
 ---
 title: "Nale"
 parent: "Linear Guild"
+key_sections: |
+  - [When he used blasphemy](#blasphemy)
+  - [What Least Devil appears to mean](#least-devil)
+  - [How the Fountain of Overriding Diminishment seems to work](#fountain-of-overriding-diminishment)
+  - [How he compares to other devils](#printed-devils-as-reference-points)
+  - [What he may have kept from his former life](#former-self)
 ---
 
 # Nale as a Least Devil (1322–1338)
