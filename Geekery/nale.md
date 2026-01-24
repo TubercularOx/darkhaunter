@@ -50,6 +50,14 @@ All listed effects apply **simultaneously**.
 | **Up to caster level -10** | Killed, paralyzed, weakened, dazed |
 
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
+
+### Echos
+In the final blasphemy panel, most characters are drawn with a doubled/afterimage effect, which may indicate they were affected. A few are not.
+
+- **Serini** may be unaffected due to relatively high Hit Dice.
+- **Belkar**, **Sabine**, and **Thog** likely qualify as Evil for the purposes of *blasphemy*, and so would not be affected.
+- **Minrah** does not appear to have the doubled effect, but it’s not yet clear why.
+
 ### Mr. Scruffy
 
 Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **18th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
