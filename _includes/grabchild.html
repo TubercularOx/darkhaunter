@@ -1,19 +1,19 @@
 {%- comment -%}
 Renders:
-- a link to the child page
+- Sections for each child
 - optional deep links from child.key_sections
 
 Usage:
-{% include grabchild.html title="nale" %}
+{% include grabchild.html  %}
 {%- endcomment -%}
 
-{% assign child = site.pages | where: "title", include.title | first %}
+{% assign children = site.pages | where: "parent", page.title %}
 
-{% if child %}
+{% for child in children %}
 ## {{ child.title }}
   {% if child.key_sections %}
     {% assign base = child.url | relative_url %}
     {% assign md = child.key_sections | replace: '](#', '](BASE#' | replace: 'BASE', base %}
 {{ md | markdownify }}
   {% endif %}
-{% endif %}
+{% endfor %}
