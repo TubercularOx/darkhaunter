@@ -1,6 +1,9 @@
 ---
 title: "Tarquin"
 parent: "Vector Legion"
+nav_order: 10
+key_sections: |
+  - [How Swordsage fits Tarquin](#swordsage-tarquin)
 ---
 # Swordsage Tarquin
 
