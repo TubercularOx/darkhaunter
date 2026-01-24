@@ -6,23 +6,6 @@ has_children: true
 ---
 # The Linear Guild
 
-{% include grabchild.html title="Nale" %}
+The Linear Guild includes Nale, Sabine, Thog, Zz'dtri, Hilgya Firehelm & Kudzu, Leeky Windstaff, Pompey, Yikyik, Yokyok, and Yukyuk.
 
- **Sabine**
-
- **Thog**
-
- **Zz'dtri**
- 
- **Hilgya Firehelm &  Kudzu**
-
- **Leeky Windstaff**
-
- **Pompey**
-
- **Yikyik**
- 
- **Yokyok**
- 
- **Yukyuk**
-
+{% include grabchild.html %}
