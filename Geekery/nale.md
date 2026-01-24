@@ -51,7 +51,7 @@ All listed effects apply **simultaneously**.
 
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
 
-### Echos
+### Echoes
 In the final blasphemy panel, most characters are drawn with a doubled/afterimage effect, which may indicate they were affected. A few are not.
 
 - **Serini** may be unaffected due to relatively high Hit Dice.
