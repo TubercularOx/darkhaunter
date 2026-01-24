@@ -2,6 +2,8 @@
 title: "Xykon"
 parent: "Team Evil"
 nav_order: 10
+key_sections: |
+  - [How he maximized Energy Drain](#maximized-energy-drain)
 ---
 # Xykon
 
