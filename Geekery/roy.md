@@ -2,6 +2,9 @@
 title: "Roy Greenhilt"
 parent: "Order of the Stick"
 nav_order: 10
+key_sections: |
+  - [How strong he is](#strength)
+  - [Why he carries Durkon when they flee](#run)
 ---
 # Roy Greenhilt
 
@@ -13,7 +16,7 @@ Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.
 
 Before this scene the thread estimated Roy's strength at 24, based on [carrying capacity](https://forums.giantitp.com/showthread.php?4912-Class-and-Level-Geekery-II/page47&p=3226830#post3226830) and the belt of giant strength [earned](https://www.giantitp.com/comics/oots0687.html) since that point.
 
-A strength of 24 seems light for Roy's dialog, but it's not clear where to set it instead.
+A strength of 24 seems light for Roy's dialog, so right now his strength is set as "comparable to a Frost Giant".
 
 ## Feats
 
