@@ -1,6 +1,9 @@
 ---
 title: "Malack"
 parent: "Vector Legion"
+nav_order: 20
+key_sections: |
+  - [What species he is](#herpetology)
 ---
 
 # Malack
