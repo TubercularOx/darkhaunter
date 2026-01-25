@@ -4,11 +4,38 @@ parent: "Geekery"
 ---
 # Minor Characters
 
-This page has characters that were not notable enough for the first post.
+This page has characters that don't fit the other categories. They are sorted by location.
 
 ## Kraagor's Gate
 
-**Mimi**
+### Sunny
+
+**Preferred Pronouns**
+
+I definitely remember someone presenting a comic where Serini used "he" to refer to Sunny, but after review I've found instead two cases of "them": [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html).
+
+[^precure]: Thank you to Precure for finding this one.
+
+**Sunny's Eyes**
+
+[Strip 1241](https://www.giantitp.com/comics/oots1241.html)
+
+Sunny is a Beholder with 8 eyestalks instead of 10.  Rich chose to give her eyes traditional Beholder powers.  A beholder's eyes work as follows.  I have marked who got which eye in parentheses:
+
+1. Charm Monster (Scruffy)
+2. Charm Person (Elan)
+3. Disintegrate ("Number 8", not used, 3 is the order it's in in the Monster Manual)
+4. Fear (Belkar)
+5. Finger of Death 
+6. Flesh to Stone (Durkon)
+7. Inflict Moderate Wounds
+8. Sleep (Minrah)
+9. Slow (V)
+10. Telkinesis (Haley - she loses her bow)
+
+Finger of Death and Inflict Moderate Wounds are the two eyestalks that are missing.  Personally I've felt they would've been disruptive to the story, but maybe Rich is trying to make a statement about Sunny's personality.  Or maybe the statement Rich wanted to make about Sunny's personality made picking which eyes to remove easier for Rich.
+
+### Mimi
 
 Mimi is a mimic, so her [baseline statistics are known](https://www.d20srd.org/srd/monsters/mimic.htm). Rich has demonstrated her [Mimic Shape](https://www.giantitp.com/comics/oots1281.html) and [Adhesive](https://www.giantitp.com/comics/oots1269.html) abilities, but the usual restrictions that limit mimics to object forms and prevent substantial size changes do not appear to apply.
 
