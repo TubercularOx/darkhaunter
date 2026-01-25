@@ -1,5 +1,5 @@
 ---
-title: "Minor Characters"
+title: "Other Characters"
 parent: "Geekery"
 ---
 # Minor Characters
