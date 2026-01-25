@@ -52,22 +52,3 @@ Crystal is explicitly identified as a [Flesh Golem](https://www.d20srd.org/srd/m
 * Flesh Golem cost: 20,000 gp. Crystal: 5× that ([974](https://www.giantitp.com/comics/oots0974.html)), or 100,000 gp
 
 The “supercharge” from the lightning bolt is highly stylized.  If the Geekery thread considered house rules, it might suggest Crystal was granted Haste or bonus lightning damage. But under the working assumption that Rich is following the rules and communicating through them, the most supportable reading is that this scene visually represents, rather extravagantly, a flesh golem gaining temporary hit points from electricity.
-
-## Sunny's Eyes
-
-[Strip 1241](https://www.giantitp.com/comics/oots1241.html)
-
-Sunny is a Beholder (I said it!) with 8 eyestalks instead of 10.  Rich chose to give her eyes traditional Beholder powers.  A beholder's eyes work as follows.  I have marked who got which eye in parentheses:
-
-1. Charm Monster (Scruffy)
-2. Charm Person (Elan)
-3. Disintegrate ("Number 8", not used, 3 is the order it's in in the Monster Manual)
-4. Fear (Belkar)
-5. Finger of Death 
-6. Flesh to Stone (Durkon)
-7. Inflict Moderate Wounds
-8. Sleep (Minrah)
-9. Slow (V)
-10. Telkinesis (Haley - she loses her bow)
-
-Finger of Death and Inflict Moderate Wounds are the two eyestalks that are missing.  Personally I've felt they would've been disruptive to the story, but maybe Rich is trying to make a statement about Sunny's personality.  Or maybe the statement Rich wanted to make about Sunny's personality made picking which eyes to remove easier for Rich.
