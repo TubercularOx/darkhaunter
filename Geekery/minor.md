@@ -2,7 +2,7 @@
 title: "Other Characters"
 parent: "Geekery"
 ---
-# Minor Characters
+# Other Characters
 
 This page has characters that don't fit the other categories. They are sorted by location.
 
