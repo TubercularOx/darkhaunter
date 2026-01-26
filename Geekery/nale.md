@@ -17,6 +17,18 @@ key_sections: |
 
 This is a temporary section for discussing 1338's use of [Blasphemy](https://www.giantitp.com/comics/oots1338.html)
 
+### Observed effects  
+[**Strip #1339**](https://www.giantitp.com/comics/oots1339.html)
+
+- **Roy, Elan, Haley, Vaarsuvius, and Durkon** are shown with **circling stars**. This fits with them being dazed.
+- **Blackwing and Mr. Scruffy** are shown with **black swirls**.
+- **Durkon** changes from **stars to swirls** in panel 7.
+- **Elan, Roy, Durkon, and Haley** complain of **weakness**.
+- **Vaarsuvius** has not commented on weakness yet. Avoiding the effect would require **level 19+**, which implies significant previous access to **9th-level spells**. No 9th-level spells have been shown on-panel so far. Vaarsuvius may simply not have had an opportunity to comment yet.
+- **Minrah** is **paralyzed**. In strip #1338, she is drawn without a doubling effect. It is possible the paralysis was prioritized over whatever the doubling effect was meant to convey.  If this is true, it implies **Sunny, O-Chul, and Lien** were weakened.
+- **Minrah** says she is too paralyzed to speak out loud. **Blackwing and Mr. Scruffy** both speak.  This suggests they haven't been paralyzed.
+- **Belkar and Serini** are confirmed to be unaffected.
+
 ### Character Level Summary
 
 | Character | Level | Basis |
