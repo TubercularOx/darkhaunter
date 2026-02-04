@@ -29,7 +29,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 - **Minrah** says she is too paralyzed to speak out loud. **Blackwing and Mr. Scruffy** both speak.  This suggests they haven't been paralyzed.
 - **Belkar and Serini** are confirmed to be unaffected.
 
-### One Possible Reading of the Action in Strip 1339
+### A Reconstruction
 
 This reconstruction treats the scene as a continuous sequence of reactions rather than a strict, fully-resolved initiative puzzle. It is not presented as definitive, only as a coherent way to read what happens on-panel.
 
