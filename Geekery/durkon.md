@@ -1,5 +1,5 @@
 ---
-title: "Durkon Allotrope Thundershield"
+title: "Durkon Thundershield"
 parent: "Order of the Stick"
 nav_order: 30
 key_sections: |
