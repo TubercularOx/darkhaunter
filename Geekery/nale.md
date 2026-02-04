@@ -38,7 +38,7 @@ This reconstruction treats the scene as a continuous sequence of reactions rathe
 - Neither side is surprised; both are aware of the other.
 - Haley has a readied action, likely keyed to the first hostile act against the party.
 - Nale initiates combat by casting **Blasphemy**.
-- Haley’s readied action triggers before the spell resolves; she shoots Sabine, implying Sabine was selected as the target when the action was readied.
+- Haley’s readied action triggers, interrupting Nale. She shoots Sabine, implying Sabine was selected as the target when the action was readied.
 - **Blasphemy** resolves, leaving most participants dazed.
 
 #### Round 1
