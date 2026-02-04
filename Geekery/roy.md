@@ -8,9 +8,7 @@ key_sections: |
 ---
 # Roy Greenhilt
 
-## Attributes
-
-### Strength
+## Strength
 
 Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.com/comics/oots1075.html).  Frost giants have a base strength of 29 and this one may be [stronger than average](https://www.giantitp.com/comics/oots1061.html).  For the bull rush attempt in this comic, the Frost Giant is Large and that matters, but Roy does mention that explicitly.
 
@@ -18,15 +16,13 @@ Before this scene the thread estimated Roy's strength at 24, based on [carrying 
 
 A strength of 24 seems light for Roy's dialog, so right now his strength is set as "comparable to a Frost Giant".
 
-## Feats
-
-### Run
+## Run
 
 Roy carries Durkon when they are fleeing. This is odd because a Human and a Dwarf have the same movement speed when both are in heavy armor. The Run feat would give Roy additional running speed.  This makes carrying Durkon practical.
 
 **The below was written under a different theory about how this web page should work. I'll update it someday.**
 
-### Improved Disarm
+## Improved Disarm
 
 **Strip 1003**
 
@@ -34,7 +30,7 @@ I see Greg casting defensively, then Roy using the *Spellsplinter Maneuver* to a
 
 The staff is magical, and losing it is tactically significant for Greg, so I prefer to assume Roy removed it deliberately rather than it being a metaphorical DM’s gift. Since no attack of opportunity is visible, *Improved Disarm* is implied.
 
-### Improved Sunder
+## Improved Sunder
 
 **Strip 795**
 
@@ -47,14 +43,14 @@ A counter-argument is that breaking the tusk implies damage was done, and damage
 
 A few points of damage are not a significant contribution to the fight, while sundering Thog’s axe is. Focusing on something insignificant in order to turn something significant into the DM’s favor doesn’t sit right with me.
 
-### Improved Unarmed Strike
+## Improved Unarmed Strike
 
 In **Strip 144**, Roy refuses to attack monsters without a weapon.  
 In **Strip 1070**, he attacks an armed frost giant with his fist.
 
 I think he took *Improved Unarmed Strike* somewhere in between.
 
-### Improved Trip
+## Improved Trip
 
 In **Strip 730**, Enor moves through Roy’s threatened space and Roy uses his attack of opportunity to trip him.
 
@@ -65,7 +61,7 @@ In **Strip 730**, Enor moves through Roy’s threatened space and Roy uses his a
 
 Trip fits better, and *Improved Trip* is implied by the lack of an attack of opportunity from Enor.
 
-### Least Legacy, Lesser Legacy, Call to Hand
+## Least Legacy, Lesser Legacy, Call to Hand
 
 Rich alludes to *Weapons of Legacy* as the rulebook devoted to the idea of Roy “feeling at his sword super hard” to grant it magical abilities, but says he didn’t read it.
 
@@ -73,20 +69,18 @@ This feels like a gray area where assigning rules to the story is reasonable wit
 
 *Call to Hand* is a perfect match for what Roy does with his sword, but I’m not convinced *Lesser Legacy* is required to activate it.
 
-### +5 Starmetal Greatsword of Undead Bane and Throwing
+## +5 Starmetal Greatsword of Undead Bane and Throwing
 
 It would be fun to keep hunting through *Weapons of Legacy* for additional abilities, especially since the Throwing property seems likely to be a legacy ability, but this feels like a sufficient description of Roy’s sword for now.
 
-### Spellsplinter Maneuver
+## Spellsplinter Maneuver
 
 This appears to allow Roy to attack spellcasters who are casting defensively. Whether this is legally an attack of opportunity (as similar feats are), or an extra attack of some other kind, is unclear.
 
-## Skills
-
-### Jump
+## Jump
 
 Some argue Roy is strong enough that he doesn’t need ranks in Jump to achieve the jumps we see.
 
-### Profession: Goatherd
+## Profession: Goatherd
 
 Some argue that taking a class doesn’t necessarily mean earning skill points. I don’t like this interpretation; the setting is self-aware about the importance of skill points, and it’s hard to see a class that offers none being accepted as a substitute for one that does.
