@@ -31,7 +31,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 
 ### One Possible Reading of the Action in Strip 1339
 
-This reconstruction treats the scene as a continuous sequence of reactions rather than a strict, fully-resolved initiative puzzle. It is not presented as definitive—only as a coherent way to read what happens on-panel.
+This reconstruction treats the scene as a continuous sequence of reactions rather than a strict, fully-resolved initiative puzzle. It is not presented as definitive, only as a coherent way to read what happens on-panel.
 
 #### Round 0
 
