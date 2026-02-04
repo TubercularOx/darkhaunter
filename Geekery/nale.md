@@ -9,7 +9,7 @@ key_sections: |
   - [What he may have kept from his former life](#former-self)
 ---
 
-# Nale as a Least Devil (1322–1338)
+# Nale as a Least Devil
 
 **Nale** is a **Least Devil**, empowered by externally supplied **soul energy**.
 
