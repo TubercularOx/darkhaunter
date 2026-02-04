@@ -1,7 +1,7 @@
 ---
 title: "Elan"
 parent: "Order of the Stick"
-nav_order: 50
+nav_order: 40
 key_sections: |
   - [What level he is](#elans-level)
 ---
