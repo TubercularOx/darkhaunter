@@ -43,7 +43,7 @@ This reconstruction treats the scene as a continuous sequence of reactions rathe
 
 #### Round 1
 
-- Nale grapples Roy and appears to be using the grapple option that allows damage via grapple checks.
+- Nale grapples Roy and appears to be using the grapple option that allows damage via grapple checks.  If Roy is flat-footed, then he isn't allowed any attack of opportunity Nale might provoke.
 - Thog attempts to overrun Serini; she chooses to avoid him, allowing him to pass without provoking an attack of opportunity and without costing Thog his standard action.
 - As Thog moves past Belkar, he provokes an attack of opportunity, then continues on to strike Durkon.
 - Sabine approaches Haley, then switches tactics and uses **Greater Teleport** to reposition behind Durkon.
