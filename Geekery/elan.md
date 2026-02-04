@@ -5,6 +5,7 @@ nav_order: 50
 key_sections: |
   - [What level he is](#elans-level)
 ---
+# Elan
 ## Elan’s Level
 
 In [Strip 647](https://www.giantitp.com/comics/oots0647.html), **Elan** gains a level. He gains two new fifth-level spells and one new fourth-level spell, a progression that occurs **only at Bard 13**.
