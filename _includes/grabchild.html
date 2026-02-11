@@ -8,6 +8,7 @@ Usage:
 {%- endcomment -%}
 
 {% assign children = site.pages | where: "parent", page.title %}
+{% assign children = children | sort: "nav_order" %}
 
 {% for child in children %}
 ## {{ child.title }}
