@@ -34,10 +34,10 @@ With Sudden Maximize, once per day, Xykon could maximize a spell without increas
 
 Throughout the Vaarsuvius vs. Xykon fight, the comic consistently explains unusual mechanical outcomes.
 
-- Lich immunity explains why *Chain Lightning* fails.  
-- A custom magic item explains why *Meteor Swarm* does not harm Xykon.  
-- Caster level explains Redcloak’s failed dispel.  
-- Abjurations explain the durability of the phylactery.  
+- A soul splice explains that lich immunity is why *Chain Lightning* fails.  
+- Xykon explains that he built a magic item to protect himself from his own *Meteor Swarm*.  
+- Redcloak explains that his caster level is not high enough to dispel Vaarsuvius’s buffs.  
+- Xykon explains that O-Chul can't destroy the phylactery because it is protected by abjurations.
 
 When this scene wants a rules interaction understood, it states the reason directly.
 
