@@ -34,7 +34,7 @@ With Sudden Maximize, once per day, Xykon could maximize a spell without increas
 
 Throughout the Vaarsuvius vs. Xykon fight, the comic consistently explains unusual mechanical outcomes.
 
-- One of the soul splices explains that *Chain Lightning* fails because liches are immune. 
+- One of the soul splices explains that *Chain Lightning* doesn't hurt Xykon because liches are immune. 
 - Xykon explains that he built a magic item to protect himself from his own *Meteor Swarm*.  
 - Redcloak explains that his caster level is not high enough to dispel Vaarsuvius’s buffs.  
 - Xykon explains that O-Chul can't destroy the phylactery because it is protected by abjurations.
