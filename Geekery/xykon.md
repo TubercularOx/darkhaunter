@@ -25,6 +25,6 @@ This would reduce the cost of Maximize down to 2 or even 1 level higher, but not
 
 Once per day, Xykon could maximize a spell without increasing its spell level.  He doesn't need to decide in advance which spell or when to use it.
 
-### Metamagic Rod of Maximize
+## Reverse Psychology
 
-The scene does not depict a rod being used, but people suggest it anyways.
+In [Strip 106](https://www.giantitp.com/comics/oots0652.html) Redcloak mentions Xykon having ranks in Reverse Psychology.  Although delivered as a joke, it is a clear statement about Xykon's skills.  We know less about it than most such jokes, since Xykon himself refers to making a Bluff check a few panels earlier.  Perhaps 5 ranks gives one a synergy bonus?
