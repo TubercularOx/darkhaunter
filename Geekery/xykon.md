@@ -41,7 +41,7 @@ Throughout the Vaarsuvius vs. Xykon fight, the comic consistently explains unusu
 
 When V casts a Quickened Chain Lightning, Xykon implies V used a 10th level spell slot.  Xykon later casts the Maximized *Energy Drain* and Still *Meteor Swarm*, but no alternative mechanism is mentioned. 
 
-If V's slot-based explanation is meant to carry forward to Xykon, then it seems to favor Xykon using sufficiently high spell slots rather than one-off metamagic shortcuts. That favors the **Improved Spell Capacity** route.
+If V's slot-based explanation is meant to carry forward to Xykon's spells, then it seems to favor Xykon using sufficiently high spell slots rather than one-off metamagic shortcuts. That favors the **Improved Spell Capacity** route.
 
 ## Reverse Psychology
 
