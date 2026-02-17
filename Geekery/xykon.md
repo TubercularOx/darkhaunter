@@ -4,6 +4,7 @@ parent: "Team Evil"
 nav_order: 10
 key_sections: |
   - [How he maximized Energy Drain and stilled Meteor Swarm](#enhanced-metamagic)
+  - [How he defended himself against V](#dodge-and-deflect)
   - [What skill he used to trick the party](#reverse-psychology)
 ---
 # Xykon
@@ -42,6 +43,14 @@ Throughout the Vaarsuvius vs. Xykon fight, the comic consistently explains unusu
 When V casts a Quickened Chain Lightning, Xykon implies V used a 10th level spell slot.  Xykon later casts the Maximized *Energy Drain* and Still *Meteor Swarm*, but no alternative mechanism is mentioned. 
 
 If V's slot-based explanation is meant to carry forward to Xykon's spells, then it seems to favor Xykon using sufficiently high spell slots rather than one-off metamagic shortcuts. That favors the **Improved Spell Capacity** route.
+
+## Dodge and Deflect
+
+In panel 6 of [comic 653](https://www.giantitp.com/comics/oots0653.html), Xykon avoids a *Disintegrate* with a “deflect!” sound effect. In panel 13 of [comic 652](https://www.giantitp.com/comics/oots0652.html), he avoids another *Disintegrate* with a “dodge!” sound effect.
+
+“Deflect” naturally evokes a deflection bonus, a common named AC bonus. With that context, “dodge” can likewise evoke a dodge bonus.
+
+If this is intentional, a ring of protection and the Dodge feat would be straightforward ways to account for those bonuses. Both types of bonus are common, however, and there are many other ways for Xykon to acquire them.
 
 ## Reverse Psychology
 
