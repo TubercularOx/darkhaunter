@@ -48,9 +48,7 @@ If V's slot-based explanation is meant to carry forward to Xykon's spells, then 
 
 In panel 6 of [comic 653](https://www.giantitp.com/comics/oots0653.html), Xykon avoids a *Disintegrate* with a “deflect!” sound effect. In panel 13 of [comic 652](https://www.giantitp.com/comics/oots0652.html), he avoids a different *Disintegrate* with a “dodge!” sound effect.
 
-“Deflect” evokes a deflection bonus, a common named AC bonus. Within that context, “dodge” can likewise evoke a dodge bonus.
-
-If this is intentional, a ring of protection and the Dodge feat would be straightforward ways to account for those bonuses. Both types of bonus are common, however, and there are many other ways for Xykon to acquire them.
+“Deflect” evokes a deflection bonus, a common named AC bonus. Within that context, “dodge” can likewise evoke a dodge bonus.  While these work as allusions to the rules, there is no evidence how Xykon is acquiring these bonuses.
 
 ## Reverse Psychology
 
