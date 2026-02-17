@@ -29,7 +29,7 @@ This feat would reduce the cost of Maximize down to 2 or even 1 level higher, bu
 
 ### Sudden Maximize or Sudden Still
 
-With Sudden Maximize, once per day, Xykon could maximize a spell without increasing its spell level.  He doesn't need to decide in advance which spell or when to use it.  Likewise for Sudden Still.
+With Sudden Maximize, once per day, Xykon could maximize a spell without increasing its spell level.  He doesn't need to decide in advance which spell or when to use it.  Likewise for Sudden Still.  This brings Xykon down to 21+, since he still needs Epic Spellcasting, but Rich has told us that his level is higher than Serini's, and Serini is "low epic," hence 22+ is a floor in this case.
 
 ### Choosing
 
