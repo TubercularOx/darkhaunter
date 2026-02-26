@@ -7,3 +7,5 @@ nav_order: 80
 # Reconstructions
 
 A fight can often be reconstructed in more than one way, but I can’t record every possible variation. The reconstructions in this section are not intended to imply that they are the only viable readings of the scene.
+
+This section also contains reconstructions that are not fights.
