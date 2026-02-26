@@ -31,31 +31,7 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 
 ### A Reconstruction
 
-This reconstruction treats the scene as a continuous sequence of reactions rather than a strict, fully-resolved initiative puzzle. It is not presented as definitive, only as a coherent way to read what happens on-panel.
-
-#### Round 0
-
-- Neither side is surprised; both are aware of the other.
-- Haley has a readied action, likely keyed to the first hostile act against the party.
-- Nale initiates combat by casting **Blasphemy**.
-- Haley’s readied action triggers, interrupting Nale. She shoots Sabine, implying Sabine was selected as the target when the action was readied.
-- **Blasphemy** resolves, leaving most participants dazed.
-
-#### Round 1
-
-- Nale grapples Roy and appears to be using the grapple option that allows damage via grapple checks.  If Roy is flat-footed, then he isn't allowed any attack of opportunity Nale might provoke.
-- Thog attempts to overrun Serini; she chooses to avoid him, allowing him to pass without provoking an attack of opportunity and without costing Thog his standard action.
-- As Thog moves past Belkar, he provokes an attack of opportunity, then continues on to strike Durkon.
-- Sabine approaches Haley, then switches tactics and uses **Greater Teleport** to reposition behind Durkon.
-
-#### Round 2
-
-- Nale continues the grapple on Roy and applies further damage.
-- Thog full-attacks Durkon and Belkar.
-- Sabine sneak attacks Durkon.
-
-*This reconstruction is provisional and may be revised as discussion continues.*
-
+The reconstruction has been moved [here](https://tubercularox.github.io/darkhaunter/Geekery/1338.html)
 
 ### Character Level Summary
 
