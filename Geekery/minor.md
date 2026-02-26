@@ -1,6 +1,7 @@
 ---
 title: "Other Characters"
 parent: "Geekery"
+nav_order: 70
 ---
 # Other Characters
 
