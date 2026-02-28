@@ -34,4 +34,4 @@ Some readers are uncomfortable with V having access to 9th-level spells at all. 
 
 *Share Spells* requires the familiar to remain within 5 feet of V or else the spell goes dormant until the familiar returns. Blackwing leaves that range immediately after the spell is cast, which creates a RAW objection to 17+.
 
-This interpretation reads *Telepathic Bond* as written, but puts V’s characterization ahead of a missable cross reference.
+The 17+ argument asks that *Telepathic Bond* be read as written, but puts V’s characterization ahead of a missable cross reference.
