@@ -1,6 +1,7 @@
 ---
 title: "Vaarsuvius"
 parent: "Order of the Stick"
+nav_order: 80
 key_sections: |
   - [How Telepathic Bond covered the party](#telepathic-bond)
 ---
