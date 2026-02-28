@@ -32,6 +32,6 @@ Familiars have a feature called *Share Spells*. A spell cast on V can also affec
 
 Some readers are uncomfortable with V having access to 9th-level spells at all. However, 17th level places V at the point of just gaining access to that tier, rather than having had it for four full levels. For other readers, that distinction matters.
 
-*Share Spells* requires the familiar to remain within 5 feet of V or else the spell goes dormant until the familiar returns. Blackwing leaves that range immediately after the spell is cast, then continues to use the bond, which creates a RAW objection to 17+.
+*Share Spells* requires the familiar to remain within 5 feet of V or else the spell ends and won't come back even if the familiar returns. Blackwing leaves that range immediately after the spell is cast, then continues to use the bond, which creates a RAW objection to 17+.
 
 The 17+ interpretation asks that *Telepathic Bond* be read as written, but puts V’s characterization ahead of a missable cross reference.
