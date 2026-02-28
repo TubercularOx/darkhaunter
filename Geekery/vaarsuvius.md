@@ -24,7 +24,7 @@ However, the premise of the Geekery thread is that the possibility of homebrew s
 
 In this interpretation, the spell includes V and seven additional creatures: the rest of the party, Minrah, and Blackwing. This requires V to be level 20 or higher.
 
-A strict 20+ reading means V had access to 9th-level spells for four levels without using them on-panel. Some readers see that four-level gap as significant, because V is otherwise portrayed as using more and stronger magic when it becomes available, even after V committed to using magic more strategically. For those readers, that gap is evidence that 20+ does not fit the story as presented.
+A 20+ reading means V had access to 9th-level spells for four levels without using them on-panel. Some readers see that four-level gap as significant, because V is otherwise portrayed as using more and stronger magic when it becomes available, even after V committed to using magic more strategically. For those readers, that gap is evidence that 20+ does not fit the story as presented.
 
 ### With a Familiar
 
