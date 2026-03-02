@@ -76,7 +76,7 @@ In the final blasphemy panel, most characters are drawn with a doubled/afterimag
 
 ### Mr. Scruffy
 
-Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **18th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. There is, however, a not-unreasonable expectation that he might survive, and a number of ways to increase his survivability have been proposed:
+Mr. Scruffy is a cat with **one half Hit Die**. Belkar's confirmed ranger level grants him an additional **+4 Hit Dice**. At a total of **4.5 HD**, and with Elan at least **18th level**, Mr. Scruffy would normally be expected to die to *blasphemy*. However, he has survived. A number of ways to increase his survivability have been proposed:
 
 - **Urban Companion.** Animal companions have a closed list of allowable creatures, and cats are not normally among them. The Urban Companion alternative class feature effectively replaces Animal Companion with a familiar, which would be protected in the same way as Blackwing, and explicitly allows cats. However, this would imply that Belkar can speak with cats, which he has not demonstrated. This speech ability is a feature of Urban Companions, not shared by familiars. ([Cityscape Web Enhancement](https://web.archive.org/web/20160731213452/http://archive.wizards.com/default.asp?x=dnd/we/20070228a)[^kazyan].)
 
