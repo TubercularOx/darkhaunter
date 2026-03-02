@@ -35,22 +35,22 @@ The reconstruction has been moved [here](https://tubercularox.github.io/darkhaun
 
 ### Character Level Summary
 
-| Character | Level | Basis |
-|---|---:|---|
-| Serini | 21+ | ([Low Epic](https://forums.giantitp.com/showpost.php?p=15415463&postcount=331)) |
-| Elan | 18+ | (17+ Bard required to [swap](https://www.giantitp.com/comics/oots0647.html) [Cure Critical Wounds](https://www.giantitp.com/comics/oots0949.html)); plus [Dashing Swordsman](http://www.giantitp.com/comics/oots0390.html) 1+) |
-| Haley | 16 | (based on [attacks per round](http://www.giantitp.com/comics/oots0648.html) and [leveled since then](http://www.giantitp.com/comics/oots0990.html)) |
-| Vaarsuvius | 16 | ([demonstrated here](http://www.giantitp.com/comics/oots1102.html)) |
-| Belkar | 15 | ([Ranger 14 / Barbarian 1](https://forums.giantitp.com/showthread.php?p=291639#post291639); [deafened by Holy Word](http://www.giantitp.com/comics/oots0860.html)) |
-| Roy | 14+ | ([forum](https://forums.giantitp.com/showsinglepost.php?p=19392374&postcount=533)) |
-| Durkon | 13+ | (required to cast [Regenerate](http://www.giantitp.com/comics/oots1162.html)) |
-| Lien | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
-| O-Chul | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
-| Minrah | 10+ | ([Fighter](http://www.giantitp.com/comics/oots1180.html) 1+ / [Cleric](https://www.giantitp.com/comics/oots1212.html) 9+) |
-| Mr. Scruffy | 4.5 | Half hit die from being a cat, plus 4 from Belkar's observed Ranger level |
-| Blackwing | 16 | ([V's familiar uses V's Caster Level](https://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars) in place of Hit Dice) |
-| Sunny | 11-16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
-| Mimi | 11-21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
+| Character | Effect | Last Known Level | Basis |
+|---|---|---:|---|
+| Serini | No Effect | 21+ | ([Low Epic](https://forums.giantitp.com/showpost.php?p=15415463&postcount=331)) |
+| Elan | Weakened | 18+ | (17+ Bard required to [swap](https://www.giantitp.com/comics/oots0647.html) [Cure Critical Wounds](https://www.giantitp.com/comics/oots0949.html)); plus [Dashing Swordsman](http://www.giantitp.com/comics/oots0390.html) 1+) |
+| Haley | Weakened | 16 | (based on [attacks per round](http://www.giantitp.com/comics/oots0648.html) and [leveled since then](http://www.giantitp.com/comics/oots0990.html)) |
+| Vaarsuvius | Weakened | 16 | ([demonstrated here](http://www.giantitp.com/comics/oots1102.html)) |
+| Belkar | No Effect | 15 | ([Ranger 14 / Barbarian 1](https://forums.giantitp.com/showthread.php?p=291639#post291639); [deafened by Holy Word](http://www.giantitp.com/comics/oots0860.html)) |
+| Roy | Weakened | 14+ | ([forum](https://forums.giantitp.com/showsinglepost.php?p=19392374&postcount=533)) |
+| Durkon | Weakened | 13+ | (required to cast [Regenerate](http://www.giantitp.com/comics/oots1162.html)) |
+| Lien | Weakened | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
+| O-Chul | ? | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
+| Minrah | Paralyzed | 10+ | ([Fighter](http://www.giantitp.com/comics/oots1180.html) 1+ / [Cleric](https://www.giantitp.com/comics/oots1212.html) 9+) |
+| Mr. Scruffy | Weakened | 4.5 | Half hit die from being a cat, plus 4 from Belkar's observed Ranger level |
+| Blackwing | Weakened | 16 | ([V's familiar uses V's Caster Level](https://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars) in place of Hit Dice) |
+| Sunny | ? | 11-16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
+| Mimi | ? | 11-21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
 
 ### Blasphemy Effects (Simplified)
 
