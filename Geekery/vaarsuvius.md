@@ -35,3 +35,7 @@ Some readers are uncomfortable with V having access to 9th-level spells at all. 
 *Share Spells* requires the familiar to remain within 5 feet of V or else the spell ends and won't come back even if the familiar returns. Blackwing leaves that range immediately after the spell is cast, then continues to use the bond, which creates a RAW objection to 17+.
 
 The 17+ interpretation asks that *Telepathic Bond* be read as written, but puts V’s characterization ahead of a missable cross reference.
+
+### With an Enspelled Familiar
+
+*Dragon Compendium* includes a feat, *Enspell Familiar*, which would let Blackwing count as touching V at any range up to one mile. This preserves the RAW interpretation of *Share Spells* while removing the distance objection to the 17+ reading. The feat is obscure, but Geekery focuses on the rules as written that explain the story as presented.
