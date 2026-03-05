@@ -7,14 +7,7 @@ key_sections: |
 
 #  O-Chul
 
-## Healing
-## O-Chul
-
-### Paladin 4
-
-## O-Chul
-
-### Paladin 4
+## Paladin 4
 
 In [Strip 1335](https://www.giantitp.com/comics/oots1335.html), O-Chul states that he has healing powers. However, it is established earlier that [Charisma is his dump stat](https://www.giantitp.com/comics/oots0545.html).
 
