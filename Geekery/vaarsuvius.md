@@ -39,3 +39,5 @@ The 17+ interpretation asks that *Telepathic Bond* be read as written, but puts 
 ### With an Enspelled Familiar
 
 *Dragon Compendium* includes a feat, *Enspell Familiar*, which would let Blackwing count as touching V at any range up to one mile. This preserves the RAW interpretation of *Share Spells* while removing the distance objection to the 17+ reading. The feat is obscure, but Geekery focuses on the rules as written that explain the story as presented.
+
+*Enspell Familiar* would also help explain a previous scene with shared spells. Blackwing shares a spell with V in [comic 1117](https://www.giantitp.com/comics/oots1117.html), leaves V’s side in [comic 1119](https://www.giantitp.com/comics/oots1119.html) (which should end the spell), and then has the spell dispelled in [comic 1122](https://www.giantitp.com/comics/oots1122.html). Thank you to [Atomburster](https://forums.giantitp.com/showsinglepost.php?p=26374681&postcount=814) for pointing this out.
