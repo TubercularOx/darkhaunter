@@ -6,6 +6,8 @@ nav_order: 2
 
 This is a full breakdown of the Hunting Horror's stats as they are presented in the story, along with commentary on how those stats apply to the Monster in the Dark in particular.
 
+This website actually starts [here](https://tubercularox.github.io/darkhaunter/#the-haunter-of-the-dark).  A quirk of Just the Docs makes this less apparent.
+
 The other pages cover much of the same information, but in more depth and with a focus on the tools Rich used to weave the Hunting Horror into his story.
 
 ### Size
