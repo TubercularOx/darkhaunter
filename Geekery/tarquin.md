@@ -98,4 +98,4 @@ He’s also shared that being quoted out of context has caused him distress in t
 
 [Source](https://www.patreon.com/posts/answers-post-8-93833361)
 
-In light of that, it’s likely Rich didn’t intend to contradict the Swordsage theory at all. His response seems designed to remove himself from the discussion, not to settle it definitively.
+In light of that, it’s likely Rich didn’t intend to contradict the Swordsage theory at all. He may have been unsure how to response given that I claimed the Blue Carbuncle idea was nixed even though he just revealed a Blue Carbuncle, and moved forward with a response that invited more attention to the issue without accepting any responsibility for the conversation.
