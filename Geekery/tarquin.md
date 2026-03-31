@@ -98,4 +98,4 @@ He’s also shared that being quoted out of context has caused him distress in t
 
 [Source](https://www.patreon.com/posts/answers-post-8-93833361)
 
-In light of that, it’s likely Rich didn’t intend to contradict the Swordsage theory at all. He may have been unsure how to response given that I claimed the Blue Carbuncle idea was nixed even though he just revealed a Blue Carbuncle, or perhaps the constricting stance idea I suggested was wrong and that's what made him hesitate.  The constricting stance idea I mention in that post has proven so unpopular that I've removed it from my website until I can figure out how to improve it.
+In light of that, it’s likely Rich didn’t intend to contradict the Swordsage theory at all. He may have been unsure how to respond given that I claimed the Blue Carbuncle idea was nixed even though he just revealed a Blue Carbuncle, or perhaps the constricting stance idea I suggested was wrong and that's what made him hesitate.  The constricting stance idea I mention in that post has proven so unpopular that I've removed it from my website until I can figure out how to improve it.
