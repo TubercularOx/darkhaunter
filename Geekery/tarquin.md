@@ -30,7 +30,7 @@ Because of the way classes work in D&D, seeing Tarquin use one Maneuver makes me
 
 *With a quick sidestep, you send a charging opponent sprawling.*
 
-Panels 1 through 3 of [the same strip](https://www.giantitp.com/comics/oots0851.html) follow this sequence closely. In Panel 1, Roy charges with clear motion lines behind him. In Panel 2, Tarquin steps aside and hooks Roy’s leg with his foot, consistent with using leverage and misdirection. In Panel 3, Roy is redirected and lands sprawling a moderate distance away. The visual match aligns well with how *Counter Charge* functions, both thematically and mechanically.
+Panels 1 through 3 of [the same strip](https://www.giantitp.com/comics/oots0851.html) follow this sequence closely. In Panel 1, Roy charges with clear motion lines behind him. He attacks and Tarquin sidesteps the attack.  In Panel 2, Tarquin hooks Roy’s leg with his foot, consistent with using leverage and misdirection, which is referenced in the description for *Counter Charge*. In Panel 3, Roy is redirected and lands sprawling a moderate distance away. The visual match aligns well with how *Counter Charge* functions, both thematically and mechanically.
 
 ### Disrupting Blow
 
