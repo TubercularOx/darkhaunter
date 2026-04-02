@@ -50,7 +50,7 @@ The reconstruction has been moved [here](https://tubercularox.github.io/darkhaun
 | Mr. Scruffy | Weakened | 4.5 | Half hit die from being a cat, plus 4 from Belkar's observed Ranger level |
 | Blackwing | Weakened | 16 | ([V's familiar uses V's Caster Level](https://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars) in place of Hit Dice) |
 | Sunny | ? | 11-16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
-| Mimi | ? | 11-21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#kraagors-gate), and thus advanced to this HD range.) |
+| Mimi | ? | 11-21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#mimi)), and thus advanced to this HD range.) |
 
 ### Blasphemy Effects (Simplified)
 
