@@ -15,6 +15,8 @@ This page has characters that don't fit the other categories. They are sorted by
 
 After review I've found two cases of "them": [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html). I did not find any cases of him or her.
 
+To help sell this search as thorough, The MunchKING [notes](https://forums.giantitp.com/showsinglepost.php?p=26390258&postcount=287) that Elan [avoids using pronouns](https://www.giantitp.com/comics/oots1252.html) with Sunny, as does Serini, referring to them instead as, "a ball with eyes," "kid," and other indirect markers. Sunny also seems to avoid gender coded behavior.
+
 If you have an example of pronouns applying to Sunny, send me a PM on the forum.
 
 [^precure]: Thank you to Precure for finding this one.
