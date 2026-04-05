@@ -13,7 +13,9 @@ This page has characters that don't fit the other categories. They are sorted by
 
 **Preferred Pronouns**
 
-I definitely remember someone presenting a comic where Serini used "he" to refer to Sunny, but after review I've found instead two cases of "them": [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html).
+After review I've found two cases of "them": [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html). I did not find any cases of him or her.
+
+If you have an example of pronouns applying to Sunny, send me a PM on the forum.
 
 [^precure]: Thank you to Precure for finding this one.
 
