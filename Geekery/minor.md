@@ -19,7 +19,7 @@ To help sell this search as thorough, The MunchKING [notes](https://forums.giant
 
 *Serini's Gender Avoidance (incomplete)*
 
-[1255](https://www.giantitp.com/comics/oots1255.html) - "that big spherical dork"
+[1255](https://www.giantitp.com/comics/oots1255.html) - "take that big spherical dork to visit my hometown"
 
 [1283](https://www.giantitp.com/comics/oots1283.html) - "Cutest little outgrowth I ever saw, Sunny was."
 
