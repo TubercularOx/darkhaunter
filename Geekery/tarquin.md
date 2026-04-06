@@ -3,13 +3,65 @@ title: "Tarquin"
 parent: "Vector Legion"
 nav_order: 10
 key_sections: |
+  - [How he snatched two arrows in the same round](#double-snatch)
   - [How Swordsage fits Tarquin](#swordsage-tarquin)
 ---
-# Swordsage Tarquin
 
-## Maneuvers
+# Tarquin
 
-### Ballista Throw
+## Double Snatch
+
+In [Strip 936](https://www.giantitp.com/comics/oots0936.html), Haley uses Manyshot to fire two arrows at Tarquin, who snatches both of them out of the air. This forces him to let go of the ship railing he is hanging from, after which he drops the arrows and catches himself with one hand.
+
+### The Basics
+
+Deflect Arrows is a feat that lets you deflect one ranged weapon per round, so that you take no damage from it.
+
+Snatch Arrows is a feat that you can trigger when you deflect a ranged weapon, which lets you snatch the ranged weapon out of the air. You may keep the ranged weapon in your hand, or, if it is a thrown weapon, you can throw it back at the original attacker. This happens instantly and does not appear to be its own action.
+
+Each time Tarquin snatches an arrow, it is accompanied by a “snatch” sound effect. This directly matches Snatch Arrows. However, Snatch Arrows is limited by Deflect Arrows to once per round, which is difficult to reconcile with the scene.
+
+### Infinite Deflection
+
+This is an Epic feat that allows an unlimited number of ranged weapon deflections, provided its requirements are met. Since Snatch Arrows can be triggered on a successful deflection, this would also allow multiple snatches in the same round.
+
+“Infinite” in this context removes the per-round limit on deflections, but does not override the requirement to have a free hand. Filling both hands prevents further deflections, and therefore further snatches.
+
+To obtain this feat, Tarquin must be at least level 21 and have 25 Dexterity. These are significant requirements.
+
+The story does not prevent Tarquin from being Epic. At the same time, neither Tarquin nor his allies are shown using abilities that require Epic levels. As a result, Epic remains a viable interpretation, but not one that is singled out by the material.
+
+A Dexterity-focused character can reasonably reach 25 Dexterity by level 21. However, Tarquin has already demonstrated relatively high stats in other areas, which makes a strongly Dexterity-focused build less likely. In addition, aging penalties reduce Dexterity, making this threshold harder to maintain for an older character.
+
+### Stacked Snatch
+
+Snatch Arrows is written to trigger on a successful deflection, but several sources grant Snatch Arrows without requiring Deflect Arrows. The rules do not explain how these versions are intended to function.
+
+A common interpretation from the broader D&D community is that these alternative sources function independently, each allowing one use per round even without Deflect Arrows.
+
+Under this interpretation, multiple sources can be used together. Each source carries its own limit, allowing multiple snatches in a single round.
+
+Having the feats themselves is an independent source in this interpretation.
+
+Gloves of Arrow Snaring are an independent source, but are additionally limited to two uses per day. However, Tarquin snatches two arrows in the same round exactly twice: [Strip 936](https://www.giantitp.com/comics/oots0936.html), the one under review, and [Strip 925](https://www.giantitp.com/comics/oots0925.html), which is when Haley could have plausibly learned that Tarquin can snatch two arrows in the same round.
+
+The Master Thrower Prestige Class grants “the benefit of” Snatch Arrows. This “benefit of” language creates different interpretations in the broader D&D community, but one interpretation is that this is not the same as having the feat, and hence might be an independent source.
+
+Because Tarquin is older, there is also an argument that earlier-edition versions of these abilities may be in use, as there are several jokes involving changes in editions in the comic.
+
+Earlier versions of Gloves of Arrow Snaring are more permissive and do not require stacking to explain Tarquin’s arrow snatching.
+
+Return Shot is a psionic feat that functions similarly to Snatch Arrows. The 3.5 version automatically returns the deflected weapon to the attacker, while the 3.0 version only returns arrows if you have a bow available, otherwise requiring you to hold them. For this scene, the 3.0 version is a closer match, since it allows Tarquin to briefly hold multiple arrows rather than immediately returning them.
+
+### Hulking Hurler
+
+Hulking Hurler does not work here, because it requires the user to be Large and Tarquin is not. However, its Catch Weapon feature could otherwise account for the entire scene.
+
+## Swordsage Tarquin
+
+### Maneuvers
+
+#### Ballista Throw
 
 This is the best evidence that Tarquin is a Swordsage.
 
@@ -26,13 +78,13 @@ Short of labeling it outright, it’s hard to imagine what a clearer depiction o
 
 Because of the way classes work in D&D, seeing Tarquin use one Maneuver makes me want to look at whether any of his other actions might be as well.
 
-### Counter Charge
+#### Counter Charge
 
 *With a quick sidestep, you send a charging opponent sprawling.*
 
 Panels 1 through 3 of [the same strip](https://www.giantitp.com/comics/oots0851.html) follow this sequence closely. In Panel 1, Roy charges with clear motion lines behind him. He attacks and Tarquin sidesteps the attack.  In Panel 2, Tarquin hooks Roy’s leg with his foot, consistent with using leverage and misdirection, which is referenced in the description for *Counter Charge*. In Panel 3, Roy is redirected and lands sprawling a moderate distance away. The visual match aligns well with how *Counter Charge* functions, both thematically and mechanically.
 
-### Disrupting Blow
+#### Disrupting Blow
 
 *With a combination of brute force, keen timing, and exacting aim, you force your opponent into an awkward position that ruins his next action.*
 
@@ -40,7 +92,7 @@ Panels 1 through 3 of [the same strip](https://www.giantitp.com/comics/oots0851.
 
 Disrupting Blow is the same effect as Stunning Fist, but it works with any melee weapon. This matters because the previous explanation for this scene relied on Stunning Fist combined with a ki strike weapon that could deliver it. That workaround isn’t needed here.
 
-## Objection
+### Objection
 
 Some readers point to [this post](https://forums.giantitp.com/showsinglepost.php?p=25915532&postcount=3) as contradicting Tarquin being a Swordsage:
 
@@ -64,7 +116,7 @@ This is enough for the Geekery thread, for which the premise is that Rich is fol
 
 While the thread should be guided by the premise, the following supporting material may still be worth presenting.
 
-## The Blue Carbuncle Parallel
+### The Blue Carbuncle Parallel
 
 Rich also said he wasn’t aware of the “Blue Carbuncle” theory, yet his Class Monster design includes a blue carbuncle on it:
 
@@ -80,7 +132,7 @@ There are several reasons Rich might have held back. It could be that Tarquin be
 
 This follows naturally from a broader pattern of avoidance:
 
-## Author Commentary
+### Author Commentary
 
 Rich has explained before that he avoids commenting on reader speculation out of concern for spoiling the story, whether by confirming or denying details:
 
