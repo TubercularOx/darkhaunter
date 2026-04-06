@@ -55,6 +55,10 @@ Earlier versions of Gloves of Arrow Snaring are more permissive and do not requi
 
 Return Shot is a psionic feat that functions similarly to Snatch Arrows. The 3.5 version automatically returns the deflected weapon to the attacker, while the 3.0 version only returns arrows if you have a bow available, otherwise requiring you to hold them. For this scene, the 3.0 version is a closer match, since it allows Tarquin to hold an arrow rather than immediately returning them.  It works once per round and requires stacking with Snatch Arrows, but the description mentions added benefits when you have Deflect Arrows so the authors knew about that possibility as they were writing it.
 
+### Adjudication
+
+The rules are intricate enough that it seems it might be possible to use Manyshot's wording in order to create an interpretation where Tarquin is allowed to catch both arrows with just the Snatch Arrows feat.  However, in the [Strip 925](https://www.giantitp.com/comics/oots0925.html) example, Haley uses Rapid Shot instead of Manyshot, so the same explanation would not apply.
+
 ### Hulking Hurler
 
 Hulking Hurler does not work here, because it requires the user to be Large and Tarquin is not. However, its Catch Weapon feature could otherwise account for the entire scene.
