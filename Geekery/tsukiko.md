@@ -39,8 +39,7 @@ There are eight magical schools, and specialist wizards, like necromancers, must
 
 ### **Necromancy**
 - **Create Undead** (Necromancy [Evil])
-- **Tsukiko's Amazing Wight-Making Spell** (Necromancy – homebrew from *Order of the Stick* forums / comic context)  
-  (Custom spell used by Tsukiko to create wights; noted as having no verbal component. Rich Burlew provided a tongue-in-cheek explanation for how she makes wights, which core *Create Undead* does not directly allow.)
+- **Tsukiko's Amazing Wight-Making Spell** (Necromancy [Evil])
 
 ### **Transmutation**
 - **Fly** (Transmutation)
