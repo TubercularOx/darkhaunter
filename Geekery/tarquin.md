@@ -47,6 +47,8 @@ Gloves of Arrow Snaring are an independent source, but are additionally limited 
 
 The Master Thrower Prestige Class grants “the benefit of” Snatch Arrows. This “benefit of” language creates different interpretations in the broader D&D community, but one interpretation is that this is not the same as having the feat, and hence might be an independent source.
 
+### Older Model
+
 Because Tarquin is older, there is also an argument that earlier-edition versions of these abilities may be in use, as there are several jokes involving changes in editions in the comic.
 
 Earlier versions of Gloves of Arrow Snaring are more permissive and do not require stacking to explain Tarquin’s arrow snatching.
