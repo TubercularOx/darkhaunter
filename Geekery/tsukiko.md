@@ -42,7 +42,7 @@ There are eight magical schools, and necromancers, like other specialist wizards
 - **[Tsukiko's Amazing Wight-Making Spell](http://www.giantitp.com/comics/oots0516.html)**
 
 ### **Transmutation**
-- **Fly:** In [Strip 420](https://www.giantitp.com/comics/oots0420.html) Tsukiko is released from prison to fight for Azure City.  In [Strip 446](https://www.giantitp.com/comics/oots0446.html) she turns her coat to join Xykon.  In the last panel she is seen flying.  It is extremely unlikely that Xykon cast Fly on her. No magical items can be seen, and it is unlikely that Azure City gave her any in the first place. Hence, it is difficult to imagine that she cannot cast Fly on her own.
+- **[Fly](https://www.giantitp.com/comics/oots0458.html):** In [Strip 420](https://www.giantitp.com/comics/oots0420.html) Tsukiko is released from prison to fight for Azure City.  In [Strip 446](https://www.giantitp.com/comics/oots0446.html) she turns her coat to join Xykon.  In the last panel she is seen flying.  It is extremely unlikely that Xykon cast Fly on her. No magical items can be seen, and it is unlikely that Azure City gave her any in the first place. Hence, it is difficult to imagine that she cannot cast Fly on her own.
   
 We can assume she has barred Abjuration, but it's not clear what her other barred school is or how she casts a spell from it.  
 
