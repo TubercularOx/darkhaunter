@@ -15,7 +15,7 @@ This page has characters that don't fit the other categories. They are sorted by
 
 As of Strip 1341 two cases of Sunny being referred to as "them" have been found: [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html). I did not find any cases of him or her.
 
-Only two uses of a pronoun throughout most of a book helps demonstrate how the story has been avoiding assigning pronouns to Sunny.  Elan [avoids using pronouns](https://www.giantitp.com/comics/oots1252.html)[^munchking] when talking to Haley about them.  Serini once preferred [that big spherical dork](https://www.giantitp.com/comics/oots1255.html) to a pronoun, and elsewhere called Sunny [an outgrowth](https://www.giantitp.com/comics/oots1283.html), rather than a boy or girl, and again avoided a pronoun at the end of the sentence.
+Only two uses of a pronoun throughout most of a book helps demonstrate how the story has been avoiding assigning pronouns to Sunny.  Elan [avoids using pronouns](https://www.giantitp.com/comics/oots1252.html)[^munchking] when talking to Haley about Sunny.  Serini once preferred [that big spherical dork](https://www.giantitp.com/comics/oots1255.html) to a pronoun, and elsewhere called Sunny [an outgrowth](https://www.giantitp.com/comics/oots1283.html), rather than a boy or girl, and then named Sunny instead of using any pronoun.
 
 If you've found a different instance of a pronoun being applied to Sunny, send me a PM on the forum.
 
