@@ -16,33 +16,33 @@ There are eight magical schools, and necromancers, like other specialist wizards
 - None.
 
 ### **Conjuration**
-- **[Cold Orb](http://www.giantitp.com/comics/oots0522.html)** (Conjuration (Creation) [Cold])
-- **[Electric Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Electricity])
-- **[Fire Orb](http://www.giantitp.com/comics/oots0519.html)** (Conjuration (Creation) [Fire])
-- **[Lesser Acid Orb](http://www.giantitp.com/comics/oots0519.html)** (Conjuration (Creation) [Acid])
-- **[Teleport](http://www.giantitp.com/comics/oots0513.html)** (Conjuration (Teleportation))
+- **[Cold Orb](http://www.giantitp.com/comics/oots0522.html)**
+- **[Electric Orb](http://www.giantitp.com/comics/oots0518.html)**
+- **[Fire Orb](http://www.giantitp.com/comics/oots0519.html)** 
+- **[Lesser Acid Orb](http://www.giantitp.com/comics/oots0519.html)**
+- **[Teleport](http://www.giantitp.com/comics/oots0513.html)**
 
 ### **Divination**
 - None.
 
 ### **Enchantment**
-- **[Dominate Person](http://www.giantitp.com/comics/oots0516.html)** (Enchantment (Compulsion) [Mind-Affecting])
-- **[Mind Fog](http://www.giantitp.com/comics/oots0653.html)** (Enchantment (Compulsion) [Mind-Affecting])
+- **[Dominate Person](http://www.giantitp.com/comics/oots0516.html)** 
+- **[Mind Fog](http://www.giantitp.com/comics/oots0653.html)** 
 
 ### **Evocation**
-- **[Fireball](http://www.giantitp.com/comics/oots0518.html)** (Evocation [Fire])
-- **[Lightning Bolt](http://www.giantitp.com/comics/oots0458.html)** (Evocation [Electricity])
-- **[Shout](http://www.giantitp.com/comics/oots0458.html)** (Evocation [Sonic])
+- **[Fireball](http://www.giantitp.com/comics/oots0518.html)** 
+- **[Lightning Bolt](http://www.giantitp.com/comics/oots0458.html)** 
+- **[Shout](http://www.giantitp.com/comics/oots0458.html)** 
   
 ### **Illusion**
-- **[Invisibility](http://www.giantitp.com/comics/oots0518.html)** (Illusion (Glamer))
+- **[Invisibility](http://www.giantitp.com/comics/oots0518.html)** 
 
 ### **Necromancy**
-- **[Create Undead](http://www.giantitp.com/comics/oots0708.html)** (Necromancy [Evil])
-- **[Tsukiko's Amazing Wight-Making Spell](http://www.giantitp.com/comics/oots0516.html)** (Necromancy [Evil])
+- **[Create Undead](http://www.giantitp.com/comics/oots0708.html)** 
+- **[Tsukiko's Amazing Wight-Making Spell](http://www.giantitp.com/comics/oots0516.html)**
 
 ### **Transmutation**
-- **Fly** (Transmutation) In [Strip 420](https://www.giantitp.com/comics/oots0420.html) Tsukiko is released from prison to fight for Azure City.  In [Strip 446](https://www.giantitp.com/comics/oots0446.html) she turns her coat to join Xykon.  In the last panel she is seen flying.  It is extremely unlikely that Xykon cast Fly on her, or that Azure City gave her significant magical items before the battle. Hence, she can most likely cast Fly on her own.  
+- **Fly:** In [Strip 420](https://www.giantitp.com/comics/oots0420.html) Tsukiko is released from prison to fight for Azure City.  In [Strip 446](https://www.giantitp.com/comics/oots0446.html) she turns her coat to join Xykon.  In the last panel she is seen flying.  It is extremely unlikely that Xykon cast Fly on her. No magical items can be seen, and it is unlikely that Azure City gave her any in the first place. Hence, it is difficult to imagine that she cannot cast Fly on her own.
   
 We can assume she has barred Abjuration, but it's not clear what her other barred school is or how she casts a spell from it.  
 
