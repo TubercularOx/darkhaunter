@@ -10,40 +10,40 @@ key_sections: |
 
 ## Barred Schools
 
-There are eight magical schools, and specialist wizards, like necromancers, must bar two of them.  However, they are not allowed to bar divination.  Of the seven remaining schools, Tsukiko casts spells from six of them, as follows:
+There are eight magical schools, and necromancers, like other specialist wizards, must bar two of them.  However, they are not allowed to bar divination.  Of the seven remaining schools, Tsukiko casts spells from six of them, as follows:
 
 ### **Abjuration**
 - None.
 
 ### **Conjuration**
-- **Cold Orb** (Conjuration (Creation) [Cold])
-- **Electric Orb** (Conjuration (Creation) [Electricity])
-- **Fire Orb** (Conjuration (Creation) [Fire])
-- **Lesser Acid Orb** (Conjuration (Creation) [Acid])
-- **Teleport** (Conjuration (Teleportation))
+- **[Cold Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Cold])
+- **[Electric Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Electricity])
+- **[Fire Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Fire])
+- **[Lesser Acid Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Acid])
+- **[Teleport](http://www.giantitp.com/comics/oots0830.html)** (Conjuration (Teleportation))
 
 ### **Divination**
 - None.
 
 ### **Enchantment**
-- **Dominate Person** (Enchantment (Compulsion) [Mind-Affecting])
-- **Mind Fog** (Enchantment (Compulsion) [Mind-Affecting])
+- **[Dominate Person](http://www.giantitp.com/comics/oots0513.html)** (Enchantment (Compulsion) [Mind-Affecting])
+- **[Mind Fog](http://www.giantitp.com/comics/oots0518.html)** (Enchantment (Compulsion) [Mind-Affecting])
 
 ### **Evocation**
-- **Fireball** (Evocation [Fire])
-- **Lightning Bolt** (Evocation [Electricity])
-- **Shout** (Evocation [Sonic])
-
+- **[Fireball](http://www.giantitp.com/comics/oots0518.html)** (Evocation [Fire])
+- **[Lightning Bolt](http://www.giantitp.com/comics/oots0516.html)** (Evocation [Electricity])
+- **[Shout](http://www.giantitp.com/comics/oots0457.html)** (Evocation [Sonic])
+  
 ### **Illusion**
-- **Invisibility** (Illusion (Glamer))
+- **[Invisibility](http://www.giantitp.com/comics/oots0518.html)** (Illusion (Glamer))
 
 ### **Necromancy**
-- **Create Undead** (Necromancy [Evil])
-- **Tsukiko's Amazing Wight-Making Spell** (Necromancy [Evil])
+- **[Create Undead](http://www.giantitp.com/comics/oots0708.html)** (Necromancy [Evil])
+- **[Tsukiko's Amazing Wight-Making Spell](http://www.giantitp.com/comics/oots0830.html)** (Necromancy [Evil])
 
 ### **Transmutation**
-- **Fly** (Transmutation)
-
+- **[Fly](http://www.giantitp.com/comics/oots0516.html)** (Transmutation)
+  
 We can assume she has barred Abjuration, but it's not clear what her other barred school is or how she casts a spell from it.  
 
 One choice to make this possible is the Spell Reprieve feat, from Lost Empires of Faerun.[^hamishspence]  This lets Tsukiko learn and cast one spell of her choice from a prohibited school.
