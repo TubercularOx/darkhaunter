@@ -16,33 +16,33 @@ There are eight magical schools, and necromancers, like other specialist wizards
 - None.
 
 ### **Conjuration**
-- **[Cold Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Cold])
+- **[Cold Orb](http://www.giantitp.com/comics/oots0522.html)** (Conjuration (Creation) [Cold])
 - **[Electric Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Electricity])
-- **[Fire Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Fire])
-- **[Lesser Acid Orb](http://www.giantitp.com/comics/oots0518.html)** (Conjuration (Creation) [Acid])
-- **[Teleport](http://www.giantitp.com/comics/oots0830.html)** (Conjuration (Teleportation))
+- **[Fire Orb](http://www.giantitp.com/comics/oots0519.html)** (Conjuration (Creation) [Fire])
+- **[Lesser Acid Orb](http://www.giantitp.com/comics/oots0519.html)** (Conjuration (Creation) [Acid])
+- **[Teleport](http://www.giantitp.com/comics/oots0513.html)** (Conjuration (Teleportation))
 
 ### **Divination**
 - None.
 
 ### **Enchantment**
-- **[Dominate Person](http://www.giantitp.com/comics/oots0513.html)** (Enchantment (Compulsion) [Mind-Affecting])
-- **[Mind Fog](http://www.giantitp.com/comics/oots0518.html)** (Enchantment (Compulsion) [Mind-Affecting])
+- **[Dominate Person](http://www.giantitp.com/comics/oots0516.html)** (Enchantment (Compulsion) [Mind-Affecting])
+- **[Mind Fog](http://www.giantitp.com/comics/oots0653.html)** (Enchantment (Compulsion) [Mind-Affecting])
 
 ### **Evocation**
 - **[Fireball](http://www.giantitp.com/comics/oots0518.html)** (Evocation [Fire])
-- **[Lightning Bolt](http://www.giantitp.com/comics/oots0516.html)** (Evocation [Electricity])
-- **[Shout](http://www.giantitp.com/comics/oots0457.html)** (Evocation [Sonic])
+- **[Lightning Bolt](http://www.giantitp.com/comics/oots0458.html)** (Evocation [Electricity])
+- **[Shout](http://www.giantitp.com/comics/oots0458.html)** (Evocation [Sonic])
   
 ### **Illusion**
 - **[Invisibility](http://www.giantitp.com/comics/oots0518.html)** (Illusion (Glamer))
 
 ### **Necromancy**
 - **[Create Undead](http://www.giantitp.com/comics/oots0708.html)** (Necromancy [Evil])
-- **[Tsukiko's Amazing Wight-Making Spell](http://www.giantitp.com/comics/oots0830.html)** (Necromancy [Evil])
+- **[Tsukiko's Amazing Wight-Making Spell](http://www.giantitp.com/comics/oots0516.html)** (Necromancy [Evil])
 
 ### **Transmutation**
-- **[Fly](http://www.giantitp.com/comics/oots0516.html)** (Transmutation)
+- **[Fly](http://www.giantitp.com/comics/oots0458.html)** (Transmutation)
   
 We can assume she has barred Abjuration, but it's not clear what her other barred school is or how she casts a spell from it.  
 
