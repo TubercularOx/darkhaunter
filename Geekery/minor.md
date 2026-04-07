@@ -13,19 +13,14 @@ This page has characters that don't fit the other categories. They are sorted by
 
 **Preferred Pronouns**
 
-After review I've found two cases of "them": [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html). I did not find any cases of him or her.
+As of Strip 1341 two cases of Sunny being referred to as "them" have been found: [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html). I did not find any cases of him or her.
 
-To help sell this search as thorough, The MunchKING [notes](https://forums.giantitp.com/showsinglepost.php?p=26390258&postcount=287) that Elan [avoids using pronouns](https://www.giantitp.com/comics/oots1252.html) with Sunny, as does Serini, referring to them instead as, "a ball with eyes," "kid," and other indirect markers. Sunny also seems to avoid gender coded behavior.
+Only two uses of a pronoun throughout most of a book helps demonstrate how the story has been avoiding assigning pronouns to Sunny.  Elan [avoids using pronouns](https://www.giantitp.com/comics/oots1252.html)[^munchking] when talking to Haley about them.  Serini once preferred [that big spherical dork](https://www.giantitp.com/comics/oots1255.html) to a pronoun, and elsewhere called Sunny [an outgrowth](https://www.giantitp.com/comics/oots1283.html), rather than a boy or girl, and again avoided a pronoun at the end of the sentence.
 
-*Serini's Gender Avoidance (incomplete)*
-
-[1255](https://www.giantitp.com/comics/oots1255.html) - "take that big spherical dork to visit my hometown"
-
-[1283](https://www.giantitp.com/comics/oots1283.html) - "Cutest little outgrowth I ever saw, Sunny was."
-
-If you have an example of pronouns applying to Sunny, send me a PM on the forum.
+If you've found a different instance of a pronoun being applied to Sunny, send me a PM on the forum.
 
 [^precure]: Thank you to Precure for finding this one.
+[^munchking]: Thank you to The MunchKING for pointing this out.
 
 **Sunny's Eyes**
 
