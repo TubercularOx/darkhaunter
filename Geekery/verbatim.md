@@ -14,3 +14,8 @@ noindex: true
 > if the creature in the darkness is a hunting horror than it depends on Rich's "It is possible to guess...it's not something I made up" covering "I used this other game system, which told me to make up a spell, so I did so and used that made-up spell in a key scene." It depends on the creature actually being far physically weaker than either the tower scene or the earthquake scene indicates. It depends on the creature being in the darkness not because Xykon and Redcloak keep him there though he wishes not to be, but because light, unheralded, hurts him.
 >
 > The creature in the darkness is a Hunting Horror if Rich wrote a Cthulhu D20-based shaggy dog story.
+
+## D.One
+
+[Tarquin's Double Snatch](https://forums.giantitp.com/showsinglepost.php?p=26392872&postcount=1203)
+
