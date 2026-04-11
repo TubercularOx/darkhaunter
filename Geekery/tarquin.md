@@ -17,21 +17,23 @@ In [Strip 936](https://www.giantitp.com/comics/oots0936.html), Haley uses Manysh
 
 Deflect Arrows is a feat that lets you deflect one ranged weapon per round, so that you take no damage from it.
 
-Snatch Arrows is a feat that you can trigger when you deflect a ranged weapon, which lets you snatch the ranged weapon out of the air. You may keep the ranged weapon in your hand, or, if it is a thrown weapon, you can throw it back at the original attacker. This happens instantly and does not appear to be its own action.
+Snatch Arrows is a feat that you can trigger when you deflect a ranged weapon with Deflect Arrows, which lets you snatch the ranged weapon out of the air. You may keep the ranged weapon in your hand, or, if it is a thrown weapon, you can throw it back at the original attacker. This happens instantly and does not appear to be its own action.
 
 Each time Tarquin snatches an arrow, it is accompanied by a “snatch” sound effect. This directly matches Snatch Arrows. However, Snatch Arrows is limited by Deflect Arrows to once per round, which is difficult to reconcile with the scene.
 
 ### Infinite Deflection
 
-This is an Epic feat that allows an unlimited number of ranged weapon deflections, provided its requirements are met. Since Snatch Arrows can be triggered on a successful deflection, this would also allow multiple snatches in the same round.
+This is an Epic feat that allows an unlimited number of ranged weapon deflections, provided its requirements are met. 
 
-“Infinite” in this context removes the per-round limit on deflections, but does not override the requirement to have a free hand. Filling both hands prevents further deflections, and therefore further snatches.
+If it is read as modifying how Deflect Arrows works, then since Snatch Arrows can be triggered on a successful deflection, this would also allow multiple snatches in the same round.
+
+A different reading suggests that the player chooses to deflect an arrow with either the Deflect Arrows feat or the Infinite Deflection feat, and only the first, still limited to once per round, can be used to snatch arrows. In this case Infinite Deflection cannot be used to explain the scene.
 
 To obtain this feat, Tarquin must be at least level 21 and have 25 Dexterity. These are significant requirements.
 
 The story does not prevent Tarquin from being Epic. At the same time, neither Tarquin nor his allies are shown using abilities that require Epic levels. As a result, Epic remains a viable interpretation, but not one that is singled out by the material.
 
-A Dexterity-focused character can reasonably reach 25 Dexterity by level 21. However, Tarquin has already demonstrated relatively high stats in other areas, which makes a strongly Dexterity-focused build less likely. In addition, aging penalties reduce Dexterity, making this threshold harder to maintain for an older character.
+A Dexterity-focused character can easily reach 25 Dexterity by level 21. However, Tarquin has already demonstrated relatively high stats in other areas, which makes a strongly Dexterity-focused build less likely. In addition, aging penalties reduce Dexterity, making this threshold harder to maintain for an older character.
 
 ### Stacked Snatch
 
