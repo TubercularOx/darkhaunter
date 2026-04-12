@@ -15,6 +15,20 @@ noindex: true
 >
 > The creature in the darkness is a Hunting Horror if Rich wrote a Cthulhu D20-based shaggy dog story.
 
+[March 30th, 2026](https://forums.giantitp.com/showsinglepost.php?p=26387226&postcount=998)
+> I propose that Tarquin have Counter Charge removed from his listed abilities. The maneuver functions nothing like what is depicted in the linked strip.
+>
+> I also propose that he have Disrupting Blow removed. The stars around Durkon's head make me think that's something Rich is using to depict "hit hard but for nonlethal damage," instead of the lines that show lethal damage. There is no evidence Tarquin imposed a condition on him.
+
+[April 3rd, 2026](https://forums.giantitp.com/showsinglepost.php?p=26389513&postcount=1075)
+> InvisibleBison posted about it here.
+>
+> The distinction between "the attack doesn't happen" and "the attack misses" may be blurry based on the flavor-text line.
+
+## InvisibleBison (supported by Kish)
+[October 21st, 2025](https://forums.giantitp.com/showsinglepost.php?p=26286751&postcount=1350)
+> his interaction with Roy does not at all match how Counter Charge works: In the comic, Roy charges and attacks Tarquin, who then steps to the side and trips Roy. Counter Charge, on the other hand, prevents the charging person from attacking and does not knock them prone.
+
 ## D.One
 
 [Tarquin's Double Snatch](https://forums.giantitp.com/showsinglepost.php?p=26392872&postcount=1203)
