@@ -14,5 +14,4 @@ At that time, Elan plans to _eventually_ swap one of his existing spells for _Cu
 
 In [Strip 949](https://www.giantitp.com/comics/oots0949.html), Elan casts _Cure Critical Wounds_, with significant narrative emphasis placed on the **spell’s first on-panel use**.
 
-Taken together, this suggests Elan is **at least 17th level** when [Strip 949](https://www.giantitp.com/comics/oots0949.html) occurs.
-
+Taken together, this suggests Elan is **at least a 17th level Bard** when [Strip 949](https://www.giantitp.com/comics/oots0949.html) occurs. Add one level of Dashing Swordsman and Elan is **at least 18th level** overall.
