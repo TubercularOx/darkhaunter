@@ -3,10 +3,15 @@ title: "Roy Greenhilt"
 parent: "Order of the Stick"
 nav_order: 10
 key_sections: |
+  - [What level he is](#level)
   - [How strong he is](#strength)
   - [Why he carries Durkon when they flee](#run)
 ---
 # Roy Greenhilt
+
+## Level
+
+In [comic 1341](https://www.giantitp.com/comics/oots1341.html], Roy attacks Nale four times in a row, reasonably indicating a full attack. A fighter needs to be at least 16th level to make four attacks in a full attack.
 
 ## Strength
 
@@ -14,7 +19,7 @@ Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.
 
 Before this scene the thread estimated Roy's strength at 24, based on [carrying capacity](https://forums.giantitp.com/showthread.php?4912-Class-and-Level-Geekery-II/page47&p=3226830#post3226830) and the belt of giant strength [earned](https://www.giantitp.com/comics/oots0687.html) since that point.
 
-A strength of 24 seems light for Roy's dialog, so right now his strength is set as "comparable to a Frost Giant".
+Some feel a strength of 24 seems light for Roy's dialog, and prefer to see his strength as "comparable to a Frost Giant".
 
 ## Run
 
