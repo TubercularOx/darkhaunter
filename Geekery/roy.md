@@ -32,20 +32,15 @@ Roy carries Durkon when they are fleeing. This is odd because a Human and a Dwar
 
 Greg tries to cast a spell, and Roy interrupts him with the Spellsplinter maneuver. After the cutaway panel, Greg's staff is on the floor.
 
-Since Roy is still holding back at this stage of the fight because he thinks dialogue is possible, one reconstruction has Roy disarming Greg with the attack of opportunity provided by the Spellsplinter maneuver. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm. Under this reconstruction, Roy therefore has Improved Disarm.
+Since Roy is still holding back at this stage of the fight because he thinks dialogue is possible, one reconstruction has Roy disarming Greg with the attack of opportunity provided by the Spellsplinter maneuver. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm. Therefore, under this reconstruction, Roy has Improved Disarm.
 
 ## Improved Sunder
 
-**Strip 795**
+In Strip 795, Roy strikes Thog's axe, breaking it, then goes on to damage Thog's tusk, which enrages Thog.
 
-Same reasoning as *Improved Disarm*: breaking the axe is tactically significant, suggesting a Sunder attempt, and no attack of opportunity is visible, so *Improved Sunder* is implied.
+One interpretation is that breaking Thog's axe is a successful Sunder attempt, but Sunder attempts do not normally cause damage.
 
-A counter-argument is that breaking the tusk implies damage was done, and damage would mean *Improved Sunder* wasn’t used. To me, that leaves a choice:
-
-- a regular attack that conveniently removed Thog’s weapon, or  
-- a Sunder attempt that conveniently broke Thog’s tusk, inducing rage
-
-A few points of damage are not a significant contribution to the fight, while sundering Thog’s axe is. Focusing on something insignificant in order to turn something significant into the DM’s favor doesn’t sit right with me.
+Therefore another interpretation is that Roy attacked Thog directly and the axe broke without a Sunder attempt.
 
 **The below was written under a different theory about how this web page should work. I'll update it someday.**
 
