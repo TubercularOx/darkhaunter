@@ -6,6 +6,7 @@ key_sections: |
   - [What level he is](#level)
   - [How strong he is](#strength)
   - [Why he carries Durkon when they flee](#run)
+  - [What he does in combat](#combat-reconstructions)
 ---
 # Roy Greenhilt
 
@@ -25,15 +26,13 @@ Some feel a strength of 24 seems light for Roy's dialog, and prefer to see his s
 
 Roy carries Durkon when they are fleeing. This is odd because a Human and a Dwarf have the same movement speed when both are in heavy armor. The Run feat would give Roy additional running speed.  This makes carrying Durkon practical.
 
-**The below was written under a different theory about how this web page should work. I'll update it someday.**
-
 ## Improved Disarm
 
 **Strip 1003**
 
-I see Greg casting defensively, then Roy using the *Spellsplinter Maneuver* to attack him. A few panels later, Roy makes a follow-up attack, and Greg’s staff is already on the ground.
+Greg tries to cast a spell, and Roy interrupts him with the Spellsplinter maneuver. After the cutaway panel, Greg's staff is on the floor.
 
-The staff is magical, and losing it is tactically significant for Greg, so I prefer to assume Roy removed it deliberately rather than it being a metaphorical DM’s gift. Since no attack of opportunity is visible, *Improved Disarm* is implied.
+Since Roy is still holding back at this stage of the fight because he thinks dialogue is possible, one reconstruction has Roy disarming Greg with the attack of opportunity provided by the Spellsplinter maneuver. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm. Under this reconstruction, Roy therefore has Improved Disarm.
 
 ## Improved Sunder
 
@@ -47,6 +46,8 @@ A counter-argument is that breaking the tusk implies damage was done, and damage
 - a Sunder attempt that conveniently broke Thog’s tusk, inducing rage
 
 A few points of damage are not a significant contribution to the fight, while sundering Thog’s axe is. Focusing on something insignificant in order to turn something significant into the DM’s favor doesn’t sit right with me.
+
+**The below was written under a different theory about how this web page should work. I'll update it someday.**
 
 ## Improved Unarmed Strike
 
