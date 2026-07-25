@@ -29,6 +29,13 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 - **Minrah** says she is too paralyzed to speak out loud. **Blackwing and Mr. Scruffy** both speak.  This suggests they haven't been paralyzed.
 - **Belkar and Serini** are confirmed to be unaffected.
 
+
+[**Strip #1341**](https://www.giantitp.com/comics/oots1341.html)
+
+- O-Chul is weakened.
+- Sunny is paralyzed.
+- Mimi appears to be paralyzed.
+
 ### A Reconstruction
 
 The reconstruction has been moved [here](https://tubercularox.github.io/darkhaunter/Geekery/1338.html)
@@ -45,12 +52,12 @@ The reconstruction has been moved [here](https://tubercularox.github.io/darkhaun
 | Roy | Weakened | 14+ | ([forum](https://forums.giantitp.com/showsinglepost.php?p=19392374&postcount=533)) |
 | Durkon | Weakened | 13+ | (required to cast [Regenerate](http://www.giantitp.com/comics/oots1162.html)) |
 | Lien | Weakened | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
-| O-Chul | ? | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
+| O-Chul | Weakened | 12+ | ([higher level than Hinjo](http://www.giantitp.com/comics/oots0671.html)) |
 | Minrah | Paralyzed | 10+ | ([Fighter](http://www.giantitp.com/comics/oots1180.html) 1+ / [Cleric](https://www.giantitp.com/comics/oots1212.html) 9+) |
 | Mr. Scruffy | Weakened | 4.5 | Half hit die from being a cat, plus 4 from Belkar's observed Ranger level |
 | Blackwing | Weakened | 16 | ([V's familiar uses V's Caster Level](https://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars) in place of Hit Dice) |
-| Sunny | ? | 11-16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
-| Mimi | ? | 11-21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#mimi)), and thus advanced to this HD range.) |
+| Sunny | Paralyzed | 11-16 | (Beholders start as Large 11+ Hit Dice and can advance up to 16 HD without becoming Huge) |
+| Mimi | Paralyzed | 11-21 | (Mimi appears to be a [Huge Mimic](https://tubercularox.github.io/darkhaunter/Geekery/minor.html#mimi)), and thus advanced to this HD range.) |
 
 ### Blasphemy Effects (Simplified)
 
