@@ -12,7 +12,7 @@ key_sections: |
 
 ## Level
 
-In [comic 1341](https://www.giantitp.com/comics/oots1341.html], Roy attacks Nale four times in a row, reasonably indicating a full attack. A fighter needs to be at least 16th level to make four attacks in a full attack.
+In [comic 1341](https://www.giantitp.com/comics/oots1341.html), Roy attacks Nale four times in a row, reasonably indicating a full attack. A fighter needs to be at least 16th level to make four attacks in a full attack.
 
 ## Strength
 
