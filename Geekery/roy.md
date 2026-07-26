@@ -26,21 +26,17 @@ Some feel a strength of 24 seems light for Roy's dialog, and prefer to see his s
 
 Roy carries Durkon when they are fleeing. This is odd because a Human and a Dwarf have the same movement speed when both are in heavy armor. The Run feat would give Roy additional running speed.  This makes carrying Durkon practical.
 
-## Improved Disarm
-
-**Strip 1003**
-
-Greg tries to cast a spell, and Roy interrupts him with the Spellsplinter maneuver. After the cutaway panel, Greg's staff is on the floor.
-
-Since Roy is still holding back at this stage of the fight because he thinks dialogue is possible, one reconstruction has Roy disarming Greg with the attack of opportunity provided by the Spellsplinter maneuver. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm. Therefore, under this reconstruction, Roy has Improved Disarm.
-
-## Improved Sunder
+## Combat Brute, Improved Sunder, Power Attack
 
 In Strip 795, Roy strikes Thog's axe, breaking it, then goes on to damage Thog's tusk, which enrages Thog.
 
-One interpretation is that breaking Thog's axe is a successful Sunder attempt, but Sunder attempts do not normally cause damage.
+One interpretation is that breaking Thog's axe is a successful Sunder attempt, after which Roy used the Combat Brute feat's Sundering Cleave tactic to attack Thog directly.  Improved Sunder and Power Attack are preqrequisites for Combat Brute, and Improved Sunder is needed to explain why Roy did not trigger an attack of opportunity when Sundering Thog's axe.
 
-Therefore another interpretation is that Roy attacked Thog directly and the axe broke without a Sunder attempt.
+## Improved Disarm
+
+In Strip 1003, Greg tries to cast a spell, and Roy interrupts him with the Spellsplinter maneuver. After the cutaway panel, Greg's staff is on the floor.
+
+Since Roy is still holding back at this stage of the fight because he thinks dialogue is possible, one reconstruction has Roy disarming Greg with the attack of opportunity provided by the Spellsplinter maneuver. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm. Therefore, under this reconstruction, Roy has Improved Disarm.
 
 **The below was written under a different theory about how this web page should work. I'll update it someday.**
 
