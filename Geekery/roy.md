@@ -48,14 +48,13 @@ One interpretation is that Roy took the Improved Unarmed Strike feat somewhere i
 
 ## Improved Trip
 
-One way to reconstruct **Strip 730** suggests that Rich has the Improved Trip feat.
+In **Strip 730**, if Roy's attack is not interpreted as an attack of opportunity, then it's hard to answer why Enor didn't finish his movement and attack the warlock.
 
-*Improved Unarmed Strike* is required for Roy to be allowed an attack of opportunity here. The first post lists this as a grapple, likely because Roy grabbed Enor with his hands. However:
+In order to get an attack of opportunity, Roy must threaten adjacent squares while unarmed.  Improved Unarmed Strike allows this.
 
-- the goal of a grapple is to end up grappled  
-- the goal of a trip is to make the target prone
+Being knocked prone is a feature of a trip attack.  Some see a grapple because Roy is holdin on to Enor's tail, but if Roy and Enor are grappled then Roy lets go in the next panel.  If Roy trips Enor then it follows that Enor would stay prone and Roy would no longer be holding Enor in the next panel.
 
-Trip fits better, and *Improved Trip* is implied by the lack of an attack of opportunity from Enor.
+In order to trip Enor without Enor getting an attack of opportunity on Roy, Roy needs Improved Trip.
 
 **The below was written under a different theory about how this web page should work. I'll update it someday.**
 
