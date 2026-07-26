@@ -98,16 +98,3 @@ In Call of Cthulhu, Hunting Horrors serve evil sorcerers, a term with vastly dif
 ### A Twisted Tie To Tiamat
 
 The same pattern of keeping the label while substituting a *Dungeons & Dragons* version applies to Tiamat. In Mesopotamian mythology, Tiamat was a primordial goddess of the sea, with no connection to a five-headed dragon representing the chromatic spectrum of evil dragons. However, when Rich adapted the Mesopotamian gods into the Western Pantheon in *Order of the Stick*, he retained the name Tiamat but slotted in the *D&D* version instead of the original mythological figure, maintaining the pattern of repurposing real-world labels for *D&D* concepts, treating them as interchangeable without adapting their original meanings.
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-Regular text under a level 6 header
