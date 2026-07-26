@@ -38,18 +38,17 @@ In Strip 1003, Greg tries to cast a spell, and Roy interrupts him with the Spell
 
 Since Roy is still holding back at this stage of the fight because he thinks dialogue is possible, one reconstruction has Roy disarming Greg with the attack of opportunity provided by the Spellsplinter maneuver. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm. Therefore, under this reconstruction, Roy has Improved Disarm.
 
-**The below was written under a different theory about how this web page should work. I'll update it someday.**
 
 ## Improved Unarmed Strike
 
 In **Strip 144**, Roy refuses to attack monsters without a weapon.  
 In **Strip 1070**, he attacks an armed frost giant with his fist.
 
-I think he took *Improved Unarmed Strike* somewhere in between.
+One interpretation is that Roy took the Improved Unarmed Strike feat somewhere in between these events.
 
 ## Improved Trip
 
-In **Strip 730**, Enor moves through Roy’s threatened space and Roy uses his attack of opportunity to trip him.
+One way to reconstruct **Strip 730** suggests that Rich has the Improved Trip feat.
 
 *Improved Unarmed Strike* is required for Roy to be allowed an attack of opportunity here. The first post lists this as a grapple, likely because Roy grabbed Enor with his hands. However:
 
@@ -57,6 +56,8 @@ In **Strip 730**, Enor moves through Roy’s threatened space and Roy uses his a
 - the goal of a trip is to make the target prone
 
 Trip fits better, and *Improved Trip* is implied by the lack of an attack of opportunity from Enor.
+
+**The below was written under a different theory about how this web page should work. I'll update it someday.**
 
 ## Least Legacy, Lesser Legacy, Call to Hand
 
