@@ -3,12 +3,26 @@ title: "Roy Greenhilt"
 parent: "Order of the Stick"
 nav_order: 10
 key_sections: |
+  - [How the Spellsplinter Maneuver works](#spellsplinter-maneuver)
   - [What level he is](#level)
   - [How strong he is](#strength)
   - [Why he carries Durkon when they flee](#run)
   - [What he does in combat](#combat-reconstructions)
+  - [How his sword works](#roys-sword)
 ---
 # Roy Greenhilt
+
+## Spellsplinter Maneuver
+
+This appears to allow Roy to attack spellcasters who are casting defensively.  Being something Rich named and introduced to his own setting, trying to find a matching feat would be excessive.
+
+The feat this is most similar to is Spellcasting Harrier, from Draconomicon.  It allows an attack of opportunity against spellcasters casting defensively, with a +4 bonus to the attack roll. Interestingly, a spellcaster can deny you the +4 bonus by casting normally, but this triggers an attack of opportunity from everyone adjacent, which doesn't matter if the fight is one on one.
+
+Spellcasting Harrier is Epic and therefore not Spellsplinter Maneuver's secret identity.
+
+Mage Slayer from Complete Arcane was suggested as an alternative. Spellcasters always fail when attempting to cast defensively, which could be depicted as Roy interrupting the spell. However, it has the strange property that spellcasters know that casting defensively will fail when they're threatened by someone with the feat.  Greg tests Roy to see if Spellsplinter Maneuver works on divine magic, but if Spellsplinter Maneuver's secret identity were Mage Slayer Greg would know that just by being threatened by Roy.
+
+Mage Slayer is not Spellsplinter Maneuver's secret identity.
 
 ## Level
 
@@ -26,18 +40,19 @@ Some feel a strength of 24 seems light for Roy's dialog, and prefer to see his s
 
 Roy carries Durkon when they are fleeing. This is odd because a Human and a Dwarf have the same movement speed when both are in heavy armor. The Run feat would give Roy additional running speed.  This makes carrying Durkon practical.
 
-## Combat Brute, Improved Sunder, Power Attack
+## Combat Brute, Improved Sunder
 
 In Strip 795, Roy strikes Thog's axe, breaking it, then goes on to damage Thog's tusk, which enrages Thog.
 
-One interpretation is that breaking Thog's axe is a successful Sunder attempt, after which Roy used the Combat Brute feat's Sundering Cleave tactic to attack Thog directly.  Improved Sunder and Power Attack are preqrequisites for Combat Brute, and Improved Sunder is needed to explain why Roy did not trigger an attack of opportunity when Sundering Thog's axe.
+One interpretation is that breaking Thog's axe is a successful Sunder attempt, after which Roy used the Combat Brute feat's Sundering Cleave tactic to attack Thog directly.  Improved Sunder is a prerequisite for Combat Brute, and it explains why Roy did not trigger an attack of opportunity when Sundering Thog's axe.
 
 ## Improved Disarm
 
 In Strip 1003, Greg tries to cast a spell, and Roy interrupts him with the Spellsplinter maneuver. After the cutaway panel, Greg's staff is on the floor.
 
-Since Roy is still holding back at this stage of the fight because he thinks dialogue is possible, one reconstruction has Roy disarming Greg with the attack of opportunity provided by the Spellsplinter maneuver. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm. Therefore, under this reconstruction, Roy has Improved Disarm.
+One reconstruction is that the attack of opportunity from Spellsplinter was a disarm attempt, knocking Greg's staff to the floor. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm.
 
+A disarm attempt replaces an attempt to do damage, but at this stage of the fight Roy still thinks dialog is possible.
 
 ## Improved Unarmed Strike
 
@@ -56,24 +71,6 @@ Being knocked prone is a feature of a trip attack.  Some see a grapple because R
 
 In order to trip Enor without Enor getting an attack of opportunity on Roy, Roy needs Improved Trip.
 
-**The below was written under a different theory about how this web page should work. I'll update it someday.**
-
-## Least Legacy, Lesser Legacy, Call to Hand
-
-Rich alludes to *Weapons of Legacy* as the rulebook devoted to the idea of Roy “feeling at his sword super hard” to grant it magical abilities, but says he didn’t read it.
-
-This feels like a gray area where assigning rules to the story is reasonable without worrying about Rich “getting them wrong.”
-
-*Call to Hand* is a perfect match for what Roy does with his sword, but I’m not convinced *Lesser Legacy* is required to activate it.
-
-## +5 Starmetal Greatsword of Undead Bane and Throwing
-
-It would be fun to keep hunting through *Weapons of Legacy* for additional abilities, especially since the Throwing property seems likely to be a legacy ability, but this feels like a sufficient description of Roy’s sword for now.
-
-## Spellsplinter Maneuver
-
-This appears to allow Roy to attack spellcasters who are casting defensively. Whether this is legally an attack of opportunity (as similar feats are), or an extra attack of some other kind, is unclear.
-
 ## Jump
 
 Some argue Roy is strong enough that he doesn’t need ranks in Jump to achieve the jumps we see.
@@ -81,3 +78,31 @@ Some argue Roy is strong enough that he doesn’t need ranks in Jump to achieve 
 ## Profession: Goatherd
 
 Some argue that taking a class doesn’t necessarily mean earning skill points. I don’t like this interpretation; the setting is self-aware about the importance of skill points, and it’s hard to see a class that offers none being accepted as a substitute for one that does.
+
+# Roy's Sword
+
+I have chosen to list Roy's Sword as its own character.  It's practically the seventh member of the team.  It is a +5 Greatsword with a number of more specific qualities.
+
+## Call to Hand
+
+Rich alludes to *Weapons of Legacy* as the rulebook devoted to the idea of Roy “feeling at his sword super hard” to grant it magical abilities, but says he didn’t like it after reading it and chose not to use it.
+
+However, *Call to Hand*, a least legacy ability, is a perfect match for how Roy summons his sword.
+
+## Starmetal 
+
+Starmetal is printed in Complete Arcane. There it is equivalent to adamantium but also has Outsider Bane as a free bonus.  Rich mentions neither of these features so it is likely he is using his own version of starmetal.
+
+## Undead Bane
+
+The green fire that harms undead may be a more dramatic version of the Undead Bane enchantment.
+
+## Throwing
+
+Effectively throwing a greatsword the way Roy does is not the default for greatswords.  A Throwing enchantment would allow for it.
+
+## Conclusion
+
+Roy's sword could be a +5 Starmetal Greatsword of Undead Bane, Throwing and Legacy, with Call to Hand as a least legacy ability.  The two enchantments make it equal to a +7 Greatsword, worth 98,000 GP, or 37.7% of a 16th level character's expected wealth.  The legacy ability doesn't price well.
+
+
