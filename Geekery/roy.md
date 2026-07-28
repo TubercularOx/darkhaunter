@@ -14,7 +14,7 @@ key_sections: |
 
 ## Spellsplinter Maneuver
 
-This appears to allow Roy to attack spellcasters who are casting defensively.  Being something Rich named and introduced to his own setting, trying to find a matching feat would be excessive.
+This appears to allow Roy to [attack spellcasters who are casting defensively](https://www.giantitp.com/comics/oots0886.html).  Being something Rich named and introduced to his own setting, trying to find a matching feat would be excessive.
 
 The feat this is most similar to is Spellcasting Harrier, from Draconomicon.  It allows an attack of opportunity against spellcasters casting defensively, with a +4 bonus to the attack roll. Interestingly, a spellcaster can deny you the +4 bonus by casting normally, but this triggers an attack of opportunity from everyone adjacent, which doesn't matter if the fight is one on one.
 
