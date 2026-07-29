@@ -43,6 +43,9 @@ This section makes no attempt to shed light on anything.  You are likely to be 
 * Last possible strip to be on time for defeating Xykon at strip #100 \[Xykon plans]
 * Nale and Thog set up to return after the end of the current dungeon \[Celia plans]
 
+### Strip #81
+* The Elven gods are introduced.  Rich says this was before the Snarl plot was created and that if the Snarl were created first then the Elven gods would never have existed.  [Elven Gods](#elven-gods)
+
 ### Strip #92
 
 * First dialog of Goblin teenagers
@@ -67,6 +70,9 @@ This section makes no attempt to shed light on anything.  You are likely to be 
 * Around this strip, the Monster in the Dark's base monster was confirmed. (But see Strip #96)
 * First target for defeating Xykon - delayed by Durkon's subplot
 * Second target for entering Xykon's throne room - delayed by Goblin teenagers
+
+### Strip #105
+* The party finally enters Xykon's throne room, delayed by the Goblin teenagers.
 
 ### Strip #120
 
@@ -159,3 +165,13 @@ While I have certainly embellished on that original outline since then, I’m st
 ### Rich 4/19/04 
 
 [https://forums.giantitp.com/showsinglepost.php?p=486300&postcount=54](https://forums.giantitp.com/showsinglepost.php?p=486300&postcount=54)
+
+### Elven Gods
+
+[From Patreon](https://www.patreon.com/oots/posts/answer-post-2020-34406298)
+
+17.) Sarah Scheffler: When you first started writing OOTS, did you think you were signing up for a 17+ year journey? How much of the plot did you have in mind when you wrote the first strip?
+
+Rich: I had literally zero percent of the plot in mind when I wrote the first strip. In fact, I didn’t even think I was going to stick with the same characters when I wrote the first strip; I thought I was going to jump around to whatever sort of character would illustrate my oh-so-savvy jokes about D&D rules. I changed that plan before I even posted the first one, but it’s hard to fully convey the degree to which there was no roadmap whatsoever when I began this, nor in fact deep into the first hundred strips or so. (I talk a lot about the process of how I sort of accidentally fell into writing this in the commentary for the first book, if you were interested in more detail. Shameless Plug: The Sequel.)
+
+A lot of the things that are crucial parts of the story were just random gags early on that I then had to work into a cohesive narrative without invalidating the earlier comics. One example: the reason there’s an elven pantheon is because V mentions it during the original Banjo scene. This was before I developed the entire Snarl plotline and the specific roles each pantheon was going to play in the backstory of the world. I had to retrofit the existence of the elven gods into the framework I invented later, and do so in a way that kept them separate from the unique role I needed the goblin god to play. That’s why the elven gods are described as being “sponsored” by the Western Pantheon and thus sharing their red quiddity—because if I had been planning this all from the beginning, they wouldn’t exist at all!
