@@ -44,7 +44,7 @@ This section makes no attempt to shed light on anything.  You are likely to be 
 * Nale and Thog set up to return after the end of the current dungeon \[Celia plans]
 
 ### Strip #81
-* The Elven gods are introduced.  Rich says this was before the Snarl plot was created and that if the Snarl were created first then the Elven gods would never have existed.  [Elven Gods](#elven-gods)
+* The Elven gods are introduced.  Rich says this was before the Snarl plot was created and that if the Snarl were created first then the Elven gods would never have existed.  [\[Elven Gods\]](#elven-gods)
 
 ### Strip #92
 
