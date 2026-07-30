@@ -40,7 +40,7 @@ This section makes no attempt to shed light on anything.  You are likely to be 
 ### Strip #72
 
 * Durkon confirmed separated from party
-* Last possible strip to be on time for defeating Xykon at strip #100 \[Xykon plans]
+* Last possible strip to be on time for Xykon escaping at strip #100 \[Xykon plans]
 * Nale and Thog set up to return after the end of the current dungeon \[Celia plans]
 
 ### Strip #81
@@ -68,7 +68,7 @@ This section makes no attempt to shed light on anything.  You are likely to be 
 ### Strip #100
 
 * Around this strip, the Monster in the Dark's base monster was confirmed. (But see Strip #96)
-* First target for defeating Xykon - delayed by Durkon's subplot
+* First target for Xykon escaping - delayed by Durkon's subplot
 * Second target for entering Xykon's throne room - delayed by Goblin teenagers
 
 ### Strip #105
@@ -103,6 +103,10 @@ This section makes no attempt to shed light on anything.  You are likely to be 
 My original plans called for the Order to defeat Xykon in strip #100, but the addition of the Durkon story pushed that back. Then I intended for them to enter Xykon’s throne room in #100, but the inclusion of the goblin teenagers delayed it further.
 
 In the end, I decided that all the expectations would be for a giant celebratory strip; after all, that’s what I had done for #50, right? And by now, you should realize that I hate fulfilling people’s expectations, so #100 was nothing special—so much so that even Haley was disappointed.
+
+...
+
+It was kind of self-evident to me that Xykon and company needed to escape. They’re too good as characters to kill off in the first meeting between them and the heroes.
 
 ### Dungeon exit
 
