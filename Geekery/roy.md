@@ -26,7 +26,7 @@ Mage Slayer is not Spellsplinter Maneuver's secret identity.
 
 ## Level
 
-In [comic 1341](https://www.giantitp.com/comics/oots1341.html), Roy attacks Nale four times in a row, suggesting a full attack. A fighter needs to be at least 16th level to make four attacks in a full attack.
+In [Strip 1341](https://www.giantitp.com/comics/oots1341.html), Roy attacks Nale four times in a row, suggesting a full attack. A fighter needs to be at least 16th level to make four attacks in a full attack.
 
 ## Strength
 
@@ -34,7 +34,7 @@ Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.
 
 This scene provides evidence that Roy's Strength may instead be around 29.
 
-Before this comic, Roy's Strength was often estimated around 24 based on his carrying capacity and the Belt of Giant Strength [earned](https://www.giantitp.com/comics/oots0687.html) after his carrying capacity was calculated.
+Before this comic, Roy’s Strength was estimated from his carrying capacity. He later acquired a [Belt of Giant's Strength](https://www.giantitp.com/comics/oots0687.html). The estimate at that time was 24.
 
 ## Run
 
@@ -42,7 +42,7 @@ Roy [carries Durkon](https://www.giantitp.com/comics/oots0005.html) when they ar
 
 ## Jump
 
-In [Strip 1004](https://www.giantitp.com/comics/oots1004.html), Roy jumps very high.  Some argue this is a sign that he has points in the Jump skill.  Others argue that the jump is achievable with Roy's significant Strength.  The Run feat also grants a bonus to Jump checks. This should be considered if he's interpreted as having that feat.
+In [Strip 1004](https://www.giantitp.com/comics/oots1004.html), Roy jumps very high.  Some argue this is a sign that he has points in the Jump skill.  Others argue that the jump is achievable with Roy's significant Strength.  The Run feat also grants a bonus to Jump checks, so that bonus should be considered if Roy is interpreted as having Run.
 
 ## Combat Brute, Improved Sunder
 
@@ -71,7 +71,7 @@ In **[Strip 730](https://www.giantitp.com/comics/oots0730.html)**, if Roy's atta
 
 In order to get an attack of opportunity, Roy must threaten adjacent squares while unarmed.  Improved Unarmed Strike allows this.
 
-Being knocked prone is a feature of a trip attack.  Some see a grapple because Roy is holdin on to Enor's tail, but if Roy and Enor are grappled then Roy lets go in the next panel.  If Roy trips Enor then it follows that Enor would stay prone and Roy would no longer be holding Enor in the next panel.
+Being knocked prone is a feature of a trip attack.  Some see a grapple because Roy is holding on to Enor's tail, but if Roy and Enor are grappled then Roy lets go in the next panel.  If Roy trips Enor then it follows that Enor would stay prone and Roy would no longer be holding Enor in the next panel.
 
 In order to trip Enor without Enor getting an attack of opportunity on Roy, Roy needs Improved Trip.
 
@@ -79,7 +79,7 @@ This section is reflected in [this reconstruction](https://tubercularox.github.i
 
 ## Profession: Goatherd
 
-Roy took [two semesters of Goat Herding](https://www.giantitp.com/comics/oots0141.html).  Some argue that these should represent points in Profession: Goat Herding because this is a self-aware parody of D&D and the characters in it know the difference between a class that teaches points in a skill like Ride and a class that offers no skill points at all. 
+Roy took [two semesters of Goat Herding](https://www.giantitp.com/comics/oots0141.html).  Some argue that these should represent points in Profession: Goat Herding because this is a self-aware parody of D&D and the characters in it know the difference in value between coursework that provides skill points in Ride and coursework that provides no skill points at all. 
 
 Others feel that completing the coursework does not necessarily imply ranks in Profession: Goat Herding.
 
