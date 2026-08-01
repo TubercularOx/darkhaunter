@@ -26,29 +26,33 @@ Mage Slayer is not Spellsplinter Maneuver's secret identity.
 
 ## Level
 
-In [comic 1341](https://www.giantitp.com/comics/oots1341.html), Roy attacks Nale four times in a row, reasonably indicating a full attack. A fighter needs to be at least 16th level to make four attacks in a full attack.
+In [comic 1341](https://www.giantitp.com/comics/oots1341.html), Roy attacks Nale four times in a row, suggesting a full attack. A fighter needs to be at least 16th level to make four attacks in a full attack.
 
 ## Strength
 
-Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.com/comics/oots1075.html).  Frost giants have a base strength of 29 and this one may be [stronger than average](https://www.giantitp.com/comics/oots1061.html).  For the bull rush attempt in this comic, the Frost Giant is Large and that matters, but Roy does mention that explicitly.
+Roy considers himself the [same strength as a Frost Giant](https://www.giantitp.com/comics/oots1075.html). Frost giants have a base Strength of 29, though this one may be [stronger than average](https://www.giantitp.com/comics/oots1061.html), which creates some uncertainty. The giant's Large size also contributes to its bull rush modifier, but Roy explicitly acknowledges that advantage.
 
-Before this scene the thread estimated Roy's strength at 24, based on [carrying capacity](https://forums.giantitp.com/showthread.php?4912-Class-and-Level-Geekery-II/page47&p=3226830#post3226830) and the belt of giant strength [earned](https://www.giantitp.com/comics/oots0687.html) since that point.
+This scene provides evidence that Roy's Strength may instead be around 29.
 
-Some feel a strength of 24 seems light for Roy's dialog, and prefer to see his strength as "comparable to a Frost Giant".
+Before this comic, Roy's Strength was often estimated around 24 based on his carrying capacity and the Belt of Giant Strength [earned](https://www.giantitp.com/comics/oots0687.html) after his carrying capacity was calculated.
 
 ## Run
 
-Roy carries Durkon when they are fleeing. This is odd because a Human and a Dwarf have the same movement speed when both are in heavy armor. The Run feat would give Roy additional running speed.  This makes carrying Durkon practical.
+Roy [carries Durkon](https://www.giantitp.com/comics/oots0005.html) when they are fleeing. This is odd because a Human and a Dwarf have the same movement speed when both are in heavy armor. The Run feat would give Roy additional running speed.  This makes carrying Durkon practical.
+
+## Jump
+
+In [Strip 1004](https://www.giantitp.com/comics/oots1004.html), Roy jumps very high.  Some argue this is a sign that he has points in the Jump skill.  Others argue that the jump is achievable with Roy's significant Strength.  The Run feat also grants a bonus to Jump checks. This should be considered if he's interpreted as having that feat.
 
 ## Combat Brute, Improved Sunder
 
-In Strip 795, Roy strikes Thog's axe, breaking it, then goes on to damage Thog's tusk, which enrages Thog.
+In [Strip 795](https://www.giantitp.com/comics/oots0795.html), Roy strikes Thog's axe, breaking it, then goes on to damage Thog's tusk, which enrages Thog.
 
 One interpretation is that breaking Thog's axe is a successful Sunder attempt, after which Roy used the Combat Brute feat's Sundering Cleave tactic to attack Thog directly.  Improved Sunder is a prerequisite for Combat Brute, and it explains why Roy did not trigger an attack of opportunity when Sundering Thog's axe.
 
 ## Improved Disarm
 
-In Strip 1003, Greg tries to cast a spell, and Roy interrupts him with the Spellsplinter maneuver. After the cutaway panel, Greg's staff is on the floor.
+In [Strip 1003](https://www.giantitp.com/comics/oots1003.html), Greg tries to cast a spell, and Roy interrupts him with the Spellsplinter maneuver. After the cutaway panel, Greg's staff is on the floor.
 
 One reconstruction is that the attack of opportunity from Spellsplinter was a disarm attempt, knocking Greg's staff to the floor. A disarm attempt would itself provoke an attack of opportunity unless Roy has Improved Disarm.
 
@@ -56,14 +60,14 @@ A disarm attempt replaces an attempt to do damage, but at this stage of the figh
 
 ## Improved Unarmed Strike
 
-In **Strip 144**, Roy refuses to attack monsters without a weapon.  
-In **Strip 1070**, he attacks an armed frost giant with his fist.
+In **[Strip 144](https://www.giantitp.com/comics/oots0144.html)**, Roy refuses to attack monsters without a weapon.  
+In **[Strip 1070](https://www.giantitp.com/comics/oots1070.html)**, he attacks an armed frost giant with his fist.
 
 One interpretation is that Roy took the Improved Unarmed Strike feat somewhere in between these events.
 
 ## Improved Trip
 
-In **Strip 730**, if Roy's attack is not interpreted as an attack of opportunity, then it's hard to answer why Enor didn't finish his movement and attack the warlock.
+In **[Strip 730](https://www.giantitp.com/comics/oots0730.html)**, if Roy's attack is not interpreted as an attack of opportunity, then it's hard to answer why Enor didn't finish his movement and attack the warlock.
 
 In order to get an attack of opportunity, Roy must threaten adjacent squares while unarmed.  Improved Unarmed Strike allows this.
 
@@ -71,17 +75,17 @@ Being knocked prone is a feature of a trip attack.  Some see a grapple because R
 
 In order to trip Enor without Enor getting an attack of opportunity on Roy, Roy needs Improved Trip.
 
-## Jump
-
-Some argue Roy is strong enough that he doesn’t need ranks in Jump to achieve the jumps we see.
+This section is reflected in [this reconstruction](https://tubercularox.github.io/darkhaunter/Geekery/0730.html#tubercular-oxs-reconstruction) of the scene.
 
 ## Profession: Goatherd
 
-Some argue that taking a class doesn’t necessarily mean earning skill points. I don’t like this interpretation; the setting is self-aware about the importance of skill points, and it’s hard to see a class that offers none being accepted as a substitute for one that does.
+Roy took [two semesters of Goat Herding](https://www.giantitp.com/comics/oots0141.html).  Some argue that these should represent points in Profession: Goat Herding because this is a self-aware parody of D&D and the characters in it know the difference between a class that teaches points in a skill like Ride and a class that offers no skill points at all. 
+
+Others feel that completing the coursework does not necessarily imply ranks in Profession: Goat Herding.
 
 # Roy's Sword
 
-I have chosen to list Roy's Sword as its own character.  It's practically the seventh member of the team.  It is a +5 Greatsword with a number of more specific qualities.
+I have chosen to list Roy's Sword as its own character.  It's practically the seventh member of the team.  It is a [+5 Greatsword](https://www.giantitp.com/comics/oots0297.html) with a number of more specific qualities.
 
 ## Call to Hand
 
@@ -99,10 +103,8 @@ The green fire that harms undead may be a more dramatic version of the Undead Ba
 
 ## Throwing
 
-Effectively throwing a greatsword the way Roy does is not the default for greatswords.  A Throwing enchantment would allow for it.
+Effectively [throwing a greatsword](https://www.giantitp.com/comics/oots1161.html) the way Roy does is not the default for greatswords.  A Throwing enchantment would allow for it.
 
 ## Conclusion
 
 Roy's sword could be a +5 Starmetal Greatsword of Undead Bane, Throwing and Legacy, with Call to Hand as a least legacy ability.  The two enchantments make it equal to a +7 Greatsword, worth 98,000 GP, or 37.7% of a 16th level character's expected wealth.  The legacy ability doesn't price well.
-
-
