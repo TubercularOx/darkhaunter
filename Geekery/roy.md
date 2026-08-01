@@ -9,6 +9,7 @@ key_sections: |
   - [Why he carries Durkon when they flee](#run)
   - [What he does in combat](#combat-reconstructions)
   - [How his sword works](#roys-sword)
+  - [What he studied in College](#profession-goatherd)
 ---
 # Roy Greenhilt
 
