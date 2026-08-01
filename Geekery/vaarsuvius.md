@@ -4,6 +4,7 @@ parent: "Order of the Stick"
 nav_order: 80
 key_sections: |
   - [How Telepathic Bond covered the party](#telepathic-bond)
+  - [How strong V is](#strength)
 ---
 
 # Vaarsuvius
@@ -41,3 +42,9 @@ The 17+ interpretation asks that *Telepathic Bond* be read as written, but puts 
 *Dragon Compendium* includes a feat, *Enspell Familiar*, which would let Blackwing count as touching V at any range up to one mile. This preserves the RAW interpretation of *Share Spells* while removing the distance objection to the 17+ reading. The feat is obscure, but Geekery focuses on the rules as written that explain the story as presented.
 
 *Enspell Familiar* would also help explain a previous scene with shared spells. Blackwing shares a spell with V in [comic 1117](https://www.giantitp.com/comics/oots1117.html), leaves V’s side in [comic 1119](https://www.giantitp.com/comics/oots1119.html) (which should end the spell), and then has the spell dispelled in [comic 1122](https://www.giantitp.com/comics/oots1122.html). Thank you to [Atomburster](https://forums.giantitp.com/showsinglepost.php?p=26374681&postcount=814) for pointing this out.
+
+# Strength
+
+V [confesses](https://www.giantitp.com/comics/oots0245.html) a Strength penalty, which means his strength should be nine or less.
+
+Reeb [reconstructs]() V's Strength from [V carrying Durkon](https://www.giantitp.com/comics/oots0835.html) and [V carrying Haley](https://www.giantitp.com/comics/oots0925.html).  The first suggests a Strength of 10, and the second suggests a strength of 11. These conflict with V's statements.
