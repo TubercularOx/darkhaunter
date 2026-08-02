@@ -32,9 +32,9 @@ Sunny is a Beholder with 8 eyestalks instead of 10.  Rich chose to give her eye
 2. Charm Person (Elan)
 3. Disintegrate ("Number 8", not used, 3 is the order it's in in the Monster Manual)
 4. Fear (Belkar)
-5. Finger of Death 
+5. Finger of Death (missing)
 6. Flesh to Stone (Durkon)
-7. Inflict Moderate Wounds
+7. Inflict Moderate Wounds (missing)
 8. Sleep (Minrah)
 9. Slow (V)
 10. Telkinesis (Haley - she loses her bow)
