@@ -188,6 +188,18 @@ This becomes more complicated if Nale retained his Hit Dice from life, but Rich 
 
 Why such a template would omit common devil powers like winged flight and greater teleport remains an open question.
 
+## Other Abilities
+
+### Damage Reduction and Regeneration
+
+In [Strip 1341](https://www.giantitp.com/comics/oots1341.html), Nale cites Damage Reduction and Regeneration as the reason why Roy's attacks are ineffective.
+
+Fast Healing and Regeneration are two similar qualities in D&D.  For story purposes, I think the most significant difference is that a character with Regeneration can't be killed except by its weakness.  Fast Healing can be outpaced with enough damage.
+
+### Spell Resistance
+
+In [Strip 1345](https://www.giantitp.com/comics/oots1341.html), O-Chul cites fiendish Spell Resistance as the reason why Nale resists Sunny's Charm Monster eye ray.
+
 ## Printed Devils as Reference Points
 
 This section follows the core premise of the Geekery thread: for the purpose of analysis, the comic is treated as though it strictly follows the D&D 3.5 rules, even when we suspect it doesn’t.
