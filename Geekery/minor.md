@@ -46,7 +46,9 @@ Finger of Death and Inflict Moderate Wounds are the two eyestalks that are missi
 
 Mimi is a mimic, so her [baseline statistics are known](https://www.d20srd.org/srd/monsters/mimic.htm). Rich has demonstrated her [Mimic Shape](https://www.giantitp.com/comics/oots1281.html) and [Adhesive](https://www.giantitp.com/comics/oots1269.html) abilities, but the usual restrictions that limit mimics to object forms and prevent substantial size changes do not appear to apply.
 
-Multiple cues suggest that Mimi is Advanced, giving her additional Hit Dice and a larger size. Her [first appearance](https://www.giantitp.com/comics/oots1238.html) establishes a size reference, Roy calls her a “[giant mimic](https://www.giantitp.com/comics/oots1281.html),” and Serini describes her as [the biggest](https://www.giantitp.com/comics/oots1269.html).  As of [comic 1338](https://www.giantitp.com/comics/oots1338.html), Mimi has been subjected to *Blasphemy*, a spell with level-dependent effects whose implications for her are not yet resolved on-panel.
+Multiple cues suggest that Mimi is Advanced, giving her additional Hit Dice and a larger size. Her [first appearance](https://www.giantitp.com/comics/oots1238.html) establishes a size reference, Roy calls her a “[giant mimic](https://www.giantitp.com/comics/oots1281.html),” and Serini describes her as [the biggest](https://www.giantitp.com/comics/oots1269.html).  In [comic 1338](https://www.giantitp.com/comics/oots1338.html), Mimi was subjected to *Blasphemy*, we find out later that she was paralyzed.  This means her Hit Dice are between 5 less than Nale's and 9 less than Nale's. We don't know Nale's Hit Dice, but he must have at least 19 or he wouldn't be able to weaken Elan.
+
+This means the lowest number of Hit Dice Mimi needs to be paralyzed is 10, which assumes that Nale has the least possible Hit Dice.  If she is a Huge Mimic then she has at least 11 Hit Dice.
 
 ## Greysky City
 
