@@ -11,7 +11,7 @@ This page has characters that don't fit the other categories. They are sorted by
 
 ### Sunny
 
-**Preferred Pronouns**
+#### Preferred Pronouns
 
 As of Strip 1341 two cases of Sunny being referred to as "them" have been found: [one by Serini](https://www.giantitp.com/comics/oots1283.html) (bottom row, middle panel)[^precure], and [one by Blackwing](https://www.giantitp.com/comics/oots1295.html). I did not find any cases of him or her.
 
@@ -22,7 +22,7 @@ If you've found a different instance of a pronoun being applied to Sunny, send m
 [^precure]: Thank you to Precure for finding this one.
 [^munchking]: Thank you to The MunchKING for pointing this out.
 
-**Sunny's Eyes**
+#### Sunny's Eyes
 
 [Strip 1241](https://www.giantitp.com/comics/oots1241.html)
 
