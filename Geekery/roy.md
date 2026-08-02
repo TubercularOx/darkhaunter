@@ -90,9 +90,9 @@ I have chosen to list Roy's Sword as its own character.  It's practically the se
 
 ## Call to Hand
 
-Rich alludes to *Weapons of Legacy* as the rulebook devoted to the idea of Roy “feeling at his sword super hard” to grant it magical abilities, but says he didn’t like it after reading it and chose not to use it.
+Rich alludes to *Weapons of Legacy* as the rulebook devoted to the idea of Roy “feeling at his sword super hard” to grant it magical abilities, but says he didn’t read it and chose not to use it. ([Question 3](https://www.patreon.com/oots/posts/answer-post-mar-36596373))
 
-However, *Call to Hand*, a least legacy ability, is a perfect match for how Roy summons his sword.
+Regardless of Rich's intent, *Call to Hand*, a least legacy ability, is worth mentioning as a perfect match for how Roy summons his sword.
 
 ## Starmetal 
 
