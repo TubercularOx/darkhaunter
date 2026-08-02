@@ -36,8 +36,8 @@ Sunny is a Beholder with 8 eyestalks instead of 10.  Rich chose to give her eye
 6. Flesh to Stone (Durkon)
 7. Inflict Moderate Wounds (missing)
 8. Sleep (Minrah)
-9. Slow (V)
-10. Telkinesis (Haley - she loses her bow)
+9. Slow (Vaarsuvius)
+10. Telekinesis (Haley - she loses her bow)
 
 Finger of Death and Inflict Moderate Wounds are the two eyestalks that are missing.  Personally I've felt they would've been disruptive to the story, but maybe Rich is trying to make a statement about Sunny's personality.  Or maybe the statement Rich wanted to make about Sunny's personality made picking which eyes to remove easier for Rich.
 
