@@ -108,4 +108,4 @@ Effectively [throwing a greatsword](https://www.giantitp.com/comics/oots1161.htm
 
 ## Conclusion
 
-Roy's sword could be a +5 Starmetal Greatsword of Undead Bane, Throwing and Legacy, with Call to Hand as a least legacy ability.  The two enchantments make it equal to a +7 Greatsword, worth 98,000 GP, or 37.7% of a 16th level character's expected wealth.  The legacy ability doesn't price well.
+Roy's sword could be a +5 Starmetal Greatsword of Undead Bane, Throwing and Legacy, with Call to Hand as a least legacy ability.  The two enchantments make it equal to a +7 Greatsword, worth 98,000 GP, or 37.7% of a 16th level character's expected wealth.  *Weapons of Legacy* would treat *Call to Hand* as a character option, like a feat, rather than an item bought with wealth.
