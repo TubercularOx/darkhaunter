@@ -194,7 +194,7 @@ Why such a template would omit common devil powers like winged flight and greate
 
 In [Strip 1341](https://www.giantitp.com/comics/oots1341.html), Nale cites Damage Reduction and Regeneration as the reason why Roy's attacks are ineffective.
 
-Fast Healing and Regeneration are two similar qualities in D&D.  For story purposes, I think the most significant difference is that a character with Regeneration can't be killed except by its weakness.  Fast Healing can be outpaced with enough damage.
+Fast Healing and Regeneration are two similar qualities in D&D.  For story purposes, I think the most significant difference is that a character with Regeneration can't be killed except by its weakness.  Fast Healing and Damage Reduction can both be outpaced with enough damage.
 
 ### Spell Resistance
 
