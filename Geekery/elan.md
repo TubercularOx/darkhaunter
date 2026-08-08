@@ -15,3 +15,5 @@ At that time, Elan plans to _eventually_ swap one of his existing spells for _Cu
 In [Strip 949](https://www.giantitp.com/comics/oots0949.html), Elan casts _Cure Critical Wounds_, with significant narrative emphasis placed on the **spell’s first on-panel use**.
 
 Taken together, this suggests Elan is **at least a 17th level Bard** when [Strip 949](https://www.giantitp.com/comics/oots0949.html) occurs. Add one level of Dashing Swordsman and Elan is **at least 18th level** overall.
+
+This follows the Rules as Written, but it places the evidence for level 17 before the later evidence that Elan has reached level 16, when he [casts](https://www.giantitp.com/comics/oots1296.html) *Mass Cure Moderate Wounds*. One alternative reconstruction is that Rich waived the restriction that the exchanged spell must be at least two levels below the highest-level Bard spell Elan could cast, allowing Elan to learn Cure Critical Wounds at Bard 14, the first level at which he could swap a spell after Strip 647. This produces a progression in which Elan demonstrates Bard levels 12, 14, and 16 in that order.
