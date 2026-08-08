@@ -29,12 +29,11 @@ This is a temporary section for discussing 1338's use of [Blasphemy](https://www
 - **Minrah** says she is too paralyzed to speak out loud. **Blackwing and Mr. Scruffy** both speak.  This suggests they haven't been paralyzed.
 - **Belkar and Serini** are confirmed to be unaffected.
 
-
 [**Strip #1341**](https://www.giantitp.com/comics/oots1341.html)
 
-- O-Chul is weakened.
-- Sunny is paralyzed.
-- Mimi appears to be paralyzed.
+- **O-Chul** is **weakened**.
+- **Sunny** is **paralyzed**.
+- **Mimi appears** to be **paralyzed**.
 
 ### A Reconstruction
 
@@ -73,13 +72,6 @@ All listed effects apply **simultaneously**.
 | **Up to caster level -10** | Killed, paralyzed, weakened, dazed |
 
 If the caster has caster level 20, then nonevil creatures with 20 HD are dazed; creatures with 16–19 HD are weakened and dazed; creatures with 11–15 HD are paralyzed, weakened, and dazed; and creatures with 10 HD or fewer are killed, paralyzed, weakened, and dazed, while creatures with more than 20 HD are unaffected.
-
-### Echoes
-In the final blasphemy panel, most characters are drawn with a doubled/afterimage effect, which may indicate they were affected. A few are not.
-
-- **Serini** may be unaffected due to relatively high Hit Dice.
-- **Belkar**, **Sabine**, and **Thog** likely qualify as Evil for the purposes of *blasphemy*, and so would not be affected.
-- **Minrah** does not appear to have the doubled effect, but it’s not yet clear why.
 
 ### Mr. Scruffy
 
