@@ -137,7 +137,7 @@ A strong counterargument is that baatezu are copyrighted and do not exist in the
 
 ## Fountain of Overriding Diminishment
 
-While the link is active, the Fountain enhances a single linked fiend’s fiendish attributes and magic powers. It is not as powerful as a soul splice.
+While the link is active, the Fountain [enhances](https://www.giantitp.com/comics/oots1324.html) a single linked fiend’s fiendish attributes and magic powers. It is not as powerful as a soul splice.
 
 “A single linked fiend” and “fiendish attributes and magic powers” emphasize fiends in a way that suggests the Fountain and its enhancements only work on such creatures and their abilities.
 
