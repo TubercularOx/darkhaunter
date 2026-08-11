@@ -147,19 +147,19 @@ After his soul empowerment, Nale has demonstrated the following:
 Nale displays hooves, horns, and an increased size. Hooves and horns could be interpreted as natural weapons, though they do not appear among the standard natural weapons of SRD devils. The *Descent of Devil* chart shows horn growth increasing with rank, suggesting fiendish progression rather than a discrete granted ability.
 
 ### Flight  
-Nale demonstrates wingless flight. This most naturally fits a supernatural ability. In the SRD, devils that can fly do so with wings, so this differs from the standard fiend chassis.
+Nale [demonstrates](https://www.giantitp.com/comics/oots1329.html) wingless flight. This most naturally fits a supernatural ability. In the SRD, devils that can fly do so with wings, so this differs from the standard fiend chassis.
 
 ### Strength  
-Nale displays dramatically increased physical strength, consistent with a broad enhancement of his physical capabilities.
+Nale [displays](https://www.giantitp.com/comics/oots1329.html) dramatically increased physical strength, consistent with a broad enhancement of his physical capabilities.
 
 ### Long-range vision  
-Nale compliments his own long-range vision. In the SRD, devils tend to have very high Spot checks but gain them through skill ranks and high Wisdom, not racial bonuses or special senses. Whether Nale’s vision reflects enhanced physical aptitude, heightened perception, or a distinct fiendish sensory ability is unclear.
+Nale [compliments](https://www.giantitp.com/comics/oots1329.html) his own long-range vision. In the SRD, devils tend to have very high Spot checks but gain them through skill ranks and high Wisdom, not racial bonuses or special senses. Whether Nale’s vision reflects enhanced physical aptitude, heightened perception, or a distinct fiendish sensory ability is unclear.
 
 ### Blasphemy  
-Nale uses *blasphemy*. Among SRD devils, this appears as an at-will spell-like ability on pit fiends. It clearly qualifies as a fiendish magic power, but it raises the question of whether the Fountain enhances specific pre-existing abilities or enhances a fiend’s magical capability as a whole, allowing new expressions to appear.
+Nale [uses](https://www.giantitp.com/comics/oots1338.html) *blasphemy*. Among SRD devils, this appears as an at-will spell-like ability on pit fiends. It clearly qualifies as a fiendish magic power, but it raises the question of whether the Fountain enhances specific pre-existing abilities or enhances a fiend’s magical capability as a whole, allowing new expressions to appear.
 
 ### Teleportation and soul energy transfer  
-Nale never teleports himself. Instead, he repeatedly weakens Sabine to use her teleport, even when doing so is costly and tactically awkward. Many fiends, including Sabine, possess *greater teleport* at will with an explicit restriction to themselves and a limited carried weight. After receiving Nale’s soul energy, Sabine teleports in ways that exceed that restriction. This represents a form of enhancement that does not grant a new ability or scale up an existing one, but instead removes a restriction on an ability Sabine already possessed.
+Nale never teleports himself. Instead, he repeatedly [weakens](https://www.giantitp.com/comics/oots1330.html) Sabine to use her teleport, even when doing so is costly and tactically awkward. Many fiends, including Sabine, possess *greater teleport* at will with an explicit restriction to themselves and a limited carried weight. After receiving Nale’s soul energy, Sabine teleports in ways that exceed that restriction. This represents a form of enhancement that does not grant a new ability or scale up an existing one, but instead removes a restriction on an ability Sabine already possessed.
 
 ### Conclusions
 Two operational models for the Fountain have been suggested.
@@ -297,6 +297,5 @@ Finally, [we know for certain](https://www.giantitp.com/comics/oots1325.html) Na
 
 ---
 
-## Under Construction
-- Template comparisons (half-fiend, fiendish)
+## For Future Study
 - High-tier devil ability parallels
